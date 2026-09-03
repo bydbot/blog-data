@@ -1,5 +1,76 @@
 [
   {
+    "id": 71992026,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691666,
+            "subjectID": 495291,
+            "sort": 4,
+            "type": 0,
+            "disc": 0,
+            "name": "姫と王子",
+            "nameCN": "公主和王子",
+            "duration": "00:24:00",
+            "airdate": "2026-07-26",
+            "comment": 176,
+            "desc": "「王子様って何？」ララは茉里の学校へと潜り込む。\r\n出会ったのは学校中の誰もが憧れる二人、ひめかと央士。\r\n運命的に見える二人の関係に、ララは興味津々。\r\n\r\n脚本：いぬいまい\r\n絵コンテ：小出卓史\r\n演出：小池裕樹\r\n作画監督：角田有希、西澤皓人"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 716,
+              "count": [
+                14,
+                5,
+                5,
+                4,
+                29,
+                139,
+                570,
+                944,
+                229,
+                45
+              ],
+              "score": 7.6,
+              "total": 1984
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788454469
+  },
+  {
     "id": 71911309,
     "uid": 588237,
     "cat": 3,
