@@ -32,16 +32,17 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const SRC_DIR = join(__dirname, "bgm-timeline", "data");
-const OUT_FILE = join(__dirname, "..", "src", "data", "bgm-timeline.json");
-const OUT_FULL_FILE = join(__dirname, "..", "src", "data", "bgm-timeline-full.json");
-const OUT_PAGE_DIR = join(__dirname, "..", "src", "data", "bgm-timeline");
+// 数据仓库布局：crawl/scripts → crawl/data（时间线原始数据）、data/（生成产物）、api/（分页）
+const SRC_DIR = join(__dirname, "..", "data");
+const OUT_FILE = join(__dirname, "..", "..", "data", "bgm-timeline.json");
+const OUT_FULL_FILE = join(__dirname, "..", "..", "data", "bgm-timeline-full.json");
+const OUT_PAGE_DIR = join(__dirname, "..", "..", "data", "bgm-timeline");
 const OUT_SUBJECTS = join(OUT_PAGE_DIR, "subjects.json");
 
 // Astro 7.0.4 在 trailingSlash: "always" 下会给动态 endpoint 路径追加尾斜杠，
 // 导致 [category]/[page].json 这类带固定后缀的路由 pattern 匹配失败（Missing parameter）。
 // 因此分页 JSON 不再走 Astro 动态路由，直接镜像成 public/ 下的静态文件，前端 URL 不变。
-const PUBLIC_PAGE_DIR = join(__dirname, "..", "public", "api", "bgm-timeline");
+const PUBLIC_PAGE_DIR = join(__dirname, "..", "..", "api", "bgm-timeline");
 
 // 里程碑 collect 动作：完结态 + 进行态（决定是否富化完整字段）
 const MILESTONE_ACTIONS = new Set([

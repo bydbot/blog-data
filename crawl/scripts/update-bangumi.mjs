@@ -7,17 +7,14 @@ const API_HEADERS = {
 	// Bangumi 官方文档要求所有请求携带 User-Agent
 	"User-Agent": "bydbot-blog-bgm-sync/1.0 (https://github.com; bangumi data sync)",
 };
-const CONFIG_PATH = path.join(
-	path.dirname(fileURLToPath(import.meta.url)),
-	"../src/config/siteConfig.ts",
-);
+// 数据仓库布局：crawl/scripts → data/（生成产物入库）、crawl/state/（增量状态入库）
 const OUTPUT_FILE = path.join(
 	path.dirname(fileURLToPath(import.meta.url)),
-	"../src/data/bangumi-data.json",
+	"../../data/bangumi-data.json",
 );
 const STATE_FILE = path.join(
 	path.dirname(fileURLToPath(import.meta.url)),
-	".bangumi-state.json",
+	"../state/.bangumi-state.json",
 );
 
 async function loadJsonOrNull(filePath) {
@@ -34,55 +31,12 @@ async function loadState() {
 }
 
 async function saveState(state) {
+	await fs.mkdir(path.dirname(STATE_FILE), { recursive: true });
 	await fs.writeFile(STATE_FILE, JSON.stringify(state, null, 2));
 }
 
 function extractSubjectId(entry) {
 	return entry?.link?.match(/subject\/(\d+)/)?.[1] || null;
-}
-
-async function getUserIdFromConfig() {
-	try {
-		const configContent = await fs.readFile(CONFIG_PATH, "utf-8");
-		const match = configContent.match(
-			/bangumi:\s*\{[\s\S]*?userId:\s*["']([^"']+)["']/,
-		);
-
-		if (match && match[1]) {
-			const userId = match[1];
-			if (
-				userId === "your-bangumi-id" ||
-				userId === "your-user-id" ||
-				!userId
-			) {
-				console.warn(
-					"Warning: userId in src/config/siteConfig.ts appears to be a default value.",
-				);
-				return userId;
-			}
-			return userId;
-		}
-		throw new Error("Could not find bangumi.userId in config/siteConfig.ts");
-	} catch (error) {
-		console.error("✘ Failed to read Bangumi ID from config/siteConfig.ts");
-		throw error;
-	}
-}
-
-async function getAnimeModeFromConfig() {
-	try {
-		const configContent = await fs.readFile(CONFIG_PATH, "utf-8");
-		const match = configContent.match(
-			/anime:\s*\{[\s\S]*?mode:\s*["']([^"']+)["']/,
-		);
-
-		if (match && match[1]) {
-			return match[1];
-		}
-		return "bangumi";
-	} catch (error) {
-		return "bangumi";
-	}
 }
 
 // 模拟延迟防止 API 限制
@@ -266,18 +220,11 @@ async function processData(items, status, { oldById, state, forceFull }) {
 }
 
 async function main() {
-		console.log("Initializing Bangumi data update script...");
+	console.log("Initializing Bangumi data update script...");
 
-		const animeMode = await getAnimeModeFromConfig();
-		if (animeMode !== "bangumi") {
-			console.log(
-				`Detected current anime mode is "${animeMode}", skipping Bangumi data update.`,
-			);
-			return;
-		}
-
-		const USER_ID = await getUserIdFromConfig();
-		console.log(`Read User ID: ${USER_ID}`);
+	// 用户 ID 从环境变量读取（数据仓库不再依赖博客 siteConfig.ts）
+	const USER_ID = process.env.BGM_USER_ID || "588237";
+	console.log(`Read User ID: ${USER_ID}`);
 
 		// 增量基线：旧数据文件（条目）+ 时间戳状态
 		const oldList = await loadJsonOrNull(OUTPUT_FILE);

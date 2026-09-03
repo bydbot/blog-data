@@ -1,0 +1,22 @@
+name: Trigger Blog Build on Content Push
+
+# 用户手动 push 博客内容（posts/spec/data/images/api）时触发 Cloudflare Pages 构建。
+# 注意：cron 的自动 push（GITHUB_TOKEN）不会触发本 workflow（GitHub 防递归设计），
+# 数据更新后的构建由 update.yml 里的 build hook 调用负责，不会双重触发。
+on:
+  push:
+    branches: [main]
+    paths:
+      - "posts/**"
+      - "spec/**"
+      - "data/**"
+      - "images/**"
+      - "api/**"
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages build
+        run: |
+          curl -sS -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}" -d '{}'

@@ -6,8 +6,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const INPUT = path.join(__dirname, "data/collections.json");
-const OUTPUT = path.join(__dirname, "../../src/data/bangumi-data.json");
+// 数据仓库布局：crawl/scripts → ../data/collections.json（爬虫兜底源）、../../data/（产物）
+const INPUT = path.join(__dirname, "../data/collections.json");
+const OUTPUT = path.join(__dirname, "../../data/bangumi-data.json");
 
 const TYPE_MAP = {
   1: "planned",    // 想看
