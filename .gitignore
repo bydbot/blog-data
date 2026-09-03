@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# 爬虫日志
+*.log
+
+# 视频等大文件（如需要再放开）
+*.mp4
+*.mkv
