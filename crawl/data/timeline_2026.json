@@ -1,5 +1,76 @@
 [
   {
+    "id": 72018511,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691667,
+            "subjectID": 495291,
+            "sort": 5,
+            "type": 0,
+            "disc": 0,
+            "name": "ケーキのためなら死ねます！",
+            "nameCN": "为了蛋糕愿意赴死！",
+            "duration": "00:24:00",
+            "airdate": "2026-08-02",
+            "comment": 175,
+            "desc": "江万の提案で、ララと茉里はアルバイトを始めることに。\r\n二人を唯一雇ってくれたのはお城のようなケーキ屋さん。\r\n初めての仕事に苦戦するララに、店長は「仕事は拷問」と告げる。\r\n\r\n脚本：川原杏奈\r\n絵コンテ：廣江啓輔\r\n演出：廣江啓輔\r\n作画監督：廣江啓輔、佐藤ひかる、辻雅俊、芳治治哉"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 715,
+              "count": [
+                14,
+                5,
+                5,
+                4,
+                29,
+                139,
+                572,
+                948,
+                230,
+                46
+              ],
+              "score": 7.61,
+              "total": 1992
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788539140
+  },
+  {
     "id": 71992026,
     "uid": 588237,
     "cat": 4,
