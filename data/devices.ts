@@ -146,4 +146,21 @@ export const devicesData: DeviceCategory = {
 			],
 		},
 	],
+	"战斗鸡": [
+		{
+			name: "Switch 续航版",
+			image: "",
+			specs: "掌机 / Switch 系统",
+			description: "现役掌机",
+			link: "",
+			details: [
+				{ label: "处理器", value: "Tegra X1+" },
+				{ label: "屏幕", value: "6.2 英寸 720P LCD" },
+				{ label: "内存", value: "4GB" },
+				{ label: "存储", value: "32GB+256GB" },
+				{ label: "电池", value: "4310mAh" },
+			],
+		},
+	],
 };
+
