@@ -1,5 +1,219 @@
 [
   {
+    "id": 72051752,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691669,
+            "subjectID": 495291,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "土曜の10時、びわ湖テラスで",
+            "nameCN": "星期六10点，在琵琶湖露台",
+            "duration": "00:24:00",
+            "airdate": "2026-08-16",
+            "comment": 341,
+            "desc": "ララが出会った少年・ルカは、かつて恋をした王子に瓜二つだった。\r\n王子との過去の辛い記憶から、ララはルカを避ける。\r\nだけど、ルカはどうやら王子とは違うみたい。少しずつララの心は動き始める。\r\n\r\n脚本：いぬいまい\r\n絵コンテ：河浪栄作\r\n演出：河浪栄作\r\n作画監督：川瀬蛍、谷紫織"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 712,
+              "count": [
+                14,
+                5,
+                6,
+                4,
+                30,
+                140,
+                577,
+                952,
+                230,
+                47
+              ],
+              "score": 7.6,
+              "total": 2005
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788627600
+  },
+  {
+    "id": 72050378,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691668,
+            "subjectID": 495291,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "わたしを照らす光",
+            "nameCN": "照亮我的光芒",
+            "duration": "00:24:00",
+            "airdate": "2026-08-09",
+            "comment": 201,
+            "desc": "「人魚と人間が愛し合うなんて許さない」\r\nララの姉・リサには並々ならぬ人間への恨みがあった。\r\nリサとしもべのコータが人間として生きるようになった、その過去が明かされる。\r\n\r\n脚本：青瀬宥介\r\n絵コンテ：小里明花\r\n演出：小里明花\r\n作画監督：小里明花、谷紫織(C Part)"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 712,
+              "count": [
+                14,
+                5,
+                6,
+                4,
+                30,
+                140,
+                577,
+                952,
+                230,
+                47
+              ],
+              "score": 7.6,
+              "total": 2005
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788625561
+  },
+  {
+    "id": 72048649,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716837,
+            "subjectID": 517106,
+            "sort": 15,
+            "type": 0,
+            "disc": 0,
+            "name": "時行と三大将",
+            "nameCN": "时行与三大将",
+            "duration": "00:23:40",
+            "airdate": "2026-07-31",
+            "comment": 56,
+            "desc": "前回の戦の後、京に逃げ帰っていた国司・清原が信濃に戻ってきた。\r\n残虐さを増した清原は、北信濃の親北条派に対し大規模な侵略を開始。\r\n清原・貞宗の連合軍に対抗するべく、頼重直属の郎党にして諏訪神党の三大将・祢津、望月、海野が極秘の援軍として戦に加わる。\r\n諏訪方の主な勢力は北信濃北部の常岩宗家、中央部の保科・四宮、南部の犬甘知光。\r\n時行ら逃若党は、各戦場を駆けまわる絶対に捕まってはいけない伝令役を担う。\r\n鎌倉奪還への決起前、最大最後の前哨戦が始まる――！\r\n\r\n脚本：山崎莉乃\r\n絵コンテ：小室裕一郎\r\n演出：小室裕一郎\r\n作画監督：有間涼太、山崎 淳、吳 亭頣、高橋沙妃、Nogya"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3311,
+              "count": [
+                3,
+                1,
+                4,
+                8,
+                19,
+                71,
+                219,
+                66,
+                10,
+                5
+              ],
+              "score": 6.83,
+              "total": 406
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788622950
+  },
+  {
     "id": 72018511,
     "uid": 588237,
     "cat": 4,
