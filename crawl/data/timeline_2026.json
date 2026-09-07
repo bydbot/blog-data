@@ -1,5 +1,789 @@
 [
   {
+    "id": 72121654,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705012,
+            "subjectID": 545917,
+            "sort": 5,
+            "type": 0,
+            "disc": 0,
+            "name": "みんなで行こう！ 〜漫画に「想い」をこめよう",
+            "nameCN": "大家一起去吧！ 〜把「心意」倾注在漫画里",
+            "duration": "00:23:00",
+            "airdate": "2026-07-31",
+            "comment": 133,
+            "desc": "在石龙的建议下，漫研成员决定报名参「COMITIA」。其他人都很快取得家长的同意，唯独藤森迟迟无法向母亲开口。藤森苦恼于自己总是无法对母亲说出心里话，心想如果和漫研的伙伴在一起，或许就能说出口。于是为了准备期末考，大家决定一起到藤森老家的旅馆读书。\r\n\r\n石龍の助言もあり、「コミティア」に参加することになった漫研メンバー。それぞれ、親から早々に参加許可を得る中、藤森だけは母親になかなか言い出せずにいた。\r\n言いたいことが言えない母親との関係に悩んでいた藤森は、漫研メンバーと一緒なら話せると考え、期末試験に向けて藤森の実家の旅館で、みんなで勉強することになる。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 407,
+              "count": [
+                4,
+                1,
+                2,
+                5,
+                24,
+                79,
+                405,
+                934,
+                250,
+                71
+              ],
+              "score": 7.83,
+              "total": 1775
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788800081
+  },
+  {
+    "id": 72120297,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699518,
+            "subjectID": 627136,
+            "sort": 1,
+            "type": 0,
+            "disc": 0,
+            "name": "メリーさん／テケテケ／ミニアニメ劇場 その1",
+            "nameCN": "",
+            "duration": "23:53",
+            "airdate": "2026-07-03",
+            "comment": 112,
+            "desc": "メリーさん／テケテケ\r\n深夜の高層ビルに鳴り響く電話のコール音。\r\nその向こうから聞こえるのは「わたし、メリーさん」。\r\n逃げ込む部屋、駆ける廊下、全ての電話を介してメリーさんがシヅカを追う。\r\nシヅカを追い詰めたメリーさんが遭遇したものとは!?\r\n事故で失った下半身を求めて彷徨うテケテケ。\r\nカムイから無理矢理その話を聞かされたシヅカの前に「お約束」通り現れるが、\r\nそれはカムイが張った巧妙な罠だった。\r\n\r\n脚本: 中條 元史\r\n絵コンテ: つくも匠\r\n演出: 金 元会\r\n作画監督: WUXI HUAXIAN ANIMATION PRODUCTION／孙强／王晓明／王建／范东东\r\n\r\nミニアニメ劇場 その1\r\n1本目: スナックはざま①\r\n2本目: デスゲーム①"
+          },
+          "subject": {
+            "id": 627136,
+            "name": "うしろの正面カムイさん",
+            "nameCN": "从后面来的神威先生",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / つくも匠 / えろき；作画: コノシロしんこ（小学館「マンガワン」連載中） / 山下敏成",
+            "metaTags": [
+              "喜剧",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 8987,
+              "count": [
+                6,
+                6,
+                23,
+                66,
+                251,
+                353,
+                85,
+                19,
+                2,
+                9
+              ],
+              "score": 5.58,
+              "total": 820
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/01/8f/627136_hb0Jd.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788797634
+  },
+  {
+    "id": 72118339,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1653790,
+            "subjectID": 493724,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "小鳥遊沙羅 / 藤沢江里 / 雅楽川静香",
+            "nameCN": "小鸟游沙罗／藤泽江里／雅乐川静香",
+            "duration": "00:23:40",
+            "airdate": "2026-05-28",
+            "comment": 105,
+            "desc": "「陽サマみたいになりたい」――若菜の卒業から数年後。\r\n淡島歌劇のスターとなった絹枝に憧れ、淡島に入寮する沙羅。\r\n新生代の少女たちは、同じ夢を抱きながら友情を育み――\r\n\r\nStaff\r\n脚本：中西やすひろ\r\n絵コンテ：銀さん\r\n演出：増原光幸、DR MOVIE (Hwang Iljin)\r\n総作画監督：濱田邦彦\r\n作画監督：銀さん、DR MOVIE (Go Yu il、Kim Bong deok、Sin Seong min、Han Seung jin、Yun Seung hyeon、Jo Ju seon)"
+          },
+          "subject": {
+            "id": 493724,
+            "name": "淡島百景",
+            "nameCN": "淡岛百景",
+            "type": 2,
+            "info": "12话 / 2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+            "metaTags": [
+              "百合",
+              "校园",
+              "TV",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 643,
+              "count": [
+                10,
+                4,
+                5,
+                19,
+                60,
+                216,
+                643,
+                1016,
+                366,
+                123
+              ],
+              "score": 7.66,
+              "total": 2462
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/bd/33/493724_V6lXx.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788795199
+  },
+  {
+    "id": 72116268,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1653789,
+            "subjectID": 493724,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "山県沙織と武内実花子 / 武内実花子と山県沙織",
+            "nameCN": "山县沙织与武内实花子／武内实花子与山县沙织",
+            "duration": "00:23:40",
+            "airdate": "2026-05-21",
+            "comment": 70,
+            "desc": "「みんなでまた同じ舞台に立とう。誰一人欠けちゃダメだからね」――\r\n女優として活躍を続ける沙織は、過労で倒れ舞台を降板。\r\n新たにキャスティングされたのは病で淡島を去った同級生、実花子だった。\r\n\r\nStaff\r\n脚本：綾奈ゆにこ\r\n絵コンテ・演出：渡邉こと乃\r\n総作画監督：濱田邦彦\r\n作画監督：藤澤俊幸、吉川真一"
+          },
+          "subject": {
+            "id": 493724,
+            "name": "淡島百景",
+            "nameCN": "淡岛百景",
+            "type": 2,
+            "info": "12话 / 2026年4月9日 / 浅香守生 / 志村貴子（『淡島百景』太田出版） / 濱田邦彦",
+            "metaTags": [
+              "百合",
+              "校园",
+              "TV",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 643,
+              "count": [
+                10,
+                4,
+                5,
+                19,
+                60,
+                216,
+                643,
+                1016,
+                366,
+                123
+              ],
+              "score": 7.66,
+              "total": 2462
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/bd/33/493724_V6lXx.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788792426
+  },
+  {
+    "id": 72114982,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1696993,
+            "subjectID": 552533,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "大カトゥン　ボラクチン",
+            "nameCN": "大皇妃（大可敦） 孛剌合真",
+            "duration": "00:23:43",
+            "airdate": "2026-08-15",
+            "comment": 119,
+            "desc": "读写能力受到赏识的希塔拉协助书记官工作。在窝阔台的第四皇妃木哥的引荐下，她得以谒见第一皇后（大可敦）孛剌合真。见到卧病在床的孛剌合真，希塔拉利用至今所学的知识，推测出她的病因与治疗方法，成功取得了她的信任。而她也开始暗中进行让蒙古帝国从内部分裂的计划。\r\n\r\n読み書きの能力を買われて書記官の仕事を手伝うことになったシタラは、オゴタイの第四妃モゲの仲介で第一皇后（大カトゥン）のボラクチンに謁見。病身のボラクチンを見たシタラは、これまで得た知識を使ってその原因と治療法を言い当て、懐に入り込むことに成功。モンゴル帝国を内部分裂させる計画を水面下で進め始める。\r\n\r\n脚本：佐藤寿昭\r\n絵コンテ・演出：村越麻海\r\n絵コンテ協力：藤倉拓也\r\n作画監督：内村瞳子、木下絵李、堀江由美、Nicholas McKergow、チャミョンジュン（WHITE LINE）"
+          },
+          "subject": {
+            "id": 552533,
+            "name": "天幕のジャードゥーガル",
+            "nameCN": "穹庐下的魔女",
+            "type": 2,
+            "info": "12话 / 2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "历史"
+            ],
+            "rating": {
+              "rank": 248,
+              "count": [
+                10,
+                3,
+                5,
+                9,
+                26,
+                79,
+                391,
+                1420,
+                527,
+                116
+              ],
+              "score": 7.99,
+              "total": 2586
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/28/41/552533_E9DF9.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788790797
+  },
+  {
+    "id": 72113398,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1696992,
+            "subjectID": 552533,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "兄弟",
+            "nameCN": "兄弟",
+            "duration": "00:23:43",
+            "airdate": "2026-08-08",
+            "comment": 112,
+            "desc": "希塔拉与脱列哥那联手，发誓要在蒙古帝国掀起一场复仇的暴风雨。脱列哥那利用蒙古皇帝窝阔台之妻的身份参加总会议，借机搜集情报。从脱列哥那口中得知蒙古即将发动新战争的计划后，希塔拉开始策划在掌握皇权的窝阔台与握有军权的托雷之间挑起不合。\r\n\r\nシタラはドレゲネと結託し、モンゴル帝国に復讐の嵐を起こすことを誓う。ドレゲネはモンゴル皇帝(大カアン)であるオゴタイの妻としての立場を利用し、総会議（クリルタイ）に参加して情報収集を行う。ドレゲネから新たな戦争の作戦を聞いたシタラは、権威を持つオゴタイと、軍事力を持つトルイとの間に不和を起こそうと画策する。\r\n\r\n脚本：井上美緒\r\n絵コンテ：安部祐二郎、Nicholas McKergow\r\n演出：安部祐二郎\r\n作画監督：MION、Nicholas McKergow、小倉典子、太田琴美、松田K子"
+          },
+          "subject": {
+            "id": 552533,
+            "name": "天幕のジャードゥーガル",
+            "nameCN": "穹庐下的魔女",
+            "type": 2,
+            "info": "12话 / 2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "历史"
+            ],
+            "rating": {
+              "rank": 248,
+              "count": [
+                10,
+                3,
+                5,
+                9,
+                26,
+                79,
+                391,
+                1420,
+                527,
+                116
+              ],
+              "score": 7.99,
+              "total": 2586
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/28/41/552533_E9DF9.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788788497
+  },
+  {
+    "id": 72110262,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716838,
+            "subjectID": 517106,
+            "sort": 16,
+            "type": 0,
+            "disc": 0,
+            "name": "愛の戦士！信濃仮面",
+            "nameCN": "爱之战士！信浓假面",
+            "duration": "00:23:40",
+            "airdate": "2026-08-07",
+            "comment": 50,
+            "desc": "僅かな休息の時も惜しんで、味方に情報を伝えるため奔走する時行一行。\r\nしかし、望月・常岩の戦う「北」の戦場に到着した時行たちが目の当たりにしたのは、燃え盛り陥ちる砦だった……。\r\n父である望月重信を思い、崩れ落ちる亜也子。\r\nその姿に、時行は言葉を失う。\r\n「北」の砦を失った今、「中」の戦場で国司を討ち破ることが最重要。\r\n改めて戦略を練り直す軍議が行われるも打開策を欠くなか、伝令として得た情報を元に雫が進言をする。\r\n果たしてその策は、行き詰まる状況を打破できるのか――。\r\n\r\n脚本：山崎莉乃\r\n絵コンテ：喜友名 陽\r\n演出：喜友名 陽\r\n作画監督：進藤麻耶、三輪修平、冨田真理"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3272,
+              "count": [
+                3,
+                1,
+                4,
+                8,
+                19,
+                73,
+                226,
+                67,
+                10,
+                5
+              ],
+              "score": 6.83,
+              "total": 416
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788782943
+  },
+  {
+    "id": 72109169,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699972,
+            "subjectID": 339515,
+            "sort": 5,
+            "type": 0,
+            "disc": 0,
+            "name": "貧乏籤",
+            "nameCN": "下下签",
+            "duration": "00:23:40",
+            "airdate": "2026-08-05",
+            "comment": 42,
+            "desc": "イルドア王国経由の和平交渉は先送りとなり、\r\n帝国軍は更に有利な条件を得るべく、連邦の資源地帯制圧を\r\n目指す大規模攻勢「アンドロメダ計画」を発動する。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：山本貴之　\r\n演出：三浦慧\r\n総作画監督：細越裕治　\r\n作画監督：栗田新一、東亮太"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1939,
+              "count": [
+                13,
+                2,
+                2,
+                6,
+                18,
+                102,
+                277,
+                220,
+                32,
+                28
+              ],
+              "score": 7.17,
+              "total": 700
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788780717
+  },
+  {
+    "id": 72106634,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701427,
+            "subjectID": 622206,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーも親から生まれたにゃ",
+            "nameCN": "本喵也是人生父母养的喵",
+            "duration": "00:23:40",
+            "airdate": "2026-08-13",
+            "comment": 154,
+            "desc": "寝相の悪いヤニねこが偶然描き出した魔法陣から「ニコチンの悪魔」召☆喚！しかし、悪魔は部屋のあまりの汚さと不潔さに耐えかねて即バウンス……。 世界が汚部屋に救われる中、たくさん稼ぎたいヤニねこは派遣会社の紹介で、怪しい地下施設の清掃バイトへ。コイツそんなんばっかだな。 一方、台風で家を流されたペンペンねこを大家が優しくアパートへ迎え入れようとするが、思わぬアクシデントが発生する。たたないで。\r\n\r\n脚本：あおしまたかし\r\n絵コンテ・演出：米田光宏\r\n総作画監督：松浦力、能海知佳"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "喜剧",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1440,
+              "count": [
+                38,
+                11,
+                19,
+                38,
+                121,
+                435,
+                1465,
+                1311,
+                249,
+                174
+              ],
+              "score": 7.31,
+              "total": 3861
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788774321
+  },
+  {
+    "id": 72103229,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704826,
+            "subjectID": 501963,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "ターニングポイント4",
+            "nameCN": "转折点4",
+            "duration": "00:23:40",
+            "airdate": "2026-09-06",
+            "comment": 230,
+            "desc": "鲁迪乌斯一行人摆脱阿托菲拉托菲的追击，取得了据说对「杜莱病」有效的索卡司草。七星也因此保住了性命。在鲁迪乌斯久违地回到家中的那个夜晚，人神现身给了他一则建议。而当鲁迪乌斯正要依照那则建议行动时，一名来历不明的人物出现了……。\r\n\r\nアトーフェラトーフェの追撃を振り切り、「ドライン病」に効果があるとされるソーカス草を手に入れたルーデウスたち。果たしてナナホシの病気を治せるのか…!? そしてルーデウスが久しぶりの我が家に帰宅した夜、ヒトガミが現れ助言を行う。ルーデウスがその助言に従おうとすると、謎の人物が現れる――。"
+          },
+          "subject": {
+            "id": 501963,
+            "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+            "nameCN": "无职转生 第三季 ～到了异世界就拿出真本事～",
+            "type": 2,
+            "info": "14话 / 2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "日本",
+              "奇幻",
+              "冒险",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 306,
+              "count": [
+                45,
+                10,
+                15,
+                20,
+                67,
+                180,
+                713,
+                1625,
+                565,
+                444
+              ],
+              "score": 7.9,
+              "total": 3684
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1f/9e/501963_bXlEP.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788765454
+  },
+  {
+    "id": 72101255,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1656861,
+            "subjectID": 633836,
+            "sort": 81,
+            "type": 0,
+            "disc": 0,
+            "name": "一途な星",
+            "nameCN": "专一之星",
+            "duration": "00:23:40",
+            "airdate": "2026-09-02",
+            "comment": 127,
+            "desc": "雷伊德没有留在第二层的试验会场，而是在塔内自由阔步。原来是因为雷伊德的灵魂占据了剩下的「暴食」罗伊・爱尔法德的肉体。魔兽大进击、两个大罪司教、突然出现的大蝎子、以及猛然窜出的漆黑身影。为了跨越这五个障碍，昴在「死亡回归」后追问夏乌拉隐瞒的「试验」规则──接着，昴展开了攻略普莱迪斯监视塔的尝「死」错误。\r\n\r\n二層の試験会場に留まらず、塔内を自由に闊歩するレイド。それは残る『暴食』のロイ・アルファルドの肉体をレイドの魂が乗っ取ったせいだった。魔獣のスタンピード。二人の大罪司教。突如出現した大サソリ。そして突きのぼる漆黒の影。五つの障害を超えるため、『死に戻り』したスバルはシャウラが秘める『試験』のルールを問い詰める。――そして、プレアデス監視塔を攻略するための『死』行錯誤が始まる。\r\n\r\n脚本：梅原英司　絵コンテ：原英和、小島正幸　演出：原英和\r\n総作画監督：佐川遥、野田康行\r\n作画監督：宮部唯、永吉隆志、持丸彰親、富永武志、佐川遥、村田大亮、三浦瞳、平松伸行、菊池隼也、Seo Jeong-ha、\r\n（RACRAFT Light Nest Studio）Mooseky、（RACRAFT）GrandGuerrilla"
+          },
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "冒险",
+              "奇幻",
+              "小说改",
+              "战斗",
+              "日本",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 356,
+              "count": [
+                11,
+                2,
+                0,
+                4,
+                13,
+                47,
+                230,
+                542,
+                140,
+                94
+              ],
+              "score": 7.87,
+              "total": 1083
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788760028
+  },
+  {
     "id": 72090232,
     "uid": 588237,
     "cat": 4,

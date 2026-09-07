@@ -1,15 +1,111 @@
 [
   {
+    "sid": 545917,
+    "name": "これ描いて死ね",
+    "name_cn": "画完这个再去死",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-08T00:54:41+08:00"
+  },
+  {
+    "sid": 627136,
+    "name": "うしろの正面カムイさん",
+    "name_cn": "从后面来的神威先生",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-08T00:13:54+08:00"
+  },
+  {
+    "sid": 493724,
+    "name": "淡島百景",
+    "name_cn": "淡岛百景",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-07T23:33:19+08:00"
+  },
+  {
+    "sid": 552533,
+    "name": "天幕のジャードゥーガル",
+    "name_cn": "穹庐下的魔女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-07T22:19:57+08:00"
+  },
+  {
+    "sid": 517106,
+    "name": "逃げ上手の若君 第二期",
+    "name_cn": "擅长逃跑的殿下 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 4,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-07T20:09:03+08:00"
+  },
+  {
+    "sid": 339515,
+    "name": "幼女戦記Ⅱ",
+    "name_cn": "幼女战记 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-07T19:31:57+08:00"
+  },
+  {
+    "sid": 622206,
+    "name": "ヤニねこ",
+    "name_cn": "尼古喵喵",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 7,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-07T17:45:21+08:00"
+  },
+  {
+    "sid": 501963,
+    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 11,
+    "eps": 14,
+    "comment": "",
+    "updated_at": "2026-09-07T15:17:34+08:00"
+  },
+  {
     "sid": 633836,
     "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
     "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 3,
+    "ep_status": 4,
     "eps": 8,
     "comment": "",
-    "updated_at": "2026-09-07T01:29:49+08:00"
+    "updated_at": "2026-09-07T13:47:08+08:00"
   },
   {
     "sid": 585820,
@@ -36,30 +132,6 @@
     "updated_at": "2026-09-06T01:00:00+08:00"
   },
   {
-    "sid": 517106,
-    "name": "逃げ上手の若君 第二期",
-    "name_cn": "擅长逃跑的殿下 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 3,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-05T23:42:30+08:00"
-  },
-  {
-    "sid": 501963,
-    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 10,
-    "eps": 14,
-    "comment": "",
-    "updated_at": "2026-09-01T01:05:47+08:00"
-  },
-  {
     "sid": 615835,
     "name": "鉄鍋のジャン",
     "name_cn": "炒翻天",
@@ -72,30 +144,6 @@
     "updated_at": "2026-08-30T23:00:40+08:00"
   },
   {
-    "sid": 622206,
-    "name": "ヤニねこ",
-    "name_cn": "尼古喵喵",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-08-30T17:16:21+08:00"
-  },
-  {
-    "sid": 493724,
-    "name": "淡島百景",
-    "name_cn": "淡岛百景",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-30T15:24:07+08:00"
-  },
-  {
     "sid": 471793,
     "name": "君のことが大大大大大好きな100人の彼女 第2期",
     "name_cn": "超超超超超喜欢你的100个女朋友 第二季",
@@ -106,18 +154,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-08-25T21:49:03+08:00"
-  },
-  {
-    "sid": 339515,
-    "name": "幼女戦記Ⅱ",
-    "name_cn": "幼女战记 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-25T20:00:31+08:00"
   },
   {
     "sid": 530725,
@@ -156,30 +192,6 @@
     "updated_at": "2026-08-24T14:12:26+08:00"
   },
   {
-    "sid": 552533,
-    "name": "天幕のジャードゥーガル",
-    "name_cn": "穹庐下的魔女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-24T11:28:05+08:00"
-  },
-  {
-    "sid": 545917,
-    "name": "これ描いて死ね",
-    "name_cn": "画完这个再去死",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-24T00:23:06+08:00"
-  },
-  {
     "sid": 477825,
     "name": "ぬきたし THE ANIMATION",
     "name_cn": "拔作岛",
@@ -202,18 +214,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-08-22T13:47:27+08:00"
-  },
-  {
-    "sid": 627136,
-    "name": "うしろの正面カムイさん",
-    "name_cn": "从后面来的神威先生",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-17T20:43:48+08:00"
   },
   {
     "sid": 638497,
