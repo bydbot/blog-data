@@ -1,5 +1,430 @@
 [
   {
+    "id": 72151729,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1696994,
+            "subjectID": 552533,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "天（テングリ）",
+            "nameCN": "长生天（腾格里）",
+            "duration": "00:23:43",
+            "airdate": "2026-08-22",
+            "comment": 120,
+            "desc": "蒙古帝国与金国开战。面对十五万敌军，由托雷率领的蒙古军仅以四万兵力迎战，却凭借「围猎」战术意外地大获全胜。蒙古帝国进一步扩张领土，国势也愈发鼎盛。就在此时，脱列哥那却一反常态，开始回避希塔拉。某天晚上，她更要希塔拉不要到她的穹庐去。心生怀疑的希塔拉于是暗中前去查看情况，但……\r\n\r\nモンゴル帝国と金国が開戦。敵軍15万に対し、たったの4万で挑んだトルイ率いるモンゴル軍だったが、「巻き狩り」で大金星を収める。領土をさらに拡大し、ますます栄華を極めるモンゴル帝国。その最中、ドレゲネに異変が。シタラを避けるようになり、ある夜「私の天幕に来ないように」と言い渡す。不審に感じたシタラは密かに様子を見に行くが……。\r\n\r\n脚本：井上美緒\r\n絵コンテ・演出：松永浩太郎\r\n作画監督：MION、石松、小倉典子、永留あい、阿見圭之介、チャミョンジュン（WHITE LINE）、クジャチョン（WHITE LINE）"
+          },
+          "subject": {
+            "id": 552533,
+            "name": "天幕のジャードゥーガル",
+            "nameCN": "穹庐下的魔女",
+            "type": 2,
+            "info": "12话 / 2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "历史"
+            ],
+            "rating": {
+              "rank": 250,
+              "count": [
+                10,
+                3,
+                5,
+                9,
+                26,
+                80,
+                391,
+                1428,
+                529,
+                120
+              ],
+              "score": 8,
+              "total": 2601
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/28/41/552533_E9DF9.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788886234
+  },
+  {
+    "id": 72149903,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705013,
+            "subjectID": 545917,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "コミティア 〜もっと面白い漫画を描こう！",
+            "nameCN": "COMITIA ～来画更有趣的漫画吧！",
+            "duration": "00:23:00",
+            "airdate": "2026-08-07",
+            "comment": 123,
+            "desc": "王岛南高中漫研成员穿着同款T恤，首次参加COMITIA。\r\n手岛老师和赤福逛会场时，安海与藤森尽管紧张，仍开始在摊位上颁布本子。\r\n手岛一边逛着会场，一边回想起自己当年首次在这里颁布作品的那一天。\r\n另一方面，安海与藤森因本子迟迟卖不出去而越来越焦急，然而……\r\n\r\nおそろいのＴシャツを着込み、初めてのコミティアに参加する王島南高校漫研のメンバー。\r\n手島先生と赤福が会場を回る中、安海と藤森は緊張しながらもブースで頒布を始める。\r\n手島は会場を回りながら、かつてこの場所で初めて作品を頒布した日のことを思い出していた。\r\n一方、なかなか売れずに焦りが募る安海と藤森だったが─。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 406,
+              "count": [
+                4,
+                1,
+                2,
+                5,
+                25,
+                79,
+                404,
+                938,
+                253,
+                72
+              ],
+              "score": 7.83,
+              "total": 1783
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788883241
+  },
+  {
+    "id": 72148449,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699974,
+            "subjectID": 339515,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "煉獄",
+            "nameCN": "炼狱",
+            "duration": "00:23:40",
+            "airdate": "2026-08-19",
+            "comment": 64,
+            "desc": "ソルディムでターニャ達は持ちこたえた。\r\nところが、肝心のアンドロメダ計画が頓挫。\r\n休暇を兼ねて帝都に戻ったターニャは、\r\nそこで、後方がなお勝利に執着する実情に驚愕することになる。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：梅本駿平　\r\n演出：梅本駿平\r\n総作画監督：細越裕治\r\n作画監督：三島詠子、中山見都美、\r\nスタジオカフカ（井嶋けい子、鈴木穂香）、WUXI HUAXIAN ANIMATION PRODUCTION（Hong In Soo）、\r\nアップクォーク（金城優）、LAZO ブルーアトリエ（大飛、咪咪）、LO studio（Jang Hee-sun）"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1951,
+              "count": [
+                13,
+                2,
+                2,
+                6,
+                19,
+                102,
+                277,
+                220,
+                32,
+                28
+              ],
+              "score": 7.16,
+              "total": 701
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788881458
+  },
+  {
+    "id": 72134360,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699973,
+            "subjectID": 339515,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "囮",
+            "nameCN": "诱饵",
+            "duration": "00:23:40",
+            "airdate": "2026-08-12",
+            "comment": 78,
+            "desc": "「アンドロメダ計画」が進捗する中、\r\nターニャの部隊は包囲されたソルディム528陣地で苦戦していた。\r\nゼートゥーアの救援は、間に合うのだろうか？\r\n\r\n脚本：猪原健太　\r\n絵コンテ：久保雄介　\r\n演出：古賀一臣\r\n総作画監督：細越裕治\r\n作画監督：緒方歩惟、南井尚子、三好和也、Hong In Soo、スタジオカフカ（辻村幸輝）"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1951,
+              "count": [
+                13,
+                2,
+                2,
+                6,
+                19,
+                102,
+                277,
+                220,
+                32,
+                28
+              ],
+              "score": 7.16,
+              "total": 701
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788851474
+  },
+  {
+    "id": 72133743,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1702354,
+            "subjectID": 585820,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "友の記憶",
+            "nameCN": "朋友的记忆",
+            "duration": "00:23:40",
+            "airdate": "2026-08-26",
+            "comment": 64,
+            "desc": "身为教师，奈耶一边保护学生，一边与克雷恩派出的尖兵交战。她想起小时候对勇者的憧憬，奋力迎战，却无法击败敌人，陷入生死危机。就在这时，原本昏迷的美利维瑟醒了过来。\r\n\r\n教師として生徒たちを守りながら、クレンの放つ尖兵と戦うナイエ。幼い頃に抱いていた勇者への憧れを思い出し戦うナイエだが、倒しきれずに絶体絶命のピンチに陥る。その時、気を失っていたメリーメリーが目を覚ます。\r\n\r\n脚本：小柳啓伍　\r\n絵コンテ：竹内雅人・横屋健太　\r\n演出：竹内雅人・横屋健太　\r\n総作画監督：　\r\n作画監督：横屋健太・シュウ ビュハガ・鈴木紗英子・細美稚冬・大熊白・長谷川哲也・Lunja　\r\n動画検査：李 昕宜　\r\n色指定検査：高畑亜津子　\r\n話数制作担当：竹内雅人"
+          },
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3164,
+              "count": [
+                1,
+                0,
+                1,
+                7,
+                20,
+                114,
+                276,
+                68,
+                14,
+                5
+              ],
+              "score": 6.85,
+              "total": 506
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788849396
+  },
+  {
+    "id": 72132857,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704696,
+            "subjectID": 570583,
+            "sort": 1,
+            "type": 0,
+            "disc": 0,
+            "name": "ようこそ、ひまわりサーカスへ！",
+            "nameCN": "欢迎来到向日葵马戏团！",
+            "duration": "00:23:40",
+            "airdate": "2026-07-04",
+            "comment": 211,
+            "desc": "故事发生在昭和30年代左右，正值高度经济成长期的日本。鹤卷瑞佳因父亲中断生活费而身无分文，最后在盛夏的乡间道路上倒下。救了她的，是弱小又贫穷的马戏团「向日葵马戏团」成员樱翔与凛。瑞佳虽然是马戏天才，却十分讨厌马戏团。她原本想赶快离开这里，却看见樱翔在空中华丽飞舞的身影——这场相遇究竟是偶然，还是必然……追逐梦想的少女们将描绘出独一无二的马戏表演，就此开演！\r\n\r\n昭和30年代ごろ、高度経済成長期真っ只中の日本。父親からの仕送りが途絶え、金欠の末に真夏の田舎道で行き倒れてしまった鶴巻瑞佳。そんな彼女を助けたのは、貧乏弱小サーカス団「ひまわりサーカス」の桜翔と凛だった。サーカスの天才でありながらサーカスが大嫌いな瑞佳は、足早にその場を去ろうとするが、宙を華麗に舞う桜翔の姿が目に入り——。\r\nこの出会いは偶然か必然か……夢追う少女たちが描く唯一無二のサーカスショウ、開演！"
+          },
+          "subject": {
+            "id": 570583,
+            "name": "グロウアップショウ ～ひまわりのサーカス団～",
+            "nameCN": "Grow Up Show ～向日葵马戏团～",
+            "type": 2,
+            "info": "13话 / 2026年7月4日 / 亀井幹太 / キルクスコレクション協会 / 牧野和俊",
+            "metaTags": [
+              "TV",
+              "原创",
+              "日本",
+              "职场"
+            ],
+            "rating": {
+              "rank": 1984,
+              "count": [
+                2,
+                2,
+                3,
+                9,
+                54,
+                229,
+                807,
+                461,
+                55,
+                26
+              ],
+              "score": 7.15,
+              "total": 1648
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/0c/cf/570583_d3QZD.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1788846642
+  },
+  {
     "id": 72121654,
     "uid": 588237,
     "cat": 4,

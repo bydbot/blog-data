@@ -1,15 +1,63 @@
 [
   {
+    "sid": 552533,
+    "name": "天幕のジャードゥーガル",
+    "name_cn": "穹庐下的魔女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 9,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-09T00:50:34+08:00"
+  },
+  {
     "sid": 545917,
     "name": "これ描いて死ね",
     "name_cn": "画完这个再去死",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 5,
+    "ep_status": 6,
     "eps": 12,
     "comment": "",
-    "updated_at": "2026-09-08T00:54:41+08:00"
+    "updated_at": "2026-09-09T00:00:41+08:00"
+  },
+  {
+    "sid": 339515,
+    "name": "幼女戦記Ⅱ",
+    "name_cn": "幼女战记 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 7,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-08T23:30:58+08:00"
+  },
+  {
+    "sid": 585820,
+    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-08T14:36:36+08:00"
+  },
+  {
+    "sid": 570583,
+    "name": "グロウアップショウ ～ひまわりのサーカス団～",
+    "name_cn": "Grow Up Show ～向日葵马戏团～",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-08T13:50:42+08:00"
   },
   {
     "sid": 627136,
@@ -36,18 +84,6 @@
     "updated_at": "2026-09-07T23:33:19+08:00"
   },
   {
-    "sid": 552533,
-    "name": "天幕のジャードゥーガル",
-    "name_cn": "穹庐下的魔女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 8,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-07T22:19:57+08:00"
-  },
-  {
     "sid": 517106,
     "name": "逃げ上手の若君 第二期",
     "name_cn": "擅长逃跑的殿下 第二季",
@@ -58,18 +94,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-07T20:09:03+08:00"
-  },
-  {
-    "sid": 339515,
-    "name": "幼女戦記Ⅱ",
-    "name_cn": "幼女战记 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 5,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-07T19:31:57+08:00"
   },
   {
     "sid": 622206,
@@ -106,18 +130,6 @@
     "eps": 8,
     "comment": "",
     "updated_at": "2026-09-07T13:47:08+08:00"
-  },
-  {
-    "sid": 585820,
-    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
-    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-09-06T23:11:04+08:00"
   },
   {
     "sid": 495291,
@@ -226,18 +238,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-08-17T20:42:25+08:00"
-  },
-  {
-    "sid": 570583,
-    "name": "グロウアップショウ ～ひまわりのサーカス団～",
-    "name_cn": "Grow Up Show ～向日葵马戏团～",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-08-17T20:42:20+08:00"
   },
   {
     "sid": 541285,
