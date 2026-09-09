@@ -1,5 +1,17 @@
 [
   {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 2,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-10T00:31:47+08:00"
+  },
+  {
     "sid": 552533,
     "name": "天幕のジャードゥーガル",
     "name_cn": "穹庐下的魔女",
@@ -262,18 +274,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-08-17T20:41:49+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-08-17T20:41:39+08:00"
   },
   {
     "sid": 583729,
