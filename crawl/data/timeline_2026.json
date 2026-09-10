@@ -1,5 +1,151 @@
 [
   {
+    "id": 72207560,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701428,
+            "subjectID": 622206,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーたちも師走は走るにゃ",
+            "nameCN": "",
+            "duration": "00:23:40",
+            "airdate": "2026-08-20",
+            "comment": 122,
+            "desc": "11月11日のヤニねこの誕生日。祝ってくれる人なんていない――と思いきや、実は妹子たちがサプライズパーティーを計画していた。いいとこあんじゃん。しかし、肝心の本人への連絡ミスが発覚しちゃって……。 さらに冬のアパートでは、なぜか大家が恐怖の「お正月餅つきループ」に囚われてしまう。円環の理に抗って運命を変えるため――立ち上がれ、大家！ 振り回せ、大家！ たたきつけろ、大家！ ナニがなんでも――！\r\n\r\n脚本：あおしまたかし\r\n絵コンテ：夏野桃子\r\n演出：山田紡\r\n総作画監督：松浦力、能海知佳"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "喜剧",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1424,
+              "count": [
+                37,
+                11,
+                19,
+                40,
+                123,
+                443,
+                1491,
+                1341,
+                258,
+                176
+              ],
+              "score": 7.31,
+              "total": 3939
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789054458
+  },
+  {
+    "id": 72207548,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704962,
+            "subjectID": 587109,
+            "sort": 3,
+            "type": 0,
+            "disc": 0,
+            "name": "ミッドナイトラン",
+            "nameCN": "午夜狂奔",
+            "duration": "00:23:50",
+            "airdate": "2026-07-25",
+            "comment": 61,
+            "desc": "調理実習で作ったお弁当を振る舞い、流星と屋上ランチを楽しむミーティア 。平和を噛みしめる二人だったが、放課後の「ダンジョンデート」で巨大イーターと遭遇！ 拳を振るうミーティアに、流星が上級死魔法で加勢し、勇者と魔王の最強共闘が実現！　さらに、前世でミーティアが住んでいた世界に生息していた魔物「トマス」まで出現。その裏には、別世界への扉を開き「魔王様」を望む謎の美少女の姿が―！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：山本直樹\r\n演出補佐：久城りおん\r\n総作監：西尾淳之介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3253,
+              "count": [
+                3,
+                5,
+                9,
+                20,
+                52,
+                218,
+                603,
+                173,
+                23,
+                22
+              ],
+              "score": 6.84,
+              "total": 1128
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789054438
+  },
+  {
     "id": 72180575,
     "uid": 588237,
     "cat": 4,

@@ -1,15 +1,27 @@
 [
   {
+    "sid": 622206,
+    "name": "ヤニねこ",
+    "name_cn": "尼古喵喵",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-10T23:34:18+08:00"
+  },
+  {
     "sid": 587109,
     "name": "花織さんは転生しても喧嘩がしたい",
     "name_cn": "花织即使是转生也想打架",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 2,
+    "ep_status": 3,
     "eps": 0,
     "comment": "",
-    "updated_at": "2026-09-10T00:31:47+08:00"
+    "updated_at": "2026-09-10T23:33:58+08:00"
   },
   {
     "sid": 552533,
@@ -106,18 +118,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-07T20:09:03+08:00"
-  },
-  {
-    "sid": 622206,
-    "name": "ヤニねこ",
-    "name_cn": "尼古喵喵",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-09-07T17:45:21+08:00"
   },
   {
     "sid": 501963,
