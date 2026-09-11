@@ -1,5 +1,436 @@
 [
   {
+    "id": 72238857,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1696995,
+            "subjectID": 552533,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "知恵",
+            "nameCN": "智慧",
+            "duration": "00:23:43",
+            "airdate": "2026-08-29",
+            "comment": 113,
+            "desc": "急な病に倒れたオゴタイの回復を願う祈祷の後、身代わりになったかのようにトルイに不測の事態が起きてしまう。帝国の軍事力、権威、知識がオゴタイ家に一極集中するなか、シタラはドレゲネとの誓いを守るため、ボラクチンの謀略で窮地に陥った彼女を助けるべく奔走することになる。\r\n\r\n脚本：佐藤寿昭\r\n絵コンテ・演出・レイアウト：前場健次\r\n絵コンテ協力：藤倉拓也\r\n作画監督：太田琴美、木下絵李、堀江由美、石松、前場健次"
+          },
+          "subject": {
+            "id": 552533,
+            "name": "天幕のジャードゥーガル",
+            "nameCN": "穹庐下的魔女",
+            "type": 2,
+            "info": "12话 / 2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "历史"
+            ],
+            "rating": {
+              "rank": 248,
+              "count": [
+                10,
+                3,
+                5,
+                9,
+                27,
+                81,
+                410,
+                1444,
+                542,
+                121
+              ],
+              "score": 7.99,
+              "total": 2652
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/28/41/552533_E9DF9.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789144786
+  },
+  {
+    "id": 72237147,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704963,
+            "subjectID": 587109,
+            "sort": 4,
+            "type": 0,
+            "disc": 0,
+            "name": "許されざる者",
+            "nameCN": "不可原谅之人",
+            "duration": "00:23:50",
+            "airdate": "2026-08-01",
+            "comment": 65,
+            "desc": "流星の前に、クラスの人気者・小鳥遊綾姫が急接近！　だが彼女、以前はキャラが全然違ってたようで……？　一悶着あった後、流星はネクタイを弁償してくれたミーティアにあるものをプレゼント。もはやプロポーズ級のドタバタが加速する中、六道さくらによる「カップルセラピー」が緊急開催！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：キム・スリム\r\n総作監：奥田陽介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3271,
+              "count": [
+                3,
+                5,
+                10,
+                20,
+                53,
+                219,
+                606,
+                175,
+                24,
+                22
+              ],
+              "score": 6.84,
+              "total": 1137
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789141863
+  },
+  {
+    "id": 72235628,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705014,
+            "subjectID": 545917,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "ロストワールド 〜殺すつもりで描こう",
+            "nameCN": "LOST WORLD ～抱着杀意画吧",
+            "duration": "00:23:00",
+            "airdate": "2026-08-21",
+            "comment": 97,
+            "desc": "在从COMITIA回程的船上，手岛老师看着漫研成员们的身影，不禁想起了曾经立志成为漫画家的自己——\r\n23岁那年秋天，手岛在金刚寺的建议下，成为了自己憧憬的漫画家蛇近老师的助手，参与超人气漫画《甜蜜蛇女草莓》的绘制工作。兴奋不已的手岛每天都充满干劲，然而——\r\n\r\nコミティアからの帰路の船上。\r\n手島先生は、漫研メンバーの姿をかつて漫画家を目指していた頃の自身と重ねていた―。\r\n23 歳の秋、手島は金剛寺の勧めで憧れのへびちか先生のアシスタントを務めることになる。\r\n大ヒット漫画「スイートへびいちご」の制作に携わることになり大興奮の手島は、やる気にみなぎる日々を送っていたが―。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 402,
+              "count": [
+                4,
+                1,
+                2,
+                5,
+                25,
+                81,
+                416,
+                960,
+                253,
+                75
+              ],
+              "score": 7.83,
+              "total": 1822
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789139574
+  },
+  {
+    "id": 72228270,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716839,
+            "subjectID": 517106,
+            "sort": 17,
+            "type": 0,
+            "disc": 0,
+            "name": "負けざる者たち",
+            "nameCN": "永不言败的人们",
+            "duration": "00:23:40",
+            "airdate": "2026-08-14",
+            "comment": 41,
+            "desc": "大乱戦となった「中」の戦場。\r\n優勢となり勝利も見えてきた保科・四宮軍の前に、突如として清原考案の戦闘神輿が立ちはだかる。\r\n後方からの指揮に使うはずの輿に重装甲を施し、装甲に守られながら矢を射るその戦法は、戦知らずの公家が生み出した、これまでの武士の常識を覆す奇策。\r\n鬼気迫る形相で自ら戦地に赴いた清原の猛攻に、対抗する術はあるのか――！\r\n一方、伝令役としてその様子を偵察していた時行は、ある不穏な気配を察する。\r\n情報と軍略の入り乱れる防衛戦、最終局面――！\r\n\r\n脚本：冨田頼子\r\n絵コンテ：山﨑雄太\r\n演出：砂時計 藍\r\n作画監督：高橋千尋、三浦 龍"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3262,
+              "count": [
+                3,
+                1,
+                4,
+                8,
+                19,
+                77,
+                228,
+                70,
+                12,
+                6
+              ],
+              "score": 6.85,
+              "total": 428
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789124598
+  },
+  {
+    "id": 72226464,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1394447,
+            "subjectID": 471793,
+            "sort": 20,
+            "type": 0,
+            "disc": 0,
+            "name": "美しきものたち",
+            "nameCN": "美丽的东西",
+            "duration": "00:23:40",
+            "airdate": "2025-03-02",
+            "comment": 127,
+            "desc": "过去曾在选美比赛中败给凪乃的美美美，对凪乃抱有复杂的情感。与凪乃再会的美美美，赌上留在恋太郎Family的权利，向凪乃发起「寻找美丽」对决的挑战。那是要寻找Family中每个人美丽之处并宣言的竞赛。女朋友们纷纷因为饱受称赞而窃喜，另一方面恋太郎两个人都不想失去，白热化的战斗终于来到最后一回合……究竟要被驱逐出Family的人会是凪乃呢？还是美美美呢？！\r\n\r\n[简介原文]\r\nかつてビューティーコンテストで凪乃に敗北した美々美は、凪乃へ複雑な感情を抱いていた。凪乃と再会した美々美は、恋太郎ファミリー追放を賭けて凪乃に「美しさ探し」の勝負を挑む。それはファミリーたち一人ひとりの美しいところを宣言し合うというものだった。褒められて満更でもない彼女たちと、二人とも失いたくない恋太郎。白熱する勝負は最終戦までもつれ込み…。果たしてファミリーを追われるのは凪乃か？美々美か？！"
+          },
+          "subject": {
+            "id": 471793,
+            "name": "君のことが大大大大大好きな100人の彼女 第2期",
+            "nameCN": "超超超超超喜欢你的100个女朋友 第二季",
+            "type": 2,
+            "info": "12话 / 2025年1月12日 / 佐藤光 / 中村力斗・野澤ゆき子（集英社「週刊ヤングジャンプ」連載） / 矢野茜",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 1054,
+              "count": [
+                29,
+                16,
+                18,
+                63,
+                185,
+                728,
+                2345,
+                3033,
+                500,
+                249
+              ],
+              "score": 7.44,
+              "total": 7166
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1d/bd/471793_nQ5TT.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789118850
+  },
+  {
+    "id": 72223245,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1656862,
+            "subjectID": 633836,
+            "sort": 82,
+            "type": 0,
+            "disc": 0,
+            "name": "ナツキ・スバル",
+            "nameCN": "菜月昴",
+            "duration": "00:26:40",
+            "airdate": "2026-09-09",
+            "comment": 152,
+            "desc": "死亡计数只是不断累积，情况丝毫未见好转，十五次的死亡使昴的精神逐渐耗弱。当昴被要求在书库休息时，他发现了写着「菜月昴」的「死者之书」──刻划在其中的，是理应失去的被开肠剖肚的「死亡回归」记忆。书架上还有第二本、第三本，记录着至今为止的死亡记忆。为什么你是特别的？为了寻找那个与自己不同的某种东西，他开始追寻一名少年一路走来的异世界生活。\r\n\r\n死のカウントを積み上げるだけで状況は好転せず、十五回の死が精神を削る。書庫で休むよう言われたスバルが発見したのは、『菜月・昴』と記された『死者の書』だった。――刻まれていたのは、腸を裂かれた、失われたはずの『死に戻り』の記憶。書架には２冊目の、３冊目の、これまでの死の記憶が収められていた。どうしてお前は特別なのか。自分とは違う何かを求め、一人の少年が歩んだ異世界生活を追いかけていく。\r\n\r\n脚本：横谷昌宏　\r\n絵コンテ：おざわかずひろ　\r\n演出：おざわかずひろ\r\n総作画監督：佐川遥、三島千枝\r\n作画監督：三浦瞳、糸島雅彦、永吉 隆志、佐川遥、滝吾郎、菊池 隼也、Zyu、Stock033、Flyx、Natali、Justin"
+          },
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "冒险",
+              "奇幻",
+              "小说改",
+              "战斗",
+              "日本",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 372,
+              "count": [
+                34,
+                5,
+                2,
+                4,
+                16,
+                50,
+                263,
+                582,
+                159,
+                107
+              ],
+              "score": 7.73,
+              "total": 1222
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789108844
+  },
+  {
     "id": 72207560,
     "uid": 588237,
     "cat": 4,

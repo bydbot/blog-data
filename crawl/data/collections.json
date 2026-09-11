@@ -1,5 +1,77 @@
 [
   {
+    "sid": 552533,
+    "name": "天幕のジャードゥーガル",
+    "name_cn": "穹庐下的魔女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-12T00:39:46+08:00"
+  },
+  {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 4,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-11T23:51:03+08:00"
+  },
+  {
+    "sid": 545917,
+    "name": "これ描いて死ね",
+    "name_cn": "画完这个再去死",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 7,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-11T23:12:54+08:00"
+  },
+  {
+    "sid": 517106,
+    "name": "逃げ上手の若君 第二期",
+    "name_cn": "擅长逃跑的殿下 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-11T19:03:18+08:00"
+  },
+  {
+    "sid": 471793,
+    "name": "君のことが大大大大大好きな100人の彼女 第2期",
+    "name_cn": "超超超超超喜欢你的100个女朋友 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-11T17:27:30+08:00"
+  },
+  {
+    "sid": 633836,
+    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 8,
+    "comment": "",
+    "updated_at": "2026-09-11T14:40:44+08:00"
+  },
+  {
     "sid": 622206,
     "name": "ヤニねこ",
     "name_cn": "尼古喵喵",
@@ -10,42 +82,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-09-10T23:34:18+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 3,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-09-10T23:33:58+08:00"
-  },
-  {
-    "sid": 552533,
-    "name": "天幕のジャードゥーガル",
-    "name_cn": "穹庐下的魔女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-09T00:50:34+08:00"
-  },
-  {
-    "sid": 545917,
-    "name": "これ描いて死ね",
-    "name_cn": "画完这个再去死",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-09T00:00:41+08:00"
   },
   {
     "sid": 339515,
@@ -108,18 +144,6 @@
     "updated_at": "2026-09-07T23:33:19+08:00"
   },
   {
-    "sid": 517106,
-    "name": "逃げ上手の若君 第二期",
-    "name_cn": "擅长逃跑的殿下 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-07T20:09:03+08:00"
-  },
-  {
     "sid": 501963,
     "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
     "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -130,18 +154,6 @@
     "eps": 14,
     "comment": "",
     "updated_at": "2026-09-07T15:17:34+08:00"
-  },
-  {
-    "sid": 633836,
-    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
-    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 8,
-    "comment": "",
-    "updated_at": "2026-09-07T13:47:08+08:00"
   },
   {
     "sid": 495291,
@@ -166,18 +178,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-08-30T23:00:40+08:00"
-  },
-  {
-    "sid": 471793,
-    "name": "君のことが大大大大大好きな100人の彼女 第2期",
-    "name_cn": "超超超超超喜欢你的100个女朋友 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-25T21:49:03+08:00"
   },
   {
     "sid": 530725,
