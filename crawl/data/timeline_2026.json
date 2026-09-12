@@ -1,5 +1,220 @@
 [
   {
+    "id": 72267652,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704964,
+            "subjectID": 587109,
+            "sort": 5,
+            "type": 0,
+            "disc": 0,
+            "name": "から騒ぎ",
+            "nameCN": "胡闹",
+            "duration": "00:23:50",
+            "airdate": "2026-08-08",
+            "comment": 46,
+            "desc": "女子校教師の悩みは尽きない！　まこに相談された盗撮騒ぎを調査しながら、畑が荒らされ嘆く茉莉花を気遣い、暗躍する組織の人間を一掃！　一方、ミーティアは自分自身の存在意義に悩みつつも、流星に「やりたいこと全部やれ」と魔王級にわがままなエールを贈られ、勇者の心を取り戻す。そして放課後の「魔物探しパトロール」が、いつの間にかパンケーキを楽しむ「デート」に！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：内野明雄\r\n総作監：松岡謙治"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "奇幻",
+              "恋爱",
+              "日本",
+              "校园",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3281,
+              "count": [
+                3,
+                4,
+                10,
+                20,
+                53,
+                223,
+                607,
+                179,
+                24,
+                22
+              ],
+              "score": 6.85,
+              "total": 1145
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789226110
+  },
+  {
+    "id": 72266134,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705015,
+            "subjectID": 545917,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "タッチ 〜漫画で描きたい 100 のコト!!!",
+            "nameCN": "接触 ～想画成漫画的100个点子!!!",
+            "duration": "00:23:00",
+            "airdate": "2026-08-28",
+            "comment": 97,
+            "desc": "COMITIA结束后，安海因为想不到下一部漫画的点子而苦恼。手岛老师鼓励她从伊豆王岛各处获得刺激，于是漫研成员决定一起环岛寻找灵感。出发前，安海从手岛手中接过一本用来记录点子的笔记本。然而，上面却残留着一行被擦去的字迹——「想画成漫画的100个点子!!!」\r\n\r\nコミティアを終えた安海は、次に描く漫画のアイデアが浮かばず悩んでいた。\r\n手島先生は、身近な伊豆王島の様々な場所から刺激を得るよう促し、漫研メンバーで島を巡ることに。\r\n島巡りを前に、安海は手島からネタ帳としてノートを譲り受けるが、そこには「漫画で描きたい 100 のコト!!!」という一度消された筆跡があった―。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 404,
+              "count": [
+                4,
+                1,
+                2,
+                4,
+                25,
+                79,
+                417,
+                961,
+                259,
+                80
+              ],
+              "score": 7.84,
+              "total": 1832
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789223845
+  },
+  {
+    "id": 72260529,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1696996,
+            "subjectID": 552533,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "不器用な石",
+            "nameCN": "笨拙的石头",
+            "duration": "00:23:43",
+            "airdate": "2026-09-05",
+            "comment": 105,
+            "desc": "明らかになる、ボラクチンの過去。扱い方次第で薬にも猛毒にも変わる石を手に入れた彼女は、その効果を調べるため自らの身を実験台にしていた。すべては夫であるオゴタイの障害を取り除くため──。そして現在。ボラクチンの謀略で窮地に陥ったドレゲネを助けるべく奔走するシタラは、ドレゲネとオゴタイの息子グユクと出会う。\r\n\r\n脚本：加藤還一\r\n絵コンテ：愛敬亮太、山田尚子、Abel Gongora\r\n演出：井分詢也\r\n作画監督：霜山朋久、松田K子、Nicholas McKergow、内村瞳子、永留あい、石松、太田琴美、木下絵李"
+          },
+          "subject": {
+            "id": 552533,
+            "name": "天幕のジャードゥーガル",
+            "nameCN": "穹庐下的魔女",
+            "type": 2,
+            "info": "12话 / 2026年7月4日 / Abel Gongora / トマトスープ(秋田書店「Souffle」連載) / 吉田健一",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "历史"
+            ],
+            "rating": {
+              "rank": 249,
+              "count": [
+                10,
+                3,
+                5,
+                9,
+                26,
+                90,
+                437,
+                1527,
+                579,
+                132
+              ],
+              "score": 8,
+              "total": 2818
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/28/41/552533_E9DF9.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789213605
+  },
+  {
     "id": 72238857,
     "uid": 588237,
     "cat": 4,
