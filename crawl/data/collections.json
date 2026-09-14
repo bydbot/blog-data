@@ -1,5 +1,29 @@
 [
   {
+    "sid": 501963,
+    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 12,
+    "eps": 14,
+    "comment": "",
+    "updated_at": "2026-09-14T20:22:25+08:00"
+  },
+  {
+    "sid": 552533,
+    "name": "天幕のジャードゥーガル",
+    "name_cn": "穹庐下的魔女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-14T17:30:05+08:00"
+  },
+  {
     "sid": 587109,
     "name": "花織さんは転生しても喧嘩がしたい",
     "name_cn": "花织即使是转生也想打架",
@@ -22,18 +46,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-12T22:37:25+08:00"
-  },
-  {
-    "sid": 552533,
-    "name": "天幕のジャードゥーガル",
-    "name_cn": "穹庐下的魔女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-12T19:46:45+08:00"
   },
   {
     "sid": 517106,
@@ -142,18 +154,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-07T23:33:19+08:00"
-  },
-  {
-    "sid": 501963,
-    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 14,
-    "comment": "",
-    "updated_at": "2026-09-07T15:17:34+08:00"
   },
   {
     "sid": 495291,
