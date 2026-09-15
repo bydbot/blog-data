@@ -1,5 +1,79 @@
 [
   {
+    "id": 72378555,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704965,
+            "subjectID": 587109,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "パルプ・フィクション",
+            "nameCN": "低俗小说",
+            "duration": "00:23:50",
+            "airdate": "2026-08-15",
+            "comment": 51,
+            "desc": "眠兎の変身魔法で、ミーティアがまさかの「美少女猫」に変身 ！流星の膝の上でヘソ天状態になるなど禁断の猫生活を満喫。さらに、別の並行世界「アース13」から来た魔法少女・朝比奈絵理子が登場し、流星に襲い掛かる……！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：中原れい\r\n総作監：西尾淳之介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "奇幻",
+              "恋爱",
+              "日本",
+              "校园",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3297,
+              "count": [
+                3,
+                4,
+                10,
+                22,
+                58,
+                228,
+                626,
+                180,
+                25,
+                22
+              ],
+              "score": 6.84,
+              "total": 1178
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789489103
+  },
+  {
     "id": 72350450,
     "uid": 588237,
     "cat": 3,
