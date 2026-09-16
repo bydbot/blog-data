@@ -1,5 +1,17 @@
 [
   {
+    "sid": 339515,
+    "name": "幼女戦記Ⅱ",
+    "name_cn": "幼女战记 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-17T00:12:30+08:00"
+  },
+  {
     "sid": 587109,
     "name": "花織さんは転生しても喧嘩がしたい",
     "name_cn": "花织即使是转生也想打架",
@@ -94,18 +106,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-09-10T23:34:18+08:00"
-  },
-  {
-    "sid": 339515,
-    "name": "幼女戦記Ⅱ",
-    "name_cn": "幼女战记 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-08T23:30:58+08:00"
   },
   {
     "sid": 585820,

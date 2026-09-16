@@ -1,5 +1,76 @@
 [
   {
+    "id": 72406444,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699975,
+            "subjectID": 339515,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "雷撃",
+            "nameCN": "雷击",
+            "duration": "00:23:40",
+            "airdate": "2026-08-26",
+            "comment": 56,
+            "desc": "情勢悪化を踏まえ、帝国は南方大陸からの撤退を決定する。\r\nだが同盟国であるはずのイルドア王国は厳正中立を標榜し、撤退支援を拒否。\r\n帝国軍は、連合王国海軍が待ち構える内海を単独で突破しなければならなくなった。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：宮﨑なぎさ　\r\n演出：矢口 円\r\n総作画監督：細越裕治　\r\n作画監督：坂本ひろみ、ふくだのりゆき"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1988,
+              "count": [
+                13,
+                2,
+                2,
+                8,
+                19,
+                108,
+                283,
+                227,
+                35,
+                28
+              ],
+              "score": 7.16,
+              "total": 725
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789575150
+  },
+  {
     "id": 72378555,
     "uid": 588237,
     "cat": 4,
