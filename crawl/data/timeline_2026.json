@@ -1,5 +1,291 @@
 [
   {
+    "id": 72433911,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691671,
+            "subjectID": 495291,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "本当の愛",
+            "nameCN": "真实之爱",
+            "duration": "00:24:00",
+            "airdate": "2026-08-30",
+            "comment": 209,
+            "desc": "ララは薬で誤魔化しながら泡になるまでの時間を稼ぐ。\r\n「本当の愛」はまだ見つけられていない。でもルカとなら見つけられるかもしれない。\r\nララは焦りを抱えながらもルカとの距離を縮めていくが――。\r\n\r\n脚本：川原杏奈\r\n絵コンテ：辻彩夏\r\n演出：辻彩夏\r\n作画監督：米本えり(主)、矢野康平、西澤皓人、松村佳子"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 872,
+              "count": [
+                14,
+                6,
+                8,
+                9,
+                50,
+                191,
+                664,
+                957,
+                231,
+                70
+              ],
+              "score": 7.53,
+              "total": 2200
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789662273
+  },
+  {
+    "id": 72432617,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691670,
+            "subjectID": 495291,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "決勝戦の夜",
+            "nameCN": "决赛之夜",
+            "duration": "00:24:00",
+            "airdate": "2026-08-23",
+            "comment": 281,
+            "desc": "ボクシング大会決勝戦が迫る中、茉里はララに残された時間が少ないことを知る。\r\nララがいるべき場所は、大津家なのか、本当の家族の元なのか。\r\n試合前にもかかわらず、茉里の心は不安定に揺れる。\r\n\r\n脚本：青瀬宥介\r\n絵コンテ：吉邉尚希\r\n演出：吉邉尚希\r\n作画監督：簑島綾香"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 872,
+              "count": [
+                14,
+                6,
+                8,
+                9,
+                50,
+                191,
+                664,
+                957,
+                231,
+                70
+              ],
+              "score": 7.53,
+              "total": 2200
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789660390
+  },
+  {
+    "id": 72428263,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1656863,
+            "subjectID": 633836,
+            "sort": 83,
+            "type": 0,
+            "disc": 0,
+            "name": "グッドルーザー",
+            "nameCN": "Good Loser",
+            "duration": "00:24:30",
+            "airdate": "2026-09-16",
+            "comment": 182,
+            "desc": "昴的两个记忆整合后，顺利与爱蜜莉雅等人再次相遇。他与伙伴分头处理逼近塔的五个危机，为了终结死亡轮回而展开总体战。昴、碧翠丝与梅莉等三人负责压制魔兽大进击；爱蜜莉雅冲到最上层；拉姆在螺旋阶梯等待「暴食」；围巾多娜则前往朱利斯所在之处。骑士接收到来自昴的传话之后，在雷伊德面前高声报上名号。\r\n\r\n二つの記憶が統合され、エミリアたちとの再会を果たしたスバル。塔に迫る五つの危機に仲間を振り分け、死のループを終わらせるための総力戦が幕を開ける。魔獣のスタンピードを押さえ込むスバル、ベアトリス、メィリィの三人。上層へ駆け上がるエミリア。螺旋階段で『暴食』を待ち受けるラム。そして襟ドナはユリウスのもとへ。スバルからの伝言を受け取った騎士は、レイドを前に高らかと名乗りを上げる。\r\n\r\n脚本：梅原英司　\r\n絵コンテ：尾崎隆晴　\r\n演出：柴田彰久、正木陽南子\r\n総作画監督：佐川遥、三島千枝、野田康行\r\n作画監督：佐川遥、永吉隆志、五月麻帆、宮部唯、村田大亮、滝吾郎、持丸彰親、杉浦圭一、Seo Jeong-ha、Jeon Yong-ho、GAONNURI（Kim So-joong、Hwang Mi-jeong）"
+          },
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "冒险",
+              "奇幻",
+              "小说改",
+              "战斗",
+              "日本",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 505,
+              "count": [
+                19,
+                6,
+                4,
+                6,
+                32,
+                68,
+                329,
+                624,
+                156,
+                108
+              ],
+              "score": 7.7,
+              "total": 1352
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789654115
+  },
+  {
+    "id": 72424563,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699976,
+            "subjectID": 339515,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "観光旅行",
+            "nameCN": "观光旅行",
+            "duration": "00:23:40",
+            "airdate": "2026-09-02",
+            "comment": 45,
+            "desc": "南方大陸派遣軍の撤退を成功させた帝国は、\r\n協力を拒んだ同盟国イルドア王国に対し、嫌がらせを\r\n兼ねた表敬訪問を実行する。\r\n『厳正中立』を謳うイルドアの対応は如何に。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：三浦慧、山本貴之　\r\n演出：三浦慧 \r\n総作画監督：細越裕治 \r\n作画監督：南井尚子、緒方歩惟、三好和也、東亮太、スタジオカフカ（井嶋けい子）、\r\nWUXI HUAXIAN ANIMATION PRODUCTION（Hong In Soo）"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1972,
+              "count": [
+                13,
+                2,
+                2,
+                8,
+                21,
+                107,
+                284,
+                233,
+                34,
+                28
+              ],
+              "score": 7.16,
+              "total": 732
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789646989
+  },
+  {
     "id": 72406444,
     "uid": 588237,
     "cat": 4,

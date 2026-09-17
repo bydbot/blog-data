@@ -1,15 +1,39 @@
 [
   {
+    "sid": 495291,
+    "name": "さよならララ",
+    "name_cn": "再见菈菈",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 9,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-18T00:24:33+08:00"
+  },
+  {
+    "sid": 633836,
+    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 6,
+    "eps": 8,
+    "comment": "",
+    "updated_at": "2026-09-17T22:08:35+08:00"
+  },
+  {
     "sid": 339515,
     "name": "幼女戦記Ⅱ",
     "name_cn": "幼女战记 第二季",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 8,
+    "ep_status": 9,
     "eps": 12,
     "comment": "",
-    "updated_at": "2026-09-17T00:12:30+08:00"
+    "updated_at": "2026-09-17T20:09:49+08:00"
   },
   {
     "sid": 587109,
@@ -84,18 +108,6 @@
     "updated_at": "2026-09-11T17:27:30+08:00"
   },
   {
-    "sid": 633836,
-    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
-    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 5,
-    "eps": 8,
-    "comment": "",
-    "updated_at": "2026-09-11T14:40:44+08:00"
-  },
-  {
     "sid": 622206,
     "name": "ヤニねこ",
     "name_cn": "尼古喵喵",
@@ -154,18 +166,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-07T23:33:19+08:00"
-  },
-  {
-    "sid": 495291,
-    "name": "さよならララ",
-    "name_cn": "再见菈菈",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-06T01:00:00+08:00"
   },
   {
     "sid": 615835,
