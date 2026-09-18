@@ -1,5 +1,153 @@
 [
   {
+    "id": 72461509,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704967,
+            "subjectID": 587109,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "トレーニング デイ",
+            "nameCN": "特训日",
+            "duration": "00:23:50",
+            "airdate": "2026-08-29",
+            "comment": 41,
+            "desc": "賢者にそそのかされ、ミーティアが流星へ禁断の膝枕攻撃を敢行！？　レアな呪物を紹介する「パンドラちゃんねる」では、なんとローゼンリッターが登場！　果たしてその衝撃のお値段とは！？　「OZ」の訓練場に訪れた流星は摩那と眠兎に魔法を指導することに。「元魔王」である流星に興味を抱く者は多く、またその中にはよからぬことを考える者もいて……？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：天沢美\r\n演出助手：西片康人\r\n総作監：松岡謙治"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "奇幻",
+              "恋爱",
+              "日本",
+              "校园",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3297,
+              "count": [
+                3,
+                4,
+                11,
+                23,
+                60,
+                231,
+                639,
+                184,
+                26,
+                23
+              ],
+              "score": 6.84,
+              "total": 1204
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789747328
+  },
+  {
+    "id": 72459770,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704966,
+            "subjectID": 587109,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "セブン",
+            "nameCN": "七",
+            "duration": "00:23:50",
+            "airdate": "2026-08-22",
+            "comment": 60,
+            "desc": "カフェでひと息つく暇もなく、「OZ」が異次元の魔物の対処に追われる中、「闇の指輪」を手にしたミーティアが闇堕ちしてしまう！　復讐者（アベンジャー）と名乗ったミーティアは流星に本気の決闘を挑もうとし、対する流星は罠と死霊魔術を駆使した魔王の本領発揮で迎え撃つ！\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：山本秀世\r\n総作監：奥田陽介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "奇幻",
+              "恋爱",
+              "日本",
+              "校园",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3297,
+              "count": [
+                3,
+                4,
+                11,
+                23,
+                60,
+                231,
+                639,
+                184,
+                26,
+                23
+              ],
+              "score": 6.84,
+              "total": 1204
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1789744788
+  },
+  {
     "id": 72433911,
     "uid": 588237,
     "cat": 4,
