@@ -1,5 +1,29 @@
 [
   {
+    "sid": 175198,
+    "name": "91Days",
+    "name_cn": "91天",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 2,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-20T00:41:40+08:00"
+  },
+  {
+    "sid": 150746,
+    "name": "この美術部には問題がある！",
+    "name_cn": "这个美术社大有问题！",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/b6/fb/150746_AAL5A.jpg",
+    "type": 1,
+    "rate": 0,
+    "ep_status": 0,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-19T22:49:56+08:00"
+  },
+  {
     "sid": 587109,
     "name": "花織さんは転生しても喧嘩がしたい",
     "name_cn": "花织即使是转生也想打架",
@@ -8734,18 +8758,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2022-10-18T13:37:21+08:00"
-  },
-  {
-    "sid": 175198,
-    "name": "91Days",
-    "name_cn": "91天",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
-    "type": 1,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2022-10-18T13:27:45+08:00"
   },
   {
     "sid": 218971,
