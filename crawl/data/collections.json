@@ -6,10 +6,22 @@
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 5,
+    "ep_status": 9,
     "eps": 13,
     "comment": "",
-    "updated_at": "2026-09-21T16:24:02+08:00"
+    "updated_at": "2026-09-23T00:36:32+08:00"
+  },
+  {
+    "sid": 622206,
+    "name": "ヤニねこ",
+    "name_cn": "尼古喵喵",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 9,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-22T21:55:46+08:00"
   },
   {
     "sid": 150746,
@@ -130,18 +142,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-11T17:27:30+08:00"
-  },
-  {
-    "sid": 622206,
-    "name": "ヤニねこ",
-    "name_cn": "尼古喵喵",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 8,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-09-10T23:34:18+08:00"
   },
   {
     "sid": 585820,

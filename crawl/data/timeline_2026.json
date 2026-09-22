@@ -1,5 +1,353 @@
 [
   {
+    "id": 72620840,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640983,
+            "subjectID": 175198,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "黒ずんだ野望",
+            "nameCN": "漆黑的野心",
+            "duration": "00:24:12",
+            "airdate": "2016-09-09",
+            "comment": 27,
+            "desc": "ファンゴに情報を流し、ネロの命を狙っていた“裏切り者”の正体が明らかになった。コルテオの身柄を拘束し、騒然となるヴァネッティファミリー。しかし、コルテオは頑なに口を割ろうとしない。このままではコルテオが殺されてしまう。表には出さないが、アヴィリオは珍しく動揺し苛立っていた。そんなアヴィリオのもとへチェロットが訪れる。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1898,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                848,
+                642,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2085
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790094992
+  },
+  {
+    "id": 72619349,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640982,
+            "subjectID": 175198,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "帳の陰",
+            "nameCN": "幕后",
+            "duration": "00:24:12",
+            "airdate": "2016-09-02",
+            "comment": 53,
+            "desc": "ローレスの街にやり手の連邦取締官・デルフィが着任した。マフィア勢力の一掃を宣言する彼は、次々に密造酒の販売店を摘発。当然、ヴァネッティファミリーにとって歓迎できない存在である。ファンゴの動向も気にかかる中、強気の対応を貫くネロ。その隣でネロを支え続けるアヴィリオ。そして、2人の様子を複雑な面持ちで眺める男がいた……。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1898,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                848,
+                642,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2085
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790093123
+  },
+  {
+    "id": 72617113,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640980,
+            "subjectID": 175198,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "あわれな役者",
+            "nameCN": "悲情角色",
+            "duration": "00:24:12",
+            "airdate": "2016-08-19",
+            "comment": 52,
+            "desc": "オルコファミリーに代わって新たにファンゴファミリーが誕生した。ファンゴはネロとアヴィリオの活躍をねぎらい、今後も協力の姿勢を示す。だがネロは、このままファンゴに使い倒されることを危惧していた。一方、兄に宣戦布告し、後戻りできない状況に苦悩するフラテ。フィオはロナルドに、ネロと和解してほしいと懇願するが……。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1898,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                848,
+                642,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2085
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790090695
+  },
+  {
+    "id": 72615439,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640979,
+            "subjectID": 175198,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "豚を殺しに",
+            "nameCN": "擒宰肥猪",
+            "duration": "00:24:27",
+            "airdate": "2016-08-12",
+            "comment": 39,
+            "desc": "フラテの裏切りにより、身内であるヴァネッティファミリーから追われる身となったネロ。重傷のティグレを救うため、ネロはアイランドに根城を置くファンゴに協力を求めることに。ファンゴには見返りとしてドン・オルコを生きたまま引き渡すと約束。そしてアヴィリオとネロの2人だけでオルコの拠点「オッティモ・オルコ」へ乗り込む。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1898,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                848,
+                642,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2085
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790088997
+  },
+  {
+    "id": 72611925,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701429,
+            "subjectID": 622206,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーの妹ちゃんはモテモテにゃ",
+            "nameCN": "本喵的妹妹很受欢迎喵",
+            "duration": "00:23:40",
+            "airdate": "2026-09-03",
+            "comment": 117,
+            "desc": "下品な話で申し訳ないんだけど、今回は駅のトイレやアパートの自室で、ヤニねこのアカン「トイレ事情」が周囲を巻き込む大騒動に。 一方、学校では密かに妹子に想いを寄せる王子様系女子からプレゼントフォー妹子。でもその中身は、またもやトイレ周りのアレになってまして…。。 さらに、ヤクねこが手に入れた「常識改変アプリ」によって、ヤニねこが過激な嫌煙家に大変身!? ちなみに清潔感には一切の変化がない。そこも改変しといてよ。\r\n\r\n脚本：あおしまたかし\r\n絵コンテ：夏野桃子\r\n演出：尋田耕輔、渋田直彰\r\n総作画監督：松浦力、能海知佳"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "12话 / 2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "日常",
+              "日本",
+              "漫画改",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1332,
+              "count": [
+                38,
+                12,
+                22,
+                41,
+                128,
+                467,
+                1566,
+                1486,
+                291,
+                191
+              ],
+              "score": 7.33,
+              "total": 4242
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790085346
+  },
+  {
     "id": 72562443,
     "uid": 588237,
     "cat": 4,
