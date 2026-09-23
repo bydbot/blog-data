@@ -1,15 +1,27 @@
 [
   {
+    "sid": 501963,
+    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 13,
+    "eps": 14,
+    "comment": "",
+    "updated_at": "2026-09-24T00:37:35+08:00"
+  },
+  {
     "sid": 175198,
     "name": "91Days",
     "name_cn": "91天",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 9,
+    "ep_status": 11,
     "eps": 13,
     "comment": "",
-    "updated_at": "2026-09-23T00:36:32+08:00"
+    "updated_at": "2026-09-23T17:34:58+08:00"
   },
   {
     "sid": 622206,
@@ -82,18 +94,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-17T20:09:49+08:00"
-  },
-  {
-    "sid": 501963,
-    "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
-    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 12,
-    "eps": 14,
-    "comment": "",
-    "updated_at": "2026-09-14T20:22:25+08:00"
   },
   {
     "sid": 552533,

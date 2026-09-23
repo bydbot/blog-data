@@ -1,5 +1,215 @@
 [
   {
+    "id": 72653031,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1717533,
+            "subjectID": 501963,
+            "sort": 13,
+            "type": 0,
+            "disc": 0,
+            "name": "日記",
+            "nameCN": "日记",
+            "duration": "00:23:40",
+            "airdate": "2026-09-20",
+            "comment": 860,
+            "desc": "「和七星商量、写信给艾莉丝、怀疑人神，但别与祂为敌」这就是未来的鲁迪乌斯留下的话。鲁迪乌斯翻开老鲁迪乌斯托付的日记。写在里面的是从洛琪希死后开始、未来的自己所走过的那段惨烈的半生。\r\n\r\n「ナナホシに相談しろ。エリスに手紙を送れ。ヒトガミを疑い、敵対はするな」それが未来のルーデウスが遺した言葉だった。老ルーデウスの託した日記帳を開くルーデウス。そこに記されていたのは、ロキシーの死から始まる、未来の自分が歩む壮絶な半生だった。"
+          },
+          "subject": {
+            "id": 501963,
+            "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+            "nameCN": "无职转生 第三季 ～到了异世界就拿出真本事～",
+            "type": 2,
+            "info": "14话 / 2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "日本",
+              "奇幻",
+              "冒险",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 211,
+              "count": [
+                45,
+                9,
+                15,
+                17,
+                64,
+                188,
+                733,
+                1796,
+                832,
+                630
+              ],
+              "score": 8.06,
+              "total": 4329
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1f/9e/501963_bXlEP.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790181455
+  },
+  {
+    "id": 72639049,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640985,
+            "subjectID": 175198,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "すべてがむだごと",
+            "nameCN": "功亏一篑",
+            "duration": "00:24:12",
+            "airdate": "2016-09-23",
+            "comment": 53,
+            "desc": "ヴィンセントの悲願であるヴァネッティの劇場が完成した。ドン・ガラッシアと、その甥・ストレーガを招き、表向きは友好的に挨拶を交わすネロ。だが、相手はシカゴを牛耳るほどのファミリーである。劇場のこけら落としを翌日に控え、ヴァネッティファミリーは緊迫した空気に包まれていた。いよいよアヴィリオが待ちに待った瞬間がやって来る……。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1901,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                850,
+                644,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2089
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790156098
+  },
+  {
+    "id": 72637906,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 640984,
+            "subjectID": 175198,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "誠実の証",
+            "nameCN": "诚实证明",
+            "duration": "00:24:12",
+            "airdate": "2016-09-16",
+            "comment": 39,
+            "desc": "ドン・ヴァネッティの座を継いだネロは、ファミリーの勢力拡大の布石としてドン・ガラッシアに「ローレスへブン」を届けたいという。その役をアヴィリオが任されることになった。ファミリーの者たちが依然としてコルテオの行方を探す中、トランクを抱え乗船するアヴィリオ。コルテオはどこにいるのか？そして、アヴィリオに手紙を送った人物の目的とは？"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1901,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                850,
+                644,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2089
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790152814
+  },
+  {
     "id": 72620840,
     "uid": 588237,
     "cat": 4,
