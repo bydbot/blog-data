@@ -1,5 +1,145 @@
 [
   {
+    "id": 72683406,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 644911,
+            "subjectID": 175198,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "汚れた空をかいくぐり",
+            "nameCN": "穿过硝烟弥漫的天",
+            "duration": "00:24:12",
+            "airdate": "2016-09-30",
+            "comment": 58,
+            "desc": "激しい銃撃戦が繰り広げられる劇場。爆発により黒煙を上げるアイランド。ヴァネッティファミリーを壊滅に追い込み、復讐を遂げたアヴィリオの行き着く先は……。そして、アヴィリオの手によって、すべてを失ったネロは……。"
+          },
+          "subject": {
+            "id": 175198,
+            "name": "91Days",
+            "nameCN": "91天",
+            "type": 2,
+            "info": "13话 / 2016年7月8日 / 鏑木ひろ / ヴァネッティファミリー / 岸友洋",
+            "metaTags": [
+              "TV",
+              "日本",
+              "原创"
+            ],
+            "rating": {
+              "rank": 1899,
+              "count": [
+                4,
+                1,
+                1,
+                19,
+                76,
+                351,
+                852,
+                645,
+                109,
+                34
+              ],
+              "score": 7.18,
+              "total": 2092
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d1/5c/175198_88XXA.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790268290
+  },
+  {
+    "id": 72681529,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691672,
+            "subjectID": 495291,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "刃を持ったプリンセス",
+            "nameCN": "持刃公主",
+            "duration": "00:24:00",
+            "airdate": "2026-09-06",
+            "comment": 237,
+            "desc": "魔女の力が消えたことでララの家族が蘇る。\r\nしかし家族たちは光を失い、今にも息絶えそうになっていた。\r\n家族が求めるのはただ一つ、特別なプリンセスであるララの力だけ。\r\n\r\n脚本：いぬいまい\r\n絵コンテ：小出卓史\r\n演出：伊藤慎之助、森慶彦、小里明花、飯野慎也\r\n作画監督：小柏奈弓(主)、秋竹斉一、谷紫織、角田有希、廣江啓輔、永作友克"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 3819,
+              "count": [
+                22,
+                30,
+                33,
+                114,
+                324,
+                1073,
+                1435,
+                852,
+                150,
+                52
+              ],
+              "score": 6.71,
+              "total": 4085
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790265384
+  },
+  {
     "id": 72653031,
     "uid": 588237,
     "cat": 4,

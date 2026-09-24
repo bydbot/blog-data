@@ -1,5 +1,29 @@
 [
   {
+    "sid": 175198,
+    "name": "91Days",
+    "name_cn": "91天",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 12,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-25T00:44:50+08:00"
+  },
+  {
+    "sid": 495291,
+    "name": "さよならララ",
+    "name_cn": "再见菈菈",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-24T23:56:24+08:00"
+  },
+  {
     "sid": 501963,
     "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
     "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
@@ -10,18 +34,6 @@
     "eps": 14,
     "comment": "",
     "updated_at": "2026-09-24T00:37:35+08:00"
-  },
-  {
-    "sid": 175198,
-    "name": "91Days",
-    "name_cn": "91天",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-09-23T17:34:58+08:00"
   },
   {
     "sid": 622206,
@@ -58,18 +70,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-19T00:02:08+08:00"
-  },
-  {
-    "sid": 495291,
-    "name": "さよならララ",
-    "name_cn": "再见菈菈",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-18T00:24:33+08:00"
   },
   {
     "sid": 633836,
