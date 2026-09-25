@@ -1,5 +1,41 @@
 [
   {
+    "sid": 633836,
+    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 7,
+    "eps": 8,
+    "comment": "",
+    "updated_at": "2026-09-26T00:38:14+08:00"
+  },
+  {
+    "sid": 622206,
+    "name": "ヤニねこ",
+    "name_cn": "尼古喵喵",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-26T00:00:36+08:00"
+  },
+  {
+    "sid": 339515,
+    "name": "幼女戦記Ⅱ",
+    "name_cn": "幼女战记 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-25T14:23:28+08:00"
+  },
+  {
     "sid": 175198,
     "name": "91Days",
     "name_cn": "91天",
@@ -36,18 +72,6 @@
     "updated_at": "2026-09-24T00:37:35+08:00"
   },
   {
-    "sid": 622206,
-    "name": "ヤニねこ",
-    "name_cn": "尼古喵喵",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-22T21:55:46+08:00"
-  },
-  {
     "sid": 150746,
     "name": "この美術部には問題がある！",
     "name_cn": "这个美术社大有问题！",
@@ -70,30 +94,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-19T00:02:08+08:00"
-  },
-  {
-    "sid": 633836,
-    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
-    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 8,
-    "comment": "",
-    "updated_at": "2026-09-17T22:08:35+08:00"
-  },
-  {
-    "sid": 339515,
-    "name": "幼女戦記Ⅱ",
-    "name_cn": "幼女战记 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-17T20:09:49+08:00"
   },
   {
     "sid": 552533,

@@ -1,5 +1,221 @@
 [
   {
+    "id": 72722793,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1656864,
+            "subjectID": 633836,
+            "sort": 84,
+            "type": 0,
+            "disc": 0,
+            "name": "ラム",
+            "nameCN": "拉姆",
+            "duration": "00:23:40",
+            "airdate": "2026-09-23",
+            "comment": 164,
+            "desc": "爱蜜莉雅抵达第一层「麦雅」后，等待着她的是露格尼卡三英杰仅存的一角——「神龙」波尔卡尼卡。面对不知为何只是反复说着同样话语的神龙，最后的「试验」就此展开。另一方面，在螺旋阶梯上，拉姆面对宿敌莱伊，逐渐在战斗中占据上风。无角的拉姆身体所承受的负担，正由昴的新权能「柯尔‧雷欧尼斯」替她分担。然而，察觉情势不利的莱伊，竟一跃来到毫无防备地沉睡着的雷姆身旁……\r\n\r\n一層『マイア』に到着したエミリアを待っていたのは、ルグニカ三英傑の残る一角『神龍』ボルカニカ。何故か同じ言葉を繰り返すだけの神龍を相手に、最後の『試験』が開始する。一方、螺旋階段では因縁の宿敵・ライに対しラムが戦闘を優位に運んでいた。ツノナシのラムの身体にかかる負担を支えるのは、スバルの新たな権能『コル・レオニス』。しかし不利を悟ったライが、無防備に眠るレムのもとへと跳躍してしまい……。\r\n\r\n脚本：中村能子　\r\n絵コンテ：宮西哲也　\r\n演出：中津環\r\n総作画監督：佐川遥、三島千枝、野田康行\r\n作画監督：三浦 瞳、杉浦圭一、村田大亮、佐川遥、wachi、少隆、ジカビ、小井聖令奈、桜井遥、Seo Jeong-ha"
+          },
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "冒险",
+              "穿越",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 693,
+              "count": [
+                15,
+                4,
+                6,
+                7,
+                39,
+                106,
+                434,
+                674,
+                152,
+                110
+              ],
+              "score": 7.63,
+              "total": 1547
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790354294
+  },
+  {
+    "id": 72720828,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701430,
+            "subjectID": 622206,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーもイベントを楽しむにゃ",
+            "nameCN": "本喵也会喜欢这个活动的喵",
+            "duration": "00:23:40",
+            "airdate": "2026-09-10",
+            "comment": 110,
+            "desc": "気分転換を求めて、ヤクねことハメねこはパワースポットの滝へドライブに出かける。こいつら、意外と運転免許、持ってます。しかし、道中でハメねこの我が儘に耐えかねたヤクねこは、とんでもない仕返しを思いつき……。 相性が良いのか悪いのか分からない二匹の旅路は、案の定まっすぐ進まない。計画通りにいかないのはたぶん旅の醍醐味である。そんな綺麗な言葉で誤魔化したい、何もかもを。\r\n\r\n脚本：あおしまたかし\r\n絵コンテ：米田光宏、高橋謙仁\r\n演出：神山聖人\r\n総作画監督：能海知佳、HAYU"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "12话 / 2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "日常",
+              "日本",
+              "漫画改",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1284,
+              "count": [
+                39,
+                13,
+                20,
+                48,
+                140,
+                519,
+                1908,
+                2131,
+                403,
+                236
+              ],
+              "score": 7.43,
+              "total": 5457
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790352036
+  },
+  {
+    "id": 72699682,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699977,
+            "subjectID": 339515,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "活路",
+            "nameCN": "活路",
+            "duration": "00:23:40",
+            "airdate": "2026-09-09",
+            "comment": 61,
+            "desc": "終わりの見えない総力戦が続く中、\r\n帝国上層部では戦争指導そのものが迷走を極めていた。\r\n危機感を抱いたルーデルドルフは、\r\n戦争終結の出口を独自に模索し始める。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：松原聡　\r\n演出：松原聡 \r\n総作画監督：細越裕治 \r\n作画監督：三島詠子、三好和也、中山見都美、倉員千晶、ANIMETIX（oz-art）"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 2005,
+              "count": [
+                13,
+                2,
+                2,
+                15,
+                31,
+                192,
+                493,
+                385,
+                49,
+                31
+              ],
+              "score": 7.15,
+              "total": 1213
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790317408
+  },
+  {
     "id": 72683406,
     "uid": 588237,
     "cat": 4,
