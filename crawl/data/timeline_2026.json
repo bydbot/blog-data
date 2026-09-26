@@ -1,5 +1,351 @@
 [
   {
+    "id": 72766288,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691673,
+            "subjectID": 495291,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "魔女グレイス",
+            "nameCN": "魔女克芮丝",
+            "duration": "00:24:00",
+            "airdate": "2026-09-13",
+            "comment": 268,
+            "desc": "魔女グレイスとその姉のリグモアはかつて同じ夢を語り合っていた。\r\nしかしその夢はやがて、人魚の世界を闇に導くこととなる。\r\nローワンが厳しい掟を作った真実と、グレイスがララと茉里に託した願いとは。\r\n\r\n脚本：青瀬宥介\r\n絵コンテ：佐藤陽将\r\n演出：佐藤陽将\r\n作画監督：中村真由美"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 4174,
+              "count": [
+                24,
+                30,
+                33,
+                124,
+                370,
+                1180,
+                1514,
+                815,
+                147,
+                59
+              ],
+              "score": 6.67,
+              "total": 4296
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790441666
+  },
+  {
+    "id": 72762334,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1996,
+              "count": [
+                13,
+                2,
+                2,
+                15,
+                33,
+                209,
+                545,
+                399,
+                52,
+                31
+              ],
+              "score": 7.14,
+              "total": 1301
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 7,
+          "collectID": 52841261
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790437126
+  },
+  {
+    "id": 72762260,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699979,
+            "subjectID": 339515,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "出口",
+            "nameCN": "出路",
+            "duration": "00:23:40",
+            "airdate": "2026-09-23",
+            "comment": 62,
+            "desc": "総力戦の焔は、何もかもを薪としてくべることすらも要求する。\r\nだが、ルーデルドルフは人間であった。\r\n彼は躊躇し、結果、間違える。間違えは、許されない。\r\nだから友の手によって、正されるのだ。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：山本貴之　\r\n演出：山本貴之\r\n総作画監督：細越裕治\r\n作画監督：栗田新一、東亮太、南井尚子、三島詠子、三好和也、後藤雅、倉員千晶、\r\n坂本ひろみ、WUXI HUAXIAN ANIMATION PRODUCTION（Hong In-soo）、\r\nLAZO・ブルーアトリエ（孫嘉宝）、火鳥動画制作集団"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1996,
+              "count": [
+                13,
+                2,
+                2,
+                15,
+                33,
+                209,
+                545,
+                399,
+                52,
+                31
+              ],
+              "score": 7.14,
+              "total": 1301
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790437058
+  },
+  {
+    "id": 72754660,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701431,
+            "subjectID": 622206,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーたち in 京都にゃ",
+            "nameCN": "本喵一行人在京都喵",
+            "duration": "00:23:40",
+            "airdate": "2026-09-17",
+            "comment": 108,
+            "desc": "そうだ 京都 行こう。おちんぽ達郎の突然の提案で、アパートの面々は京都・奈良旅行へ。猫力車を乗り回し、鹿からせんべいを奪い、御神体にヤニ押し付けて、やりたい放題のヤニねこは、奈良公園で古の知恵を残し人語を語る「鹿の王」と遭遇する。我々はどこから来たのか、そしてどこへ行くのか――獣たちの深淵な語りは、しかし唐突に終わりを告げる。抗いがたい便意によって…。ぶりぶりぶりぶり。\r\n\r\n脚本：あおしまたかし\r\n絵コンテ・演出：板庇 迪\r\n総作画監督：能海知佳、曾品喬"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "12话 / 2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "日常",
+              "日本",
+              "漫画改",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1085,
+              "count": [
+                40,
+                13,
+                21,
+                49,
+                145,
+                560,
+                2106,
+                2456,
+                463,
+                258
+              ],
+              "score": 7.45,
+              "total": 6111
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790426703
+  },
+  {
+    "id": 72752262,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1699978,
+            "subjectID": 339515,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "砂時計",
+            "nameCN": "沙漏",
+            "duration": "00:23:40",
+            "airdate": "2026-09-16",
+            "comment": 66,
+            "desc": "外交の行き詰まりは、ルーデルドルフを絶望させる。\r\n彼には、これ以上、躊躇する時間がなかった。\r\nならば、必要なことを。その決断は、しかし、一人の友を激怒させる。\r\n\r\n脚本：猪原健太　\r\n絵コンテ：尾形光洋　\r\n演出：尾形光洋\r\n総作画監督：細越裕治\r\n総作画監督補佐：三島詠子\r\n作画監督：栗田新一、東亮太、南井尚子、WUXI HUAXIAN ANIMATION PRODUCTION（Hong In-soo、JEON、Seo Jeong-ha）"
+          },
+          "subject": {
+            "id": 339515,
+            "name": "幼女戦記Ⅱ",
+            "nameCN": "幼女战记 第二季",
+            "type": 2,
+            "info": "12话 / 2026年7月8日 / 山本貴之 / カルロ・ゼン（「幼女戦記」／KADOKAWA刊） / 細越裕治",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 1996,
+              "count": [
+                13,
+                2,
+                2,
+                15,
+                33,
+                209,
+                545,
+                399,
+                52,
+                31
+              ],
+              "score": 7.14,
+              "total": 1301
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/45/a6/339515_OTG2O.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790422697
+  },
+  {
     "id": 72722793,
     "uid": 588237,
     "cat": 4,
