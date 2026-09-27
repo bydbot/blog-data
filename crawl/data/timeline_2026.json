@@ -1,5 +1,344 @@
 [
   {
+    "id": 72817876,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705016,
+            "subjectID": 545917,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "電子の海へ 〜誰のためでもなく、自分のために描こう！",
+            "nameCN": "投入电子汪洋 ～不为任何人，只为自己而画吧！",
+            "duration": "00:23:00",
+            "airdate": "2026-09-04",
+            "comment": 71,
+            "desc": "夏末时分，为了准备下一场COMITIA，安海和藤森在石龙的建议下，决定合作绘制四格漫画，并开始投稿到SNS上。\r\n想到自己的漫画就这样传向全世界，两人起初都相当紧张，但随着陆续收到各种回应，也渐渐感受到了不错的回响。\r\n然而，没过多久，「赞」的数量便开始停滞不前，安海也因此开始烦恼，自己的漫画究竟是不是真的有趣——\r\n\r\n夏の終わり、次のコミティアに向けて石龍からアドバイスをもらった安海と藤森は4コマ漫画を合作し、SNSでの投稿を始めることに。\r\n世界中に自分たちの漫画が発信されることに緊張する二人だったが、リアクションもあり手応えを感じる。\r\nしかし、やがて「いいね！」数が伸び悩むと、安海は自分の漫画が面白いのか悩み始める─。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 285,
+              "count": [
+                4,
+                1,
+                2,
+                5,
+                35,
+                134,
+                578,
+                1480,
+                626,
+                156
+              ],
+              "score": 7.97,
+              "total": 3021
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790527818
+  },
+  {
+    "id": 72815490,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 501963,
+            "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+            "nameCN": "无职转生 第三季 ～到了异世界就拿出真本事～",
+            "type": 2,
+            "info": "14话 / 2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "日本",
+              "奇幻",
+              "冒险",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 201,
+              "count": [
+                54,
+                18,
+                23,
+                34,
+                79,
+                231,
+                922,
+                2263,
+                1052,
+                686
+              ],
+              "score": 8.01,
+              "total": 5362
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1f/9e/501963_bXlEP.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 8,
+          "collectID": 31671600
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790525869
+  },
+  {
+    "id": 72815372,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1717534,
+            "subjectID": 501963,
+            "sort": 14,
+            "type": 0,
+            "disc": 0,
+            "name": "覚悟",
+            "nameCN": "決心",
+            "duration": "00:23:40",
+            "airdate": "2026-09-27",
+            "comment": 265,
+            "desc": "老ルーデウスの日記を読み終えたルーデウスは、愛する家族を守るために、悲惨な未来を回避するために行動を開始する。シルフィエットとロキシーに老ルーデウスの存在や詳細を隠しながら、家族に危険が及ぶかもしれないということを伝える。そして「エリス」の存在についても…。"
+          },
+          "subject": {
+            "id": 501963,
+            "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
+            "nameCN": "无职转生 第三季 ～到了异世界就拿出真本事～",
+            "type": 2,
+            "info": "14话 / 2026年7月4日 / 渋谷亮介 / 理不尽な孫の手（MFブックス／KADOKAWA刊） / 嶋田真恵・古川良太",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "日本",
+              "奇幻",
+              "冒险",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 201,
+              "count": [
+                54,
+                18,
+                23,
+                34,
+                79,
+                231,
+                922,
+                2263,
+                1052,
+                686
+              ],
+              "score": 8.01,
+              "total": 5362
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1f/9e/501963_bXlEP.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790525784
+  },
+  {
+    "id": 72787405,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "12话 / 2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "日常",
+              "日本",
+              "漫画改",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1035,
+              "count": [
+                40,
+                13,
+                21,
+                51,
+                153,
+                588,
+                2259,
+                2656,
+                514,
+                272
+              ],
+              "score": 7.47,
+              "total": 6567
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          },
+          "comment": "就好这口",
+          "rate": 7,
+          "collectID": 52675714
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790493669
+  },
+  {
+    "id": 72787202,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1701432,
+            "subjectID": 622206,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "ニャーは最終回でもヤニを吸うにゃ",
+            "nameCN": "本喵到最终回也照样抽烟喵",
+            "duration": "00:23:40",
+            "airdate": "2026-09-24",
+            "comment": 86,
+            "desc": "打ち切り、クビ、理不尽な穴掘りバイト……住人たちに次々と限界が訪れる。満身創痍のヤニねこは、のんきな大家に怒りを爆発させ、電子レンジが飛び交うアパート史上最大のハゲキャットファイトが勃起(おこ)ってしまう。何を言っているのか、こちらもよくわかっていない。 みんな、ストレス溜まりすぎてない？なんもねえけど、とりあえずみんな生きてるからいいってことにしようや。\r\n\r\n脚本：あおしまたかし\r\n絵コンテ：木村拓\r\n演出：木村拓、牛嶋新一郎、松永浩太郎\r\n総作画監督：松浦力、野田友美、能海知佳、曾品喬"
+          },
+          "subject": {
+            "id": 622206,
+            "name": "ヤニねこ",
+            "nameCN": "尼古喵喵",
+            "type": 2,
+            "info": "12话 / 2026年7月2日 / 木村拓 / にゃんにゃんファクトリー（講談社「ヤングマガジン」連載） / 松浦力",
+            "metaTags": [
+              "TV",
+              "喜剧",
+              "日常",
+              "日本",
+              "漫画改",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 1035,
+              "count": [
+                40,
+                13,
+                21,
+                51,
+                153,
+                588,
+                2259,
+                2656,
+                514,
+                272
+              ],
+              "score": 7.47,
+              "total": 6567
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/6a/b3/622206_dpWcC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790493337
+  },
+  {
     "id": 72766288,
     "uid": 588237,
     "cat": 4,
