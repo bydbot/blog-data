@@ -1,5 +1,219 @@
 [
   {
+    "id": 72860138,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1702356,
+            "subjectID": 585820,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "第二の試練",
+            "nameCN": "第二道试炼",
+            "duration": "00:23:40",
+            "airdate": "2026-09-09",
+            "comment": 44,
+            "desc": "艾莉西亚带着密蕾亚逃出拷问室，与双胞胎重逢。她将密蕾亚托付给两人后，又坠入了深渊。在那里，她看见了一头巨大的魔兽──奇美拉女王。它腹部映出的，竟然是那些在复活勇者传承的实验中牺牲的婴儿们的凄惨身影。正当艾莉西亚气得浑身发抖时，另一个密蕾亚拿着托亚之书现身。\r\n\r\nミレアと共に拷問部屋を出たアリシアは双子と再会し、ミレアを双子に託してまたもや奈落へと落ちていく。そこでアリシアが見たのは巨大な魔獣・キメラクイーン。その腹部には、勇者伝承復活のための実験で犠牲となった赤子たちの無残な姿が浮かんでいた。怒りに震えるアリシアのもとに、トアの書を持ったもうひとりのミレアが現れる。\r\n\r\n脚本：小柳啓伍　\r\n絵コンテ：則座誠　\r\n演出：則座誠　\r\n総作画監督：近藤奈都子　\r\n作画監督：日向正樹　\r\n動画検査：庵奥亮太　\r\n色指定検査：長谷川美穂　\r\n話数制作担当：山田彩矢"
+          },
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3030,
+              "count": [
+                2,
+                1,
+                1,
+                8,
+                29,
+                136,
+                344,
+                96,
+                24,
+                8
+              ],
+              "score": 6.89,
+              "total": 649
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790612571
+  },
+  {
+    "id": 72858889,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1702355,
+            "subjectID": 585820,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "鏡の迷宮",
+            "nameCN": "镜之迷宫",
+            "duration": "00:23:40",
+            "airdate": "2026-09-02",
+            "comment": 46,
+            "desc": "艾莉西亚恢复原貌，发现自己身处镜之迷宫的深处。克雷恩听到迦鲁特向札提耶报告此事，立刻赶往艾莉西亚身边。另一方面，艾莉西亚试图离开坠落后抵达的拷问室，然而无论她走出房间多少次，最后都会回到原地。而她在那里遇见的，竟然是一名意想不到的人物……\r\n\r\n元の姿へ戻ったアリシアだったが、彼女は鏡の迷宮の奥深くにいた。ガルトからザフティエへの報告でそのことを聞いたクレンは、すぐにアリシアのもとへと向かう。その頃、アリシアは落下して最初に入った拷問部屋を出ようとしたが、部屋を何度出ても元の場所に戻ってきてしまう。そこでアリシアが出会ったのは意外な人物で……。\r\n\r\n脚本：小柳啓伍　\r\n絵コンテ：齋藤徳明　\r\n演出：小野亮汰　\r\n総作画監督：佐古宗一郎　\r\n作画監督：北島勇樹・能海知佳・寺澤伸介・荒川奈津・李文生　\r\n動画検査：花芽実明　\r\n色指定検査：中川昭洋　\r\n話数制作担当：宮本佳奈"
+          },
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3030,
+              "count": [
+                2,
+                1,
+                1,
+                8,
+                29,
+                136,
+                344,
+                96,
+                24,
+                8
+              ],
+              "score": 6.89,
+              "total": 649
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790611111
+  },
+  {
+    "id": 72840119,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709079,
+            "subjectID": 530725,
+            "sort": 42,
+            "type": 0,
+            "disc": 0,
+            "name": "SON OF DARKNESS",
+            "nameCN": "黑暗之子",
+            "duration": "00:24:40",
+            "airdate": "2026-08-01",
+            "comment": 32,
+            "desc": "ナックルヴァールと夜一・浦原の死闘が続く。\r\n「瞬閧 雷神戦形『瞬霳黒猫戦姫』」をも破られ、追い詰められた二人に、滅却師完聖体『神の毒見』となったナックルヴァールが迫る。\r\n一方、一護と織姫は真世界城最上階へ到達し、玉座にてユーハバッハと対峙。\r\nユーハバッハとハッシュヴァルトの力は夜の間だけ入れ替わる。\r\n『全知全能』を持たない今のユーハバッハは、なお不敵に笑う──。\r\n\r\nSTAFF\r\n脚本：平松正樹、田口智久\r\n絵コンテ：松井信太郎\r\n演出：松井信太郎\r\n作画監督：とみながまり、Cindy H.yamauchi、鈴木里奈、近藤いずみ、滝川和男\r\n総作画監督：小松原聖"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 383,
+              "count": [
+                10,
+                3,
+                2,
+                11,
+                13,
+                46,
+                169,
+                229,
+                127,
+                113
+              ],
+              "score": 7.88,
+              "total": 723
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790583327
+  },
+  {
     "id": 72817876,
     "uid": 588237,
     "cat": 4,

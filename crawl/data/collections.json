@@ -1,5 +1,29 @@
 [
   {
+    "sid": 585820,
+    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-29T00:22:51+08:00"
+  },
+  {
+    "sid": 530725,
+    "name": "BLEACH 千年血戦篇-禍進譚-",
+    "name_cn": "死神 千年血战篇-祸进谭-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 2,
+    "eps": 10,
+    "comment": "",
+    "updated_at": "2026-09-28T16:15:27+08:00"
+  },
+  {
     "sid": 545917,
     "name": "これ描いて死ね",
     "name_cn": "画完这个再去死",
@@ -144,18 +168,6 @@
     "updated_at": "2026-09-11T17:27:30+08:00"
   },
   {
-    "sid": 585820,
-    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
-    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 8,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-09-08T14:36:36+08:00"
-  },
-  {
     "sid": 570583,
     "name": "グロウアップショウ ～ひまわりのサーカス団～",
     "name_cn": "Grow Up Show ～向日葵马戏团～",
@@ -202,18 +214,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-08-30T23:00:40+08:00"
-  },
-  {
-    "sid": 530725,
-    "name": "BLEACH 千年血戦篇-禍進譚-",
-    "name_cn": "死神 千年血战篇-祸进谭-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 1,
-    "eps": 10,
-    "comment": "",
-    "updated_at": "2026-08-25T12:53:35+08:00"
   },
   {
     "sid": 234771,
