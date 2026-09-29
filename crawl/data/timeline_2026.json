@@ -1,5 +1,151 @@
 [
   {
+    "id": 72895996,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1702357,
+            "subjectID": 585820,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "鏡に映るもの",
+            "nameCN": "鏡中之物",
+            "duration": "00:23:40",
+            "airdate": "2026-09-16",
+            "comment": 73,
+            "desc": "艾莉西亚在迷宫里看见的是挚爱父亲莫鲁戈年轻时的模样。按照里密蕾亚的说法，不打倒莫鲁戈就无法脱离此空间，这就是第二道试炼「镜之迷宫」同时，借助卢纳的力量进入秘密研究室的克雷恩正与沃迪恩对峙。\r\n\r\n迷宮の中でアリシアが見たのは、最愛の父マルゴの若かりし日の姿だった。裏のミレアによると、マルゴを倒すまでアリシアはこの空間から出られない。これが鏡の迷宮、第二の試練だった。一方、ルナの力を借りて秘密の部屋へと入っていったクレンはヴォーデインと対峙する。\r\n\r\n脚本：小柳啓伍　\r\n絵コンテ：齋藤徳明　\r\n演出：平田政宗　\r\n総作画監督：佐古宗一郎　\r\n作画監督：能海知佳・宮本武史・晴牧・荒川奈津・寺澤伸介・神崎裕・小谷杏子　\r\n動画検査：岸井沙織　\r\n色指定検査：上妻佳祐　\r\n話数制作担当：林洸輔"
+          },
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3030,
+              "count": [
+                2,
+                1,
+                1,
+                8,
+                29,
+                132,
+                339,
+                94,
+                24,
+                8
+              ],
+              "score": 6.89,
+              "total": 638
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790700341
+  },
+  {
+    "id": 72872432,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704968,
+            "subjectID": 587109,
+            "sort": 9,
+            "type": 0,
+            "disc": 0,
+            "name": "スクリーム",
+            "nameCN": "悲鸣",
+            "duration": "00:23:50",
+            "airdate": "2026-09-05",
+            "comment": 50,
+            "desc": "曲がり角で流星に激突したのは、パンをくわえたJK……ではなくCDを咥えた殺戮マシン・メカ6号！流星に一目惚れした彼女が教室に乱入し、自爆寸前の愛を叫ぶカオスな事態に。一方、復活の勇者・綾姫はいじめっ子に絡まれてしまい、何やら不穏な雰囲気……！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：いとがしんたろー\r\n総作監：小林利充"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3276,
+              "count": [
+                3,
+                3,
+                5,
+                11,
+                81,
+                488,
+                1119,
+                359,
+                40,
+                29
+              ],
+              "score": 6.9,
+              "total": 2138
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790656342
+  },
+  {
     "id": 72860138,
     "uid": 588237,
     "cat": 4,
