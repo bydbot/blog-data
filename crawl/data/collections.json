@@ -1,5 +1,29 @@
 [
   {
+    "sid": 633836,
+    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 8,
+    "eps": 8,
+    "comment": "",
+    "updated_at": "2026-10-01T00:36:23+08:00"
+  },
+  {
+    "sid": 708197,
+    "name": "無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール",
+    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～ 第2部分",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+    "type": 1,
+    "rate": 0,
+    "ep_status": 0,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-30T15:32:36+08:00"
+  },
+  {
     "sid": 585820,
     "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
     "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -94,18 +118,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-26T23:38:46+08:00"
-  },
-  {
-    "sid": 633836,
-    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
-    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 8,
-    "comment": "",
-    "updated_at": "2026-09-26T00:38:14+08:00"
   },
   {
     "sid": 175198,

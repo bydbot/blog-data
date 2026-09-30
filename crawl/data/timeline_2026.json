@@ -1,5 +1,203 @@
 [
   {
+    "id": 72929673,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "冒险",
+              "穿越",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 698,
+              "count": [
+                14,
+                5,
+                7,
+                19,
+                55,
+                211,
+                742,
+                833,
+                162,
+                116
+              ],
+              "score": 7.46,
+              "total": 2164
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 7,
+          "collectID": 51174344
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790786183
+  },
+  {
+    "id": 72929606,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1656865,
+            "subjectID": 633836,
+            "sort": 85,
+            "type": 0,
+            "disc": 0,
+            "name": "シャウラ／英雄",
+            "nameCN": "夏乌拉／英雄",
+            "duration": "00:41:10",
+            "airdate": "2026-09-30",
+            "comment": 77,
+            "desc": "爱蜜莉雅在最上层发现了黑色独块体与六个手印。恢复意识的波尔卡尼卡却称她为「莎缇拉」——嫉妒魔女，并再次朝她发动袭击。为了对抗神话中的吐息，爱蜜莉雅试图发动极大魔法。另一方面，在沙丘上持续压制魔兽的昴与碧翠丝身旁，朱利斯也及时赶到。集结一路旅程至今的所有力量，普莱迪斯监视塔攻略终于迎来最终局面。染上鲜红色泽的红蝎甲壳，正一片片崩落……\r\n\r\n最上層で黒いモノリスと６つの手形を発見したエミリアに対し、意識を取り戻したボルカニカはサテラと、嫉妬の魔女と呼びかけ、再び襲いかかってくる。神話の息吹きに対抗すべく、極大魔法の発動に挑むエミリア。そして砂丘では、魔獣を抑え続けるスバルとベアトリスのもとにユリウスが駆け付けていた。旅の全ての力を結集したプレアデス監視塔攻略、最終局面。鮮やかな赤色に染まる紅蠍の甲殻が、ボロボロと崩れ落ちていく。\r\n\r\n脚本：横谷昌宏　\r\n絵コンテ：篠原正寛　\r\n演出：篠原正寛、大槻一恵、丸山裕介\r\n総作画監督：佐川 遥、三島千枝、野田康行\r\n作画監督：佐川 遥、中田正彦、永吉 隆志、三浦 瞳、富永武志、持丸彰親、ジカビ、杉浦圭一、五月麻帆、凪乃しずく、村田大亮、野田康行、滝 吾郎、宮部 唯、少 隆、JEON、Seo Jeong-ha、RACRAFT（天界、mono、Fish、Grand Guerrilla、堀川陽向）、GAONNURI（Kim So-joong、Bae Geun-young）"
+          },
+          "subject": {
+            "id": 633836,
+            "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+            "nameCN": "Re：从零开始的异世界生活 第四季 夺还篇",
+            "type": 2,
+            "info": "8话 / 2026年8月12日 / 篠原正寛 / 長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊） / 佐川遥",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "战斗",
+              "冒险",
+              "穿越",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 698,
+              "count": [
+                14,
+                5,
+                7,
+                19,
+                55,
+                211,
+                742,
+                833,
+                162,
+                116
+              ],
+              "score": 7.46,
+              "total": 2164
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/43/ca/633836_ql0f3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790786067
+  },
+  {
+    "id": 72911692,
+    "uid": 588237,
+    "cat": 3,
+    "type": 2,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 708197,
+            "name": "無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール",
+            "nameCN": "无职转生 第三季 ～到了异世界就拿出真本事～ 第2部分",
+            "type": 2,
+            "info": "2027年 / 理不尽な孫の手（MFブックス／KADOKAWA刊）",
+            "metaTags": [
+              "后宫",
+              "TV",
+              "日本",
+              "奇幻",
+              "冒险",
+              "小说改"
+            ],
+            "rating": {
+              "rank": 0,
+              "count": [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                5
+              ],
+              "score": 7.5,
+              "total": 8
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/48/bc/708197_9K9kZ.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 0,
+          "collectID": 53747029
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790753556
+  },
+  {
     "id": 72895996,
     "uid": 588237,
     "cat": 4,
