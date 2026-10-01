@@ -5,14 +5,20 @@
 // 数据源为过渡方案（本地数据文件）。未来接入小米便签等外部拉取时，
 // 只需保持 MurmurItem 结构不变、重写 getMurmurList 的数据来源即可，页面无需改动。
 
+// 预置 emoji 回应（种子计数）。api 模式（reactionConfig.mode）下全站计数
+// 以 KV 为准，种子仅作为接口未就绪/不可用时的兜底显示
+export interface MurmurReaction {
+	emoji: string; // 原生 emoji 字符，同时也是未来图标集（Twemoji 等）的标识
+	count: number; // 种子计数（仅 api 不可用时的兜底显示值）
+}
+
 export interface MurmurItem {
 	id: number;
 	content: string; // 正文，支持 \n 换行
 	date: string; // ISO 8601，如 2026-10-01T21:30:00+08:00
-	mood?: string; // 心情（emoji 或短词）
-	location?: string; // 位置
 	tags?: string[]; // 标签
 	images?: string[]; // 配图，路径相对于 /public，如 /images/murmurs/xxx.webp
+	reactions?: MurmurReaction[]; // 预置回应；不写则该条只有 "+" 按钮
 	source?: string; // 来源标识（预留：后续接入小米便签等外部源时用于标记）
 }
 
@@ -23,14 +29,18 @@ const murmursData: MurmurItem[] = [
 		content:
 			"碎碎念功能上线啦 🎉 以后想到什么就随手记在这里，不用起标题，不用排版。",
 		date: "2026-10-01T21:30:00+08:00",
-		mood: "🎉",
 		tags: ["开始"],
+		reactions: [
+			{ emoji: "🎉", count: 3 },
+			{ emoji: "👍", count: 2 },
+			{ emoji: "❤️", count: 1 },
+		],
 	},
 	{
 		id: 3,
 		content: "页面做成了聊天记录的样子，往下滑就像在翻和自己聊过的天。",
 		date: "2026-10-01T21:00:00+08:00",
-		mood: "😊",
+		reactions: [{ emoji: "👀", count: 1 }],
 	},
 	{
 		id: 2,
@@ -44,8 +54,6 @@ const murmursData: MurmurItem[] = [
 		id: 1,
 		content: "这是一条更早的碎碎念，用来演示按月份折叠分组的效果。",
 		date: "2026-09-30T08:30:00+08:00",
-		mood: "🌙",
-		location: "家里",
 	},
 ];
 
@@ -64,7 +72,9 @@ export interface MurmurMonthGroup {
 }
 
 // 按年月折叠分组（入参需已倒序）
-export const groupMurmursByMonth = (items: MurmurItem[]): MurmurMonthGroup[] => {
+export const groupMurmursByMonth = (
+	items: MurmurItem[],
+): MurmurMonthGroup[] => {
 	const groups: MurmurMonthGroup[] = [];
 	const map = new Map<string, MurmurMonthGroup>();
 	for (const item of items) {
