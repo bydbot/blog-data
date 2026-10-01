@@ -1,5 +1,139 @@
 [
   {
+    "id": 72969027,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3120,
+              "count": [
+                2,
+                1,
+                3,
+                11,
+                43,
+                222,
+                569,
+                153,
+                26,
+                11
+              ],
+              "score": 6.87,
+              "total": 1041
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 6,
+          "collectID": 43623362
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790872379
+  },
+  {
+    "id": 72968959,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1717866,
+            "subjectID": 585820,
+            "sort": 13,
+            "type": 0,
+            "disc": 0,
+            "name": "真の勇者",
+            "nameCN": "真正的勇者",
+            "duration": "00:23:40",
+            "airdate": "2026-09-30",
+            "comment": 60,
+            "desc": "通过第二道试炼后，艾莉西亚的脸上浮现出第二道纹章。凭着这股力量，艾莉西亚一步步将里密蕾亚逼入绝境。如今敌人只剩魔兽王沃迪恩。为了做个了断，艾莉西亚前往克雷恩所在之处。然而，克雷恩的身躯早已遭沃迪恩践踏，更被烈焰焚烧。艾莉西亚挥剑砍向沃迪恩，却……！？\r\n\r\n第二の試練をクリアしたアリシアの顔に浮かび上がる第二の紋章。その力でアリシアは裏のミレアを追い詰めていく。残された敵は、魔獣王ヴォーデイン。アリシアは決着をつけるため、クレンのもとへと向かう。だが、クレンの体はヴォーデインに踏みにじられ、炎で焼かれていた。アリシアはヴォーデインめがけ剣を振るうが……!?\r\n\r\n脚本：小柳啓伍\r\n絵コンテ：齋藤徳明\r\n演出：塚田拓郎\r\n総作画監督：佐古宗一郎\r\n作画監督：松原一之・三宮哲太・山口光紀・能海知佳・宮本武史・晴牧・佐古宗一郎・神田川太郎・北島勇樹\r\n動画検査：余島郁枝\r\n色指定検査：中川昭洋\r\n話数制作担当：森山寛之"
+          },
+          "subject": {
+            "id": 585820,
+            "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+            "nameCN": "Clevatess II-魔兽之王与虚假的勇者传承-",
+            "type": 2,
+            "info": "13话 / 2026年7月8日 / 田口清隆 / 岩原裕二（「LINEマンガ」連載） / 佐古宗一郎",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 3120,
+              "count": [
+                2,
+                1,
+                3,
+                11,
+                43,
+                222,
+                569,
+                153,
+                26,
+                11
+              ],
+              "score": 6.87,
+              "total": 1041
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/1a/a0/585820_NpfLN.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790872269
+  },
+  {
     "id": 72929673,
     "uid": 588237,
     "cat": 3,

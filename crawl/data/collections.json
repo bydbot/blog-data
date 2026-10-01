@@ -1,5 +1,17 @@
 [
   {
+    "sid": 585820,
+    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "type": 2,
+    "rate": 6,
+    "ep_status": 13,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-10-02T00:32:59+08:00"
+  },
+  {
     "sid": 633836,
     "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
     "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
@@ -22,18 +34,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-09-30T15:32:36+08:00"
-  },
-  {
-    "sid": 585820,
-    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
-    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-09-30T00:45:41+08:00"
   },
   {
     "sid": 587109,
