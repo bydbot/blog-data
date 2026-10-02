@@ -35,7 +35,6 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // 数据仓库布局：crawl/scripts → crawl/data（时间线原始数据）、data/（生成产物）、api/（分页）
 const SRC_DIR = join(__dirname, "..", "data");
 const OUT_FILE = join(__dirname, "..", "..", "data", "bgm-timeline.json");
-const OUT_FULL_FILE = join(__dirname, "..", "..", "data", "bgm-timeline-full.json");
 const OUT_PAGE_DIR = join(__dirname, "..", "..", "data", "bgm-timeline");
 const OUT_SUBJECTS = join(OUT_PAGE_DIR, "subjects.json");
 
@@ -297,27 +296,6 @@ function main() {
 
 	// 完整时间线：按时间降序（最新在前）
 	fullEntries.sort((a, b) => b.time - a.time);
-
-	const fullStats = {
-		total: fullEntries.length,
-		bySubjectType: {
-			book: fullEntries.filter((e) => e.st === 1).length,
-			anime: fullEntries.filter((e) => e.st === 2).length,
-			music: fullEntries.filter((e) => e.st === 3).length,
-			game: fullEntries.filter((e) => e.st === 4).length,
-			real: fullEntries.filter((e) => e.st === 6).length,
-		},
-	};
-
-	writeFileSync(
-		OUT_FULL_FILE,
-		JSON.stringify({ entries: fullEntries, stats: fullStats }, null, 0),
-		"utf-8",
-	);
-
-	console.log(
-		`[bgm-aggregate] 完整时间线: ${fullEntries.length} 条，输出 ${OUT_FULL_FILE}`,
-	);
 
 	// ─────────────────────────────────────────────────────────
 	// 完整时间线：预切分页，按 全部/动画/游戏 各切一份，前端按需拉取单页
