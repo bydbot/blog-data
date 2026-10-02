@@ -1,5 +1,211 @@
 [
   {
+    "id": 73006496,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704969,
+            "subjectID": 587109,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "逆転のトライアングル",
+            "nameCN": "逆转的三角",
+            "duration": "00:23:50",
+            "airdate": "2026-09-12",
+            "comment": 65,
+            "desc": "アース13から来た魔術師・天羽新が次元融合による世界の再構築を企むが、そこに流星が前世で仕えた「ルーンベルク姫」こと紬奈愛琉が、チート能力を引っ提げて降臨！　その後は再会を果たした流星と仲睦まじくコーヒーを楽しみながら昔話。それを目の当たりにしたミーティアは……！？　さらに愛琉は流星に驚きの提案を持ちかける。\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：平向智子\r\n総作監：西尾淳之介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3049,
+              "count": [
+                3,
+                3,
+                5,
+                18,
+                93,
+                565,
+                1225,
+                390,
+                38,
+                33
+              ],
+              "score": 6.88,
+              "total": 2373
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790960006
+  },
+  {
+    "id": 73004880,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 4982,
+              "count": [
+                31,
+                31,
+                37,
+                156,
+                455,
+                1419,
+                1647,
+                774,
+                141,
+                48
+              ],
+              "score": 6.56,
+              "total": 4739
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          },
+          "comment": "我不理解",
+          "rate": 0,
+          "collectID": 52675716
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790957805
+  },
+  {
+    "id": 73004576,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1691674,
+            "subjectID": 495291,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "duration": "00:24:00",
+            "airdate": "2026-09-20",
+            "comment": 276,
+            "desc": "ララが家族を救う唯一の方法、それは「愛する者を殺す」こと。\r\nララの脳裏に思い浮かぶのは他でもない、茉里だった。\r\n琵琶湖での異常気象が行く手を阻むなか、茉里はララに会いにいく。\r\n\r\n脚本：川原杏奈\r\n絵コンテ：小出卓史\r\n演出：小出卓史\r\n作画監督：谷紫織"
+          },
+          "subject": {
+            "id": 495291,
+            "name": "さよならララ",
+            "nameCN": "再见菈菈",
+            "type": 2,
+            "info": "12话 / 2026年7月5日 / 小出卓史 / KINEMA CITRUS / 谷紫織",
+            "metaTags": [
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "原创"
+            ],
+            "rating": {
+              "rank": 4982,
+              "count": [
+                31,
+                31,
+                37,
+                156,
+                455,
+                1419,
+                1647,
+                774,
+                141,
+                48
+              ],
+              "score": 6.56,
+              "total": 4739
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/18/af/495291_9WuBW.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1790957351
+  },
+  {
     "id": 72969027,
     "uid": 588237,
     "cat": 3,

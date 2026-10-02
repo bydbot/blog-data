@@ -1,5 +1,29 @@
 [
   {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-03T00:53:26+08:00"
+  },
+  {
+    "sid": 495291,
+    "name": "さよならララ",
+    "name_cn": "再见菈菈",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "type": 2,
+    "rate": 0,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "我不理解",
+    "updated_at": "2026-10-03T00:16:45+08:00"
+  },
+  {
     "sid": 585820,
     "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
     "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
@@ -34,18 +58,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-09-30T15:32:36+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-29T12:32:22+08:00"
   },
   {
     "sid": 530725,
@@ -94,18 +106,6 @@
     "eps": 12,
     "comment": "就好这口",
     "updated_at": "2026-09-27T15:21:09+08:00"
-  },
-  {
-    "sid": 495291,
-    "name": "さよならララ",
-    "name_cn": "再见菈菈",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-27T00:54:26+08:00"
   },
   {
     "sid": 339515,
