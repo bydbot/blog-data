@@ -52,12 +52,6 @@ export interface MurmurItem {
 // 缺省 = note 自己发的。content 超过 500 字即走长文折叠展示
 const murmursData: MurmurItem[] = [
 	{
-		id: 7,
-		content:
-			"今天把碎碎念的后端折腾了一整天。起因很简单：想发一条长一点的碎碎念，结果发现限死 500 字，写到一半的念头被硬生生掐断，特别扫兴。于是顺手把存储从 KV 搬到了 R2——清单瘦身成摘要，全文单独放对象里，展开的时候再按需拉取。中间踩了几个坑：一是 R2 的 put 要显式带 contentType，不然代理出去的 content-type 是八进制流，浏览器直接下载而不是渲染；二是清单对象不存在和读取异常是两回事，回落旧 KV 的逻辑得分别兜住，不然第一次部署就是全空白；三是引用快照的长度上限得跟正文上限解耦，不然长文一引用，data-quote 属性能把整个气泡撑到几十 KB，合并渲染的载荷也跟着膨胀。改完看着一条长碎碎念在气泡里折叠出「展开全文」的按钮，突然觉得这个页面终于像个真正的内容流，而不是一个只能发哼哈的聊天框了。顺便验证了一下展开再收起：全文拉一次就留在 DOM 里，再展开是瞬时的，体验比预期好。剩下想做的还有不少——比如长文里支持简单的换行排版、展开时带一个轻量的过渡动画、侧栏迷你列表对长文只显示摘要首行等等，慢慢来。对了，这条本身就是用超过五百字的正文写的，为的就是当折叠演示的样本：你现在看到的气泡是裁剪过的，点一下下面的按钮就能看到全部。",
-		date: "2026-10-03T09:30:00+08:00",
-	},
-	{
 		id: 6,
 		content:
 			"刷到一句话，深有同感，分享在这里：『所谓成长，就是把「这不会是我吧」慢慢换成「果然如此」的过程。』",
@@ -92,14 +86,6 @@ const murmursData: MurmurItem[] = [
 		reactions: [{ emoji: "👀", count: 1 }],
 	},
 	{
-		id: 2,
-		content:
-			"支持多图：在 images 数组里放 /public 下的图片路径就行，点击可以放大。",
-		date: "2026-09-30T22:10:00+08:00",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.webp"],
-		category: "share",
-	},
-	{
 		id: 1,
 		content: "这是一条更早的碎碎念，用来演示按月份折叠分组的效果。",
 		date: "2026-09-30T08:30:00+08:00",
@@ -127,15 +113,30 @@ export const groupMurmursByMonth = (
 	const groups: MurmurMonthGroup[] = [];
 	const map = new Map<string, MurmurMonthGroup>();
 	for (const item of items) {
-		const d = new Date(item.date);
-		const key = `${d.getFullYear()}-${d.getMonth() + 1}`;
+		const [year, month0] = murmurMonthKey(item.date);
+		const key = `${year}-${month0}`;
 		let group = map.get(key);
 		if (!group) {
-			group = { year: d.getFullYear(), month: d.getMonth() + 1, items: [] };
+			group = { year, month: month0 + 1, items: [] };
 			map.set(key, group);
 			groups.push(group);
 		}
 		group.items.push(item);
 	}
 	return groups;
+};
+
+// 固定 +08:00（Asia/Shanghai）取年月，返回 [year, month0]（month 为 0 基）。
+// 不能用 Date 的本地 getter：SSR 构建机时区是 UTC，浏览器时区又各不相同，
+// 同一条目会被归进不同月份——SSR 下发的 data-murmur-month 与客户端合并时
+// 算出的月键就会错位（凌晨发布的条目尤甚）。数据源（git 静态 + API 服务端）
+// 全部记 +08:00，作者与受众都在此时区，故统一按 Asia/Shanghai 分组
+const monthKeyFormatter = new Intl.DateTimeFormat("en-CA", {
+	timeZone: "Asia/Shanghai",
+	year: "numeric",
+	month: "2-digit",
+});
+export const murmurMonthKey = (iso: string): [number, number] => {
+	const [year, month] = monthKeyFormatter.format(new Date(iso)).split("-").map(Number);
+	return [year, month - 1];
 };
