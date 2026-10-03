@@ -32,16 +32,34 @@ jobs:
           BGM_USER_ID: "588237"
           BGM_TOKEN: ${{ secrets.BGM_TOKEN }}
 
+      # 时间线产物不再入库：整目录镜像到 R2 桶 blog-bgm（--delete 同步清理多余旧分页）。
+      # 站点经 Pages Functions 运行时读取，故时间线数据更新秒级生效、无需重建博客。
+      # 需要 secrets：R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY
+      - name: Upload timeline data to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: |
+          aws s3 sync data/bgm-timeline "s3://blog-bgm/bgm-timeline" --delete --endpoint-url "$R2_ENDPOINT"
+          aws s3 cp data/bgm-timeline.json "s3://blog-bgm/bgm-timeline.json" --endpoint-url "$R2_ENDPOINT"
+
       - name: Commit and push if changed + trigger blog build
         run: |
           git config user.name "bydbot"
           git config user.email "111557429+bydbot@users.noreply.github.com"
-          git add -A crawl data api
+          git add -A crawl data
           if git diff --cached --quiet; then
             echo "无数据变更，跳过 push"
           else
             git commit -m "chore: auto update bangumi data $(date -u +%Y-%m-%d)"
             git push
-            echo "已推送数据更新，触发博客构建"
-            curl -sS -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}" -d '{}' || echo "build hook 调用失败"
+            # 只有追番页数据（构建期读取）变化才需要重建；时间线已直传 R2。
+            if git diff-tree --no-commit-id --name-only -r HEAD | grep -qx "data/bangumi-data.json"; then
+              echo "追番页数据变化，触发博客构建"
+              curl -sS -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}" -d '{}' || echo "build hook 调用失败"
+            else
+              echo "仅原始数据/增量状态变化，时间线已直传 R2，无需重建"
+            fi
           fi
