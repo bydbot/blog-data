@@ -35,10 +35,10 @@ jobs:
       # 时间线产物不再入库：直传 R2 桶 blog-bgm。站点经 Pages Functions 运行时读取，
       # 故时间线数据更新秒级生效、无需重建博客。
       # 需要 secrets：R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY
-      # 注意：不用 aws s3 sync / rm --recursive——Object 读写令牌没有桶级 ListObjects
-      # 权限，会 AccessDenied。上传用单对象显式 cp（PutObject）；清理先 GetObject 读回
-      # 远端 manifest 精确算出失效分页，再逐键 delete-object（DeleteObject）；
-      # 固定区间幂等清扫历史遗留的 all/ 目录，键不存在时 DeleteObject 返回成功。
+      # 注意：全程不枚举桶——aws s3 sync / rm --recursive 依赖桶级 ListObjects，
+      # 遇到仅对象级权限的令牌会 AccessDenied。上传用单对象显式 cp（PutObject），
+      # 清理先 GetObject 读回远端 manifest 算出失效分页，再逐键 delete-object
+      # （DeleteObject，对不存在的键返回成功，天然幂等）。
       - name: Upload timeline data to R2
         # 上传失败不阻断后续数据入库步骤：git 数据提交是迁移前就有的契约，
         # R2 短暂滞后只影响时间线新鲜度（站点仍可读旧数据），告警可见即可。
@@ -67,24 +67,27 @@ jobs:
           aws s3 cp data/bgm-timeline/subjects.json "$B/bgm-timeline/subjects.json" $EP --content-type "application/json; charset=utf-8"
           aws s3 cp data/bgm-timeline.json "$B/bgm-timeline.json" $EP --content-type "application/json; charset=utf-8"
 
-          echo "== 上传三源分页 =="
+          echo "== 上传三源分页（8 并发） =="
           shopt -s nullglob
           for src in anime game other; do
             for f in data/bgm-timeline/$src/page-*.json; do
-              aws s3 cp "$f" "$B/bgm-timeline/$src/$(basename "$f")" $EP --content-type "application/json; charset=utf-8"
+              printf '%s\n' "${f#data/}"
             done
-          done
+          done | xargs -r -P 8 -I{} aws s3 cp "data/{}" "$B/{}" $EP --content-type "application/json; charset=utf-8"
 
           echo "== 计算失效键 =="
           : > /tmp/stale-keys.txt
-          # 历史遗留 all/ 目录固定区间清扫（1..200 覆盖历史峰值，幂等）
-          seq 1 200 | sed 's|^|bgm-timeline/all/page-|; s|$|.json|' >> /tmp/stale-keys.txt
-          # 旧 manifest 声明的、新数据已不覆盖的分页（页数收缩时才非空）
+          # 分页连续 1..pageCount，旧 manifest 的 pageCount 即旧最大页号：
+          # 旧页数 > 新页数的部分即失效分页（源整体移除时新页数取 0，整段清理）。
+          # 历史遗留 all/ 已于 2026-10-03 一次性清扫完毕，无需再留固定区间兜底。
           if [ -s /tmp/old-manifest.json ]; then
             jq -r '.categories | to_entries[] | "\(.key) \(.value.pageCount)"' /tmp/old-manifest.json \
               | while read -r src pc; do
-                  seq $((pc + 1)) 200 2>/dev/null \
-                    | sed "s|^|bgm-timeline/$src/page-|; s|\$|.json|" >> /tmp/stale-keys.txt || true
+                  newPc=$(jq -r ".categories.${src}.pageCount // 0" "$MAN")
+                  if [ "$pc" -gt "$newPc" ] 2>/dev/null; then
+                    seq $((newPc + 1)) "$pc" \
+                      | sed "s|^|bgm-timeline/$src/page-|; s|\$|.json|" >> /tmp/stale-keys.txt || true
+                  fi
                 done
           fi
           sort -u /tmp/stale-keys.txt -o /tmp/stale-keys.txt
