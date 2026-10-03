@@ -1,27 +1,219 @@
 [
   {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-03T00:53:26+08:00"
+  },
+  {
     "sid": 495291,
     "name": "さよならララ",
     "name_cn": "再见菈菈",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/18/af/495291_9WuBW.jpg",
+    "type": 2,
+    "rate": 0,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "我不理解",
+    "updated_at": "2026-10-03T00:16:45+08:00"
+  },
+  {
+    "sid": 585820,
+    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
+    "type": 2,
+    "rate": 6,
+    "ep_status": 13,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-10-02T00:32:59+08:00"
+  },
+  {
+    "sid": 633836,
+    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
+    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 8,
+    "eps": 8,
+    "comment": "",
+    "updated_at": "2026-10-01T00:36:23+08:00"
+  },
+  {
+    "sid": 708197,
+    "name": "無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール",
+    "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～ 第2部分",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/48/bc/708197_9K9kZ.jpg",
+    "type": 1,
+    "rate": 0,
+    "ep_status": 0,
+    "eps": 0,
+    "comment": "",
+    "updated_at": "2026-09-30T15:32:36+08:00"
+  },
+  {
+    "sid": 530725,
+    "name": "BLEACH 千年血戦篇-禍進譚-",
+    "name_cn": "死神 千年血战篇-祸进谭-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 4,
+    "ep_status": 2,
+    "eps": 10,
+    "comment": "",
+    "updated_at": "2026-09-28T16:15:27+08:00"
+  },
+  {
+    "sid": 545917,
+    "name": "これ描いて死ね",
+    "name_cn": "画完这个再去死",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 9,
     "eps": 12,
     "comment": "",
-    "updated_at": "2026-09-04T00:54:29+08:00"
+    "updated_at": "2026-09-28T00:50:18+08:00"
   },
   {
     "sid": 501963,
     "name": "無職転生Ⅲ ～異世界行ったら本気だす～",
     "name_cn": "无职转生 第三季 ～到了异世界就拿出真本事～",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/1f/9e/501963_bXlEP.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 10,
+    "type": 2,
+    "rate": 8,
+    "ep_status": 14,
     "eps": 14,
     "comment": "",
-    "updated_at": "2026-09-01T01:05:47+08:00"
+    "updated_at": "2026-09-28T00:17:49+08:00"
+  },
+  {
+    "sid": 622206,
+    "name": "ヤニねこ",
+    "name_cn": "尼古喵喵",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "就好这口",
+    "updated_at": "2026-09-27T15:21:09+08:00"
+  },
+  {
+    "sid": 339515,
+    "name": "幼女戦記Ⅱ",
+    "name_cn": "幼女战记 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-26T23:38:46+08:00"
+  },
+  {
+    "sid": 175198,
+    "name": "91Days",
+    "name_cn": "91天",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 12,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-25T00:44:50+08:00"
+  },
+  {
+    "sid": 150746,
+    "name": "この美術部には問題がある！",
+    "name_cn": "这个美术社大有问题！",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/b6/fb/150746_AAL5A.jpg",
+    "type": 1,
+    "rate": 0,
+    "ep_status": 0,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-19T22:49:56+08:00"
+  },
+  {
+    "sid": 552533,
+    "name": "天幕のジャードゥーガル",
+    "name_cn": "穹庐下的魔女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-14T17:30:05+08:00"
+  },
+  {
+    "sid": 517106,
+    "name": "逃げ上手の若君 第二期",
+    "name_cn": "擅长逃跑的殿下 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-11T19:03:18+08:00"
+  },
+  {
+    "sid": 471793,
+    "name": "君のことが大大大大大好きな100人の彼女 第2期",
+    "name_cn": "超超超超超喜欢你的100个女朋友 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-11T17:27:30+08:00"
+  },
+  {
+    "sid": 570583,
+    "name": "グロウアップショウ ～ひまわりのサーカス団～",
+    "name_cn": "Grow Up Show ～向日葵马戏团～",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-09-08T13:50:42+08:00"
+  },
+  {
+    "sid": 627136,
+    "name": "うしろの正面カムイさん",
+    "name_cn": "从后面来的神威先生",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-08T00:13:54+08:00"
+  },
+  {
+    "sid": 493724,
+    "name": "淡島百景",
+    "name_cn": "淡岛百景",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-09-07T23:33:19+08:00"
   },
   {
     "sid": 615835,
@@ -34,78 +226,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-08-30T23:00:40+08:00"
-  },
-  {
-    "sid": 622206,
-    "name": "ヤニねこ",
-    "name_cn": "尼古喵喵",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/622206_dpWcC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-08-30T17:16:21+08:00"
-  },
-  {
-    "sid": 493724,
-    "name": "淡島百景",
-    "name_cn": "淡岛百景",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/bd/33/493724_V6lXx.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-30T15:24:07+08:00"
-  },
-  {
-    "sid": 517106,
-    "name": "逃げ上手の若君 第二期",
-    "name_cn": "擅长逃跑的殿下 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_kDd70.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 2,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-27T23:29:01+08:00"
-  },
-  {
-    "sid": 471793,
-    "name": "君のことが大大大大大好きな100人の彼女 第2期",
-    "name_cn": "超超超超超喜欢你的100个女朋友 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-25T21:49:03+08:00"
-  },
-  {
-    "sid": 339515,
-    "name": "幼女戦記Ⅱ",
-    "name_cn": "幼女战记 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_OTG2O.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-25T20:00:31+08:00"
-  },
-  {
-    "sid": 530725,
-    "name": "BLEACH 千年血戦篇-禍進譚-",
-    "name_cn": "死神 千年血战篇-祸进谭-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 1,
-    "eps": 10,
-    "comment": "",
-    "updated_at": "2026-08-25T12:53:35+08:00"
   },
   {
     "sid": 234771,
@@ -132,42 +252,6 @@
     "updated_at": "2026-08-24T14:12:26+08:00"
   },
   {
-    "sid": 552533,
-    "name": "天幕のジャードゥーガル",
-    "name_cn": "穹庐下的魔女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/28/41/552533_E9DF9.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-24T11:28:05+08:00"
-  },
-  {
-    "sid": 545917,
-    "name": "これ描いて死ね",
-    "name_cn": "画完这个再去死",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 4,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-24T00:23:06+08:00"
-  },
-  {
-    "sid": 585820,
-    "name": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
-    "name_cn": "Clevatess II-魔兽之王与虚假的勇者传承-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/1a/a0/585820_NpfLN.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 2,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-08-23T22:55:54+08:00"
-  },
-  {
     "sid": 477825,
     "name": "ぬきたし THE ANIMATION",
     "name_cn": "拔作岛",
@@ -192,18 +276,6 @@
     "updated_at": "2026-08-22T13:47:27+08:00"
   },
   {
-    "sid": 627136,
-    "name": "うしろの正面カムイさん",
-    "name_cn": "从后面来的神威先生",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/627136_hb0Jd.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-08-17T20:43:48+08:00"
-  },
-  {
     "sid": 638497,
     "name": "正反対な君と僕 第2期",
     "name_cn": "相反的你和我 第二季",
@@ -214,18 +286,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-08-17T20:42:25+08:00"
-  },
-  {
-    "sid": 570583,
-    "name": "グロウアップショウ ～ひまわりのサーカス団～",
-    "name_cn": "Grow Up Show ～向日葵马戏团～",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-08-17T20:42:20+08:00"
   },
   {
     "sid": 541285,
@@ -250,18 +310,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-08-17T20:41:49+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 0,
-    "comment": "",
-    "updated_at": "2026-08-17T20:41:39+08:00"
   },
   {
     "sid": 583729,
@@ -418,18 +466,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-06-24T01:29:22+08:00"
-  },
-  {
-    "sid": 633836,
-    "name": "Re:ゼロから始める異世界生活 4th season 奪還編",
-    "name_cn": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/43/ca/633836_ql0f3.jpg",
-    "type": 1,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 8,
-    "comment": "",
-    "updated_at": "2026-06-18T01:14:49+08:00"
   },
   {
     "sid": 547888,
@@ -8734,18 +8770,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2022-10-18T13:37:21+08:00"
-  },
-  {
-    "sid": 175198,
-    "name": "91Days",
-    "name_cn": "91天",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
-    "type": 1,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2022-10-18T13:27:45+08:00"
   },
   {
     "sid": 218971,
