@@ -40,6 +40,9 @@ jobs:
       # 远端 manifest 精确算出失效分页，再逐键 delete-object（DeleteObject）；
       # 固定区间幂等清扫历史遗留的 all/ 目录，键不存在时 DeleteObject 返回成功。
       - name: Upload timeline data to R2
+        # 上传失败不阻断后续数据入库步骤：git 数据提交是迁移前就有的契约，
+        # R2 短暂滞后只影响时间线新鲜度（站点仍可读旧数据），告警可见即可。
+        continue-on-error: true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
