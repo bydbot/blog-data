@@ -1,5 +1,137 @@
 [
   {
+    "id": 73046943,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1741638,
+            "subjectID": 622288,
+            "sort": 1,
+            "type": 0,
+            "disc": 0,
+            "name": "FXって、なぁに？",
+            "nameCN": "FX⋯是什么？",
+            "duration": "00:23:45",
+            "airdate": "2026-10-01",
+            "comment": 198,
+            "desc": "中学3年生の福賀くるみは、ある日、母・梢がFXで2000万円を失ったことを知る。父に知られてしまったら、家族はバラバラになってしまうかも!? そう考えたくるみは、自分もFXを学び、母が失ったお金を取り返すと決意。しかし、梢は日に日に疲弊していき……。時は過ぎ、大学生になったくるみが、ついに“戦場”へと足を踏み入れる！\r\n\r\nSTAFF\r\n脚本：猪原健太\r\n絵コンテ：小川優樹\r\n演出：松島慎太郎(魚雷映蔵)\r\n総作画監督：植田和幸／江藤大気\r\n作画監督：近藤源一郎／高橋成之／井上貴騎／蔡 孟書／LAZZ／桜井正明／愼 亨祐／Xenron Flow Works／火鳥動画制作集団"
+          },
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 2199,
+              "count": [
+                4,
+                0,
+                1,
+                3,
+                25,
+                120,
+                395,
+                139,
+                21,
+                30
+              ],
+              "score": 7.09,
+              "total": 738
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791045731
+  },
+  {
+    "id": 73046940,
+    "uid": 588237,
+    "cat": 3,
+    "type": 10,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 2199,
+              "count": [
+                4,
+                0,
+                1,
+                3,
+                25,
+                120,
+                395,
+                139,
+                21,
+                30
+              ],
+              "score": 7.09,
+              "total": 738
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 0,
+          "collectID": 53869177
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791045727
+  },
+  {
     "id": 73006496,
     "uid": 588237,
     "cat": 4,
