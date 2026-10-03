@@ -25,6 +25,15 @@ export interface MurmurReplyRef {
 // （functions/api/murmurs/index.ts 的 CATEGORIES）
 export type MurmurCategory = "note" | "share";
 
+// 访客条目作者（邮箱验证登录后发布，2026-10-03）。缺省（无 author）= 博主
+// 自己发的——git 静态数据与 API 管理员条目都不带此字段，渲染端据此落
+// 左/右侧聊天气泡。avatar 是 emoji（头像库单源 src/config/murmurAvatars.ts），
+// 服务端昵称截 20 字、邮箱只存哈希不落明文
+export interface MurmurAuthor {
+	name: string;
+	avatar?: string;
+}
+
 export interface MurmurItem {
 	id: number;
 	content: string; // 正文，支持 \n 换行；API 长文条目此字段为前 500 字摘要（全文在 longUrl）
@@ -35,6 +44,7 @@ export interface MurmurItem {
 	source?: string; // 来源标识（预留：后续接入小米便签等外部源时用于标记）
 	category?: MurmurCategory; // 缺省视为 note；share 条目带分享徽章
 	longUrl?: string; // 长文全文地址（API 条目由 longKey 拼装；git 静态数据全文内联，不设此字段）
+	author?: MurmurAuthor; // 访客条目作者；缺省 = 博主自己
 }
 
 // 示例数据（可随时增删改，按 date 倒序展示）。
