@@ -6,8 +6,9 @@
 #   crawl/scripts/   本脚本 + update-bangumi.mjs + aggregate-bgm-timeline.mjs + python 爬虫
 #   crawl/data/      timeline_*.json（时间线原始，增量）、collections.json（收藏兜底）
 #   crawl/state/     .bangumi-state.json（node 富化增量状态，入库 → 增量永久生效）
-#   data/            bangumi-data.json / bgm-timeline*.json / bgm-timeline/（生成产物，入库）
-#   api/bgm-timeline/（分页 JSON，入库）
+#   data/            bangumi-data.json（入库，追番页构建期读取）
+#                    bgm-timeline.json / bgm-timeline/（生成产物，不入库；
+#                    由 update.yml 上传 R2 桶 blog-bgm，站点运行时经 Pages Functions 读取）
 #
 # 用法：
 #   BGM_TOKEN=xxx BGM_USER_ID=588237 ./scripts/update-bgm.sh       # 云端/本地全套

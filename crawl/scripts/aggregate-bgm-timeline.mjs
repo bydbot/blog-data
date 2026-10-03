@@ -2,8 +2,18 @@
 /**
  * aggregate-bgm-timeline.mjs
  *
- * 读取 /home/sin/blog/bgm-timeline/data/timeline_*.json 中的 Bangumi 时间线原始记录，
- * 聚合成一个轻量索引文件：src/data/bgm-timeline.json
+ * 读取 crawl/data/timeline_*.json 中的 Bangumi 时间线原始记录，聚合成站点消费的产物：
+ *
+ *   data/bgm-timeline.json                           日历索引（轻量，结构见下）
+ *   data/bgm-timeline/subjects.json                  作品公共字段（按 sid 存一份）
+ *   data/bgm-timeline/page-manifest.json             分页清单
+ *   data/bgm-timeline/{anime,game,other}/page-N.json 预切分页
+ *
+ * 分类是三个互不重叠的源（anime=st2、game=st4、other=其余），并集即全部条目；
+ * 「全部」标签页由前端按 anime 分页边界合并三者，不再预生成 all 分页（避免近重复数据）。
+ *
+ * 产物不入 git：由 .github/workflows/update.yml 用 `aws s3 sync` 上传到 R2 桶
+ * blog-bgm，站点经 Pages Functions（functions/api/bgm-timeline*）运行时读取。
  *
  * 索引结构：
  *   {
@@ -32,16 +42,11 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-// 数据仓库布局：crawl/scripts → crawl/data（时间线原始数据）、data/（生成产物）、api/（分页）
+// 数据仓库布局：crawl/scripts → crawl/data（时间线原始数据）、data/（生成产物）
 const SRC_DIR = join(__dirname, "..", "data");
 const OUT_FILE = join(__dirname, "..", "..", "data", "bgm-timeline.json");
 const OUT_PAGE_DIR = join(__dirname, "..", "..", "data", "bgm-timeline");
 const OUT_SUBJECTS = join(OUT_PAGE_DIR, "subjects.json");
-
-// Astro 7.0.4 在 trailingSlash: "always" 下会给动态 endpoint 路径追加尾斜杠，
-// 导致 [category]/[page].json 这类带固定后缀的路由 pattern 匹配失败（Missing parameter）。
-// 因此分页 JSON 不再走 Astro 动态路由，直接镜像成 public/ 下的静态文件，前端 URL 不变。
-const PUBLIC_PAGE_DIR = join(__dirname, "..", "..", "api", "bgm-timeline");
 
 // 里程碑 collect 动作：完结态 + 进行态（决定是否富化完整字段）
 const MILESTONE_ACTIONS = new Set([
@@ -298,39 +303,40 @@ function main() {
 	fullEntries.sort((a, b) => b.time - a.time);
 
 	// ─────────────────────────────────────────────────────────
-	// 完整时间线：预切分页，按 全部/动画/游戏 各切一份，前端按需拉取单页
-	// 数据结构优化：作品公共字段抽到 subjects.json 按 sid 存一份，
-	// 分页条目只保留 sid 引用 + 事件字段，消除同作品多操作里的重复标题/封面。
+	// 完整时间线：按互不重叠的三个源预切分页，前端按需拉取单页。
+	// 作品公共字段抽到 subjects.json 按 sid 存一份，分页条目只保留 sid 引用 +
+	// 事件字段，消除同作品多操作里的重复标题/封面。
+	// 「全部」不单独切页：它 = anime ∪ game ∪ other，由前端合并（见 BgmTimeline.svelte），
+	// 避免 all 与 anime 近乎重复（anime 占全部 98%）造成的冗余。
 	// ─────────────────────────────────────────────────────────
 	const subjects = buildSubjects(fullEntries);
 	const cats = {
-		all: fullEntries.map(slimEntry),
 		anime: fullEntries.filter((e) => e.st === 2).map(slimEntry),
 		game: fullEntries.filter((e) => e.st === 4).map(slimEntry),
+		other: fullEntries.filter((e) => e.st !== 2 && e.st !== 4).map(slimEntry),
 	};
 	const manifest = { pageSize: PAGE_SIZE, categories: {} };
 
 	for (const [cat, list] of Object.entries(cats)) {
 		const pageCount = Math.ceil(list.length / PAGE_SIZE);
 		const catDir = join(OUT_PAGE_DIR, cat);
-		const pubCatDir = join(PUBLIC_PAGE_DIR, cat);
 		mkdirSync(catDir, { recursive: true });
-		mkdirSync(pubCatDir, { recursive: true });
 		for (let p = 1; p <= pageCount; p++) {
 			const chunk = list.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE);
-			const pageJson = JSON.stringify(chunk, null, 0);
-			writeFileSync(join(catDir, `page-${p}.json`), pageJson, "utf-8");
-			writeFileSync(join(pubCatDir, `page-${p}.json`), pageJson, "utf-8");
+			writeFileSync(
+				join(catDir, `page-${p}.json`),
+				JSON.stringify(chunk, null, 0),
+				"utf-8",
+			);
 		}
 		manifest.categories[cat] = { pageCount, total: list.length };
 		// 清理超出当前 pageCount 的残留旧分页文件（page 数会随数据增删变化），
 		// 否则旧文件会继续被前端按 manifest 之外的路径读到，导致展示过期数据。
-		for (const dir of [catDir, pubCatDir]) {
-			for (const name of readdirSync(dir)) {
-				const mm = /^page-(\d+)\.json$/.exec(name);
-				if (mm && Number(mm[1]) > pageCount) {
-					unlinkSync(join(dir, name));
-				}
+		// R2 侧由上传步骤的 `aws s3 sync --delete` 做同样的镜像删除。
+		for (const name of readdirSync(catDir)) {
+			const mm = /^page-(\d+)\.json$/.exec(name);
+			if (mm && Number(mm[1]) > pageCount) {
+				unlinkSync(join(catDir, name));
 			}
 		}
 		console.log(
@@ -356,11 +362,6 @@ function main() {
 		"utf-8",
 	);
 	console.log(`[bgm-aggregate] 分页 manifest 输出 ${join(OUT_PAGE_DIR, "page-manifest.json")}`);
-
-	// 镜像到 public/（替代被移除的 Astro 动态 endpoint，前端请求路径不变）
-	writeFileSync(join(PUBLIC_PAGE_DIR, "subjects.json"), subjectsJson, "utf-8");
-	writeFileSync(join(PUBLIC_PAGE_DIR, "page-manifest.json"), manifestJson, "utf-8");
-	console.log(`[bgm-aggregate] public 镜像输出 ${PUBLIC_PAGE_DIR}`);
 }
 
 main();
