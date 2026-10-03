@@ -3,9 +3,20 @@ venv/
 __pycache__/
 *.pyc
 
+# wrangler 本地状态（本地跑 r2/kv 命令时会生成）
+.wrangler/
+
 # 爬虫日志
 *.log
 
 # 视频等大文件（如需要再放开）
 *.mp4
 *.mkv
+
+# Bangumi 时间线产物：不入库，由 update.yml 上传 R2 桶 blog-bgm
+# （站点运行时经 Pages Functions 读取，数据更新无需重建博客）
+/data/bgm-timeline.json
+/data/bgm-timeline/
+
+# 旧分页镜像目录：产物改直传 R2 后不再生成（保留忽略，防历史文件被误入库）
+/api/
