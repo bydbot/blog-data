@@ -1,5 +1,76 @@
 [
   {
+    "id": 73097198,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705018,
+            "subjectID": 545917,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "ふたり 〜補いあえる仲間は尊い！",
+            "nameCN": "两人 ～能互补的伙伴超尊！",
+            "duration": "00:23:00",
+            "airdate": "2026-09-18",
+            "comment": 67,
+            "desc": "安海等人开始为下一个目标——冬季COMITIA展开准备。\r\n安海与藤森决定各自创作原创漫画，并按照各自的风格投入创作，却也在过程中深切感受到自己所欠缺的部分。\r\nCOMITIA举办在即，漫研社成员们第二次前往东京。\r\n另一方面，手岛老师来到过去曾连载作品的小学馆前，静静回想起昔日的种种往事——\r\n\r\n次の目標である冬のコミティアに向けて準備を始める安海たち。 安海と藤森は、互いにオリジナルの漫画を制作することに決め、それぞれの作風で制作を進めるが、各々が足りない部分を痛感していた。\r\nコミティアを前に二度目の東京入りをした漫研メンバー。\r\n一方手島先生は、かつて連載していた小学館の前で、様々な思い出を静かに振り返る―。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 233,
+              "count": [
+                8,
+                2,
+                2,
+                5,
+                42,
+                154,
+                674,
+                1775,
+                856,
+                208
+              ],
+              "score": 8.02,
+              "total": 3726
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791133294
+  },
+  {
     "id": 73046943,
     "uid": 588237,
     "cat": 4,

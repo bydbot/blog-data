@@ -1,5 +1,17 @@
 [
   {
+    "sid": 545917,
+    "name": "これ描いて死ね",
+    "name_cn": "画完这个再去死",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-05T01:01:34+08:00"
+  },
+  {
     "sid": 622288,
     "name": "FX戦士くるみちゃん",
     "name_cn": "FX战士久留美",
@@ -82,18 +94,6 @@
     "eps": 10,
     "comment": "",
     "updated_at": "2026-09-28T16:15:27+08:00"
-  },
-  {
-    "sid": 545917,
-    "name": "これ描いて死ね",
-    "name_cn": "画完这个再去死",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-09-28T00:50:18+08:00"
   },
   {
     "sid": 501963,
