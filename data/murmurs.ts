@@ -28,10 +28,13 @@ export type MurmurCategory = "note" | "share";
 // 访客条目作者（邮箱验证登录后发布，2026-10-03）。缺省（无 author）= 博主
 // 自己发的——git 静态数据与 API 管理员条目都不带此字段，渲染端据此落
 // 左/右侧聊天气泡。avatar 是 emoji（头像库单源 src/config/murmurAvatars.ts），
-// 服务端昵称截 20 字、邮箱只存哈希不落明文
+// 服务端昵称截 20 字、邮箱只存哈希不落明文。avatarUrl = 上传头像的展示地址
+// （存储态存 R2 对象键，出接口由 toPublicMurmur 拼装，同 images/longUrl 契约），
+// 与 avatar 互斥：有 avatarUrl 渲染 <img>，否则 avatar emoji 圆壳
 export interface MurmurAuthor {
 	name: string;
 	avatar?: string;
+	avatarUrl?: string;
 }
 
 export interface MurmurItem {
