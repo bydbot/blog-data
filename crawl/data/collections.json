@@ -1,5 +1,17 @@
 [
   {
+    "sid": 638497,
+    "name": "正反対な君と僕 第2期",
+    "name_cn": "相反的你和我 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-10-06T00:53:37+08:00"
+  },
+  {
     "sid": 545917,
     "name": "これ描いて死ね",
     "name_cn": "画完这个再去死",
@@ -286,18 +298,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-08-22T13:47:27+08:00"
-  },
-  {
-    "sid": 638497,
-    "name": "正反対な君と僕 第2期",
-    "name_cn": "相反的你和我 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-08-17T20:42:25+08:00"
   },
   {
     "sid": 541285,

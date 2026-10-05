@@ -1,5 +1,211 @@
 [
   {
+    "id": 73142640,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704756,
+            "subjectID": 638497,
+            "sort": 13,
+            "type": 0,
+            "disc": 0,
+            "name": "クリスマスイヴ",
+            "nameCN": "平安夜",
+            "duration": "00:24:06",
+            "airdate": "2026-07-05",
+            "comment": 101,
+            "desc": "半年前、歩道橋での告白をきっかけに付き合い始めた鈴木と谷。 迎えたクリスマスイブ、鈴木は谷との初めてのクリスマスに胸を躍らせ、ケーキ作りデートを計画する。スーパーで買い出しをし、力を合わせてケーキを作る二人。 真剣にケーキを作る谷の姿にときめく鈴木だったが、念願の初キスのチャンスが訪れて…！？ そんな二人のクラスメイトである東は、冬休みを前に人との距離感に悩み、関係の始まり方について思いを巡らせていた。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 241,
+              "count": [
+                4,
+                3,
+                3,
+                7,
+                47,
+                117,
+                593,
+                1552,
+                634,
+                216
+              ],
+              "score": 8,
+              "total": 3176
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791219217
+  },
+  {
+    "id": 73140922,
+    "uid": 588237,
+    "cat": 3,
+    "type": 14,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 541285,
+            "name": "きみが死ぬまで恋をしたい",
+            "nameCN": "与你相恋到生命尽头",
+            "type": 2,
+            "info": "13话 / 2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+            "metaTags": [
+              "百合",
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 4501,
+              "count": [
+                15,
+                9,
+                29,
+                124,
+                408,
+                984,
+                1123,
+                500,
+                115,
+                142
+              ],
+              "score": 6.63,
+              "total": 3449
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/b3/26/541285_CYBZc.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 0,
+          "collectID": 52675736
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791217120
+  },
+  {
+    "id": 73140829,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1702275,
+            "subjectID": 541285,
+            "sort": 1,
+            "type": 0,
+            "disc": 0,
+            "name": "キス",
+            "nameCN": "接吻",
+            "duration": "00:23:40",
+            "airdate": "2026-07-07",
+            "comment": 222,
+            "desc": "身寄りのない子どもたちを受け入れ、教育し、戦争に駆り出す孤児院兼国戦用魔術兵器育成機関で暮らしている少女、トツキ・シーナは、ルームメイトが戦いで命を落としたことを、先生からあっさりと聞かされる。日常の一コマとして処理されることに戸惑いを隠せない彼女だったが、不意に現れた血まみれの少女・ミミと出会い――。"
+          },
+          "subject": {
+            "id": 541285,
+            "name": "きみが死ぬまで恋をしたい",
+            "nameCN": "与你相恋到生命尽头",
+            "type": 2,
+            "info": "13话 / 2026年7月7日 / 友田康 / あおのなち（コミック百合姫／一迅社刊） / 油布京子",
+            "metaTags": [
+              "百合",
+              "校园",
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 4501,
+              "count": [
+                15,
+                9,
+                29,
+                124,
+                408,
+                984,
+                1123,
+                500,
+                115,
+                142
+              ],
+              "score": 6.63,
+              "total": 3449
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/b3/26/541285_CYBZc.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/b3/26/541285_CYBZc.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791217002
+  },
+  {
     "id": 73097198,
     "uid": 588237,
     "cat": 4,
