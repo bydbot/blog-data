@@ -1,5 +1,292 @@
 [
   {
+    "id": 73187626,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704759,
+            "subjectID": 638497,
+            "sort": 16,
+            "type": 0,
+            "disc": 0,
+            "name": "新学期",
+            "nameCN": "新学期",
+            "duration": "00:24:06",
+            "airdate": "2026-07-26",
+            "comment": 90,
+            "desc": "新学期、過去のトラウマで自信を失っていた平は、東の言葉をきっかけに長年の勘違いに気付く。 一方、放課後の図書室に、ある思惑を持った鈴木が山田を連れて行く。 図書委員の仕事をしていた西は山田が来たことを嬉しく思いつつも、山田との関係性を周囲に知られそうで内心ソワソワ。仲良しの本田からも仲を問われるが、山田と”友達”の時点でいっぱいいっぱいの西。 その様子を見た本田に背中を押された西は「山田の彼女になりたい」と言い、自分の本当の気持ちに気付くのだった…。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 232,
+              "count": [
+                4,
+                3,
+                3,
+                9,
+                56,
+                117,
+                612,
+                1677,
+                705,
+                238
+              ],
+              "score": 8.02,
+              "total": 3424
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791304901
+  },
+  {
+    "id": 73162752,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704758,
+            "subjectID": 638497,
+            "sort": 15,
+            "type": 0,
+            "disc": 0,
+            "name": "行く年来る年",
+            "nameCN": "送旧迎新",
+            "duration": "00:24:06",
+            "airdate": "2026-07-19",
+            "comment": 75,
+            "desc": "年末、谷と過ごした時間を振り返り、忘れられない年になったと感じる鈴木。谷もまた、鈴木と過ごす日々の中で、彼女を深く知り、より好きになっていると静かに想いを深める。 そして谷は家族に付き合っている人がいることを伝え、元日に鈴木を自宅へ招待する。鈴木は突然の誘いに焦り、空回りから失敗の連続だったが…。 そして冬休み最終日、いつものメンバーで初詣を楽しむ鈴木と谷。谷の「悔いなく過ごしたい」という言葉に心を動かされた一同は、それぞれの想いを胸に新しい年へと踏み出していく。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 232,
+              "count": [
+                4,
+                3,
+                3,
+                9,
+                56,
+                117,
+                612,
+                1677,
+                705,
+                238
+              ],
+              "score": 8.02,
+              "total": 3424
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791272569
+  },
+  {
+    "id": 73160087,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704757,
+            "subjectID": 638497,
+            "sort": 14,
+            "type": 0,
+            "disc": 0,
+            "name": "冬の夜のジレンマ",
+            "nameCN": "冬夜的两难",
+            "duration": "00:24:06",
+            "airdate": "2026-07-12",
+            "comment": 101,
+            "desc": "クリスマス当日、サンタのコスプレでバイトをする平は、過去の恋愛を思い出して少し憂鬱になっていたが、そこに谷と山田が現れ、クリスマスケーキを囲んで楽しい時間を過ごす。 そして冬休み。離れて過ごす間にも、心が動いた瞬間があると、お互いに真っ先に伝えたくなることを再確認した鈴木と谷は、さらに絆を深めていく。 一方、西との関係がなかなか進展していないことに気付いた山田だったが、宿題を口実に西と会うものの、告白のタイミングを掴めず…。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 232,
+              "count": [
+                4,
+                3,
+                3,
+                9,
+                56,
+                117,
+                612,
+                1677,
+                705,
+                238
+              ],
+              "score": 8.02,
+              "total": 3424
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791268569
+  },
+  {
+    "id": 73154935,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1705017,
+            "subjectID": 545917,
+            "sort": 10,
+            "type": 0,
+            "disc": 0,
+            "name": "この世の 90%はカスである 〜ママより強くなるには「友達」が必要である",
+            "nameCN": "这个世界上90%都是渣滓 ～想变得比妈妈更强就需要「朋友」",
+            "duration": "00:23:00",
+            "airdate": "2026-09-11",
+            "comment": 151,
+            "desc": "文化祭的季节到了。\r\n漫研也决定参加文化祭，但石龙却显得兴致缺缺。\r\n这时，赤福大力称赞石龙在SNS上连载的漫画，石龙却只是冷淡以对。\r\n从小，石龙的母亲便告诉她：「无论是什么，其中90%都是渣滓。」\r\n然而，赤福似乎完全没放在心上——\r\n\r\n文化祭シーズン。\r\n漫研も文化祭へ参加することになるが、石龍は乗り気ではない態度を見せる。\r\nそんな中、赤福は石龍が SNS で連載している漫画を絶賛するも、石龍は素っ気なく─。\r\n幼いころから母親に「どんなものもその 90%はカスである」と教わってきた石龍。\r\nしかし、赤福は気に掛ける様子もなく―。"
+          },
+          "subject": {
+            "id": 545917,
+            "name": "これ描いて死ね",
+            "nameCN": "画完这个再去死",
+            "type": 2,
+            "info": "12话 / 2026年7月3日 / 赤城博昭 / とよ田みのる(小学館「ゲッサン」連載中) / 瀬川健寿",
+            "metaTags": [
+              "校园",
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 231,
+              "count": [
+                8,
+                2,
+                3,
+                6,
+                42,
+                167,
+                721,
+                1841,
+                916,
+                227
+              ],
+              "score": 8.02,
+              "total": 3933
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8b/c0/545917_GoNvI.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791258653
+  },
+  {
     "id": 73142640,
     "uid": 588237,
     "cat": 4,
