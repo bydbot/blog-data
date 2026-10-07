@@ -1,5 +1,77 @@
 [
   {
+    "id": 73234220,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704760,
+            "subjectID": 638497,
+            "sort": 17,
+            "type": 0,
+            "disc": 0,
+            "name": "バレンタイン",
+            "nameCN": "情人节",
+            "duration": "00:24:06",
+            "airdate": "2026-08-02",
+            "comment": 110,
+            "desc": "西に告白したい気持ちを抱えつつ、山田はなかなかタイミングを掴めずにいた。 そんな中デートをすることになった二人。西はあれこれと考えを巡らせるうちに、山田への想いが膨らんでいき、思いがけず「好きです」と告げることに。突然のことに戸惑う山田だったが･･･？ 一方、バレンタインを迎え、鈴木は手作りクッキーを谷に渡すも、正直すぎる感想に拗ねてしまう。 それぞれのバレンタインを過ごした山田と西、鈴木と谷。そして、からかう東の軽い一言を、真に受けてしまう平だった。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 220,
+              "count": [
+                5,
+                4,
+                4,
+                13,
+                55,
+                122,
+                643,
+                1752,
+                773,
+                264
+              ],
+              "score": 8.03,
+              "total": 3635
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791389848
+  },
+  {
     "id": 73187626,
     "uid": 588237,
     "cat": 4,
