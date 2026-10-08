@@ -1,5 +1,149 @@
 [
   {
+    "id": 73274075,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704762,
+            "subjectID": 638497,
+            "sort": 19,
+            "type": 0,
+            "disc": 0,
+            "name": "グラデーション",
+            "nameCN": "渐层",
+            "duration": "00:23:51",
+            "airdate": "2026-08-16",
+            "comment": 107,
+            "desc": "春休みに入り、晴れて恋人同士になった山田と西は、水族館で親密な時間を過ごす。緊張が解け、水族館を満喫する西に、山田は下の名前で呼びかけ、二人の距離はさらに縮まっていくのだった。 一方、誕生日を迎えた鈴木。谷とのお花見デートで、この先のクラス替えや受験への不安を伝えるものの、谷のまっすぐな言葉に安堵する。だが、揺れる想いを抱えていたのは、実は谷も同様だった…。 新学期を迎え、クラスが分かれた東と平。平とは友達なのだと自身に言い聞かせる東だったが、平の思いがけない言葉に、胸を弾ませる。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 217,
+              "count": [
+                6,
+                5,
+                5,
+                18,
+                56,
+                125,
+                657,
+                1812,
+                822,
+                279
+              ],
+              "score": 8.04,
+              "total": 3785
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791476914
+  },
+  {
+    "id": 73248050,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704761,
+            "subjectID": 638497,
+            "sort": 18,
+            "type": 0,
+            "disc": 0,
+            "name": "春の手前",
+            "nameCN": "春天的前夕",
+            "duration": "00:24:06",
+            "airdate": "2026-08-09",
+            "comment": 111,
+            "desc": "新学期、山田に彼女ができたことを聞き、平は素直に喜びを伝える。その後の下校時、何気ない会話の中で、過去のトラウマに囚われる平に、東は真剣に寄り添うのだった。 三学期も終わりを迎え、別れを惜しむ友人たちと楽しいひと時を過ごした後、名残惜しさを抱えた平と東はファミレスへ。 進級し、例えクラスが変わってしまっても、平との繋がりをなくしたくないと実感する東。平に対する気持ちが友情なのか何なのか、東自身もまだ分からないまま、新たな季節を迎えようとしていた。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 217,
+              "count": [
+                6,
+                5,
+                5,
+                18,
+                56,
+                125,
+                657,
+                1812,
+                822,
+                279
+              ],
+              "score": 8.04,
+              "total": 3785
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791433233
+  },
+  {
     "id": 73234220,
     "uid": 588237,
     "cat": 4,
