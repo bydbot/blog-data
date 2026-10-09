@@ -1,5 +1,53 @@
 [
   {
+    "sid": 622288,
+    "name": "FX戦士くるみちゃん",
+    "name_cn": "FX战士久留美",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 2,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-10T00:46:46+08:00"
+  },
+  {
+    "sid": 545917,
+    "name": "これ描いて死ね",
+    "name_cn": "画完这个再去死",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "IG8高了，虽然确实不错",
+    "updated_at": "2026-10-09T23:29:57+08:00"
+  },
+  {
+    "sid": 530725,
+    "name": "BLEACH 千年血戦篇-禍進譚-",
+    "name_cn": "死神 千年血战篇-祸进谭-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 3,
+    "eps": 10,
+    "comment": "",
+    "updated_at": "2026-10-09T19:47:36+08:00"
+  },
+  {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 11,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-09T19:19:11+08:00"
+  },
+  {
     "sid": 638497,
     "name": "正反対な君と僕 第2期",
     "name_cn": "相反的你和我 第二季",
@@ -10,42 +58,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-10-09T00:28:34+08:00"
-  },
-  {
-    "sid": 545917,
-    "name": "これ描いて死ね",
-    "name_cn": "画完这个再去死",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8b/c0/545917_GoNvI.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-06T11:50:53+08:00"
-  },
-  {
-    "sid": 622288,
-    "name": "FX戦士くるみちゃん",
-    "name_cn": "FX战士久留美",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 1,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-04T00:42:11+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 10,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-03T00:53:26+08:00"
   },
   {
     "sid": 495291,
@@ -94,18 +106,6 @@
     "eps": 0,
     "comment": "",
     "updated_at": "2026-09-30T15:32:36+08:00"
-  },
-  {
-    "sid": 530725,
-    "name": "BLEACH 千年血戦篇-禍進譚-",
-    "name_cn": "死神 千年血战篇-祸进谭-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 2,
-    "eps": 10,
-    "comment": "",
-    "updated_at": "2026-09-28T16:15:27+08:00"
   },
   {
     "sid": 501963,
