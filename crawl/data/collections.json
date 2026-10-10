@@ -1,5 +1,29 @@
 [
   {
+    "sid": 148361,
+    "name": "くまみこ",
+    "name_cn": "熊巫女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-11T00:53:08+08:00"
+  },
+  {
+    "sid": 587109,
+    "name": "花織さんは転生しても喧嘩がしたい",
+    "name_cn": "花织即使是转生也想打架",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+    "type": 2,
+    "rate": 7,
+    "ep_status": 12,
+    "eps": 12,
+    "comment": "谁会不喜欢逗啥子玩呢",
+    "updated_at": "2026-10-11T00:10:47+08:00"
+  },
+  {
     "sid": 622288,
     "name": "FX戦士くるみちゃん",
     "name_cn": "FX战士久留美",
@@ -34,18 +58,6 @@
     "eps": 10,
     "comment": "",
     "updated_at": "2026-10-09T19:47:36+08:00"
-  },
-  {
-    "sid": 587109,
-    "name": "花織さんは転生しても喧嘩がしたい",
-    "name_cn": "花织即使是转生也想打架",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 11,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-09T19:19:11+08:00"
   },
   {
     "sid": 638497,
@@ -442,18 +454,6 @@
     "eps": 13,
     "comment": "也算是半路追到最后一季，漫改动画能做到完结的就已经有点东西了，何况石纪元也是特色鲜明",
     "updated_at": "2026-07-11T01:02:18+08:00"
-  },
-  {
-    "sid": 148361,
-    "name": "くまみこ",
-    "name_cn": "熊巫女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-06-27T18:05:47+08:00"
   },
   {
     "sid": 623851,

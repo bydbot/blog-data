@@ -1,5 +1,213 @@
 [
   {
+    "id": 73349278,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 621345,
+            "subjectID": 148361,
+            "sort": 1,
+            "type": 0,
+            "disc": 0,
+            "name": "クマと少女 お別れの時",
+            "nameCN": "熊与少女 分别的时刻",
+            "duration": "00:24:15",
+            "airdate": "2016-04-03",
+            "comment": 85,
+            "desc": "脚本：ピエール杉浦／絵コンテ・演出：松田 清／作画監督：伊藤晋之、松尾亜希子\r\n\r\n熊を奉る神社に巫女として仕えている雨宿まちは、都会に憧れる中学生。ある日、幼少の頃より共に育ってきた後見人（人？）の喋るヒグマ・クマ井ナツへ「都会の高校へ行きたい」と訴えます。ところがナツは大反対！長きにわたる山育ちで、都会の常識を知らないまちの事が心配なのです。でも、どうしても「村を出て広い世界が見てみたい」と言うまち。そこでナツは都会で生きるために必要な知識をクイズで出題するのですが・・・。"
+          },
+          "subject": {
+            "id": 148361,
+            "name": "くまみこ",
+            "nameCN": "熊巫女",
+            "type": 2,
+            "info": "12话 / 2016年4月3日 / 松田清 / 吉元ますめ「くまみこ」（月刊コミックフラッパー / KADOKAWA） / 齊田博之",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 8888,
+              "count": [
+                42,
+                30,
+                91,
+                230,
+                426,
+                694,
+                439,
+                156,
+                14,
+                14
+              ],
+              "score": 5.7,
+              "total": 2136
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/4f/c8/148361_nEFsC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791651188
+  },
+  {
+    "id": 73347359,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3296,
+              "count": [
+                4,
+                4,
+                6,
+                22,
+                128,
+                689,
+                1395,
+                443,
+                44,
+                37
+              ],
+              "score": 6.84,
+              "total": 2772
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          },
+          "comment": "谁会不喜欢逗啥子玩呢",
+          "rate": 7,
+          "collectID": 52675730
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791648647
+  },
+  {
+    "id": 73347246,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704971,
+            "subjectID": 587109,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "ラブ・アクチュアリー",
+            "nameCN": "爱是您 爱是我",
+            "duration": "00:23:50",
+            "airdate": "2026-09-26",
+            "comment": 49,
+            "desc": "愛琉との死闘を制し、平和を取り戻した流星たち。穏やかな日常でミーティアが見たのは前世の頃の夢だった。しかし平穏な時間も束の間、謎の不審火で流星の自宅が全焼し、急遽ミーティアのマンションでドキドキ同棲生活がスタート！ 鳴神萌とのドタバタや、お風呂でのハプニングに翻弄され、ついでにラッキースケベも巻き起こる！？\r\n\r\n脚本：菅原雪絵\r\n絵コンテ：山本秀世\r\n演出：キム・スリム\r\n総作監：奥田陽介"
+          },
+          "subject": {
+            "id": 587109,
+            "name": "花織さんは転生しても喧嘩がしたい",
+            "nameCN": "花织即使是转生也想打架",
+            "type": 2,
+            "info": "12话 / 2026年7月11日 / 山本秀世 / 氷川へきる（講談社「モーニング・ツー」連載） / 奥田陽介",
+            "metaTags": [
+              "喜剧",
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "穿越"
+            ],
+            "rating": {
+              "rank": 3296,
+              "count": [
+                4,
+                4,
+                6,
+                22,
+                128,
+                689,
+                1395,
+                443,
+                44,
+                37
+              ],
+              "score": 6.84,
+              "total": 2772
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/59/84/587109_q1iCs.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/59/84/587109_q1iCs.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1791648488
+  },
+  {
     "id": 73310480,
     "uid": 588237,
     "cat": 4,
