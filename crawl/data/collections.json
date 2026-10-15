@@ -1,5 +1,17 @@
 [
   {
+    "sid": 175198,
+    "name": "91Days",
+    "name_cn": "91天",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
+    "type": 2,
+    "rate": 8,
+    "ep_status": 13,
+    "eps": 13,
+    "comment": "“超展开”",
+    "updated_at": "2026-10-16T00:52:54+08:00"
+  },
+  {
     "sid": 148361,
     "name": "くまみこ",
     "name_cn": "熊巫女",
@@ -154,18 +166,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-09-26T23:38:46+08:00"
-  },
-  {
-    "sid": 175198,
-    "name": "91Days",
-    "name_cn": "91天",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d1/5c/175198_88XXA.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 12,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-09-25T00:44:50+08:00"
   },
   {
     "sid": 150746,
