@@ -1,15 +1,27 @@
 [
   {
+    "sid": 638497,
+    "name": "正反対な君と僕 第2期",
+    "name_cn": "相反的你和我 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-10-21T01:11:23+08:00"
+  },
+  {
     "sid": 148361,
     "name": "くまみこ",
     "name_cn": "熊巫女",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
     "type": 3,
     "rate": 0,
-    "ep_status": 8,
+    "ep_status": 9,
     "eps": 12,
     "comment": "",
-    "updated_at": "2026-10-20T00:55:33+08:00"
+    "updated_at": "2026-10-21T00:05:45+08:00"
   },
   {
     "sid": 622288,
@@ -70,18 +82,6 @@
     "eps": 10,
     "comment": "",
     "updated_at": "2026-10-09T19:47:36+08:00"
-  },
-  {
-    "sid": 638497,
-    "name": "正反対な君と僕 第2期",
-    "name_cn": "相反的你和我 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-10-09T00:28:34+08:00"
   },
   {
     "sid": 495291,
