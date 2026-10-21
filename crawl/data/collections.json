@@ -1,5 +1,29 @@
 [
   {
+    "sid": 606263,
+    "name": "NEEDY GIRL OVERDOSE",
+    "name_cn": "主播女孩重度依赖",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 1,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-10-21T23:55:22+08:00"
+  },
+  {
+    "sid": 148361,
+    "name": "くまみこ",
+    "name_cn": "熊巫女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 10,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-21T22:50:16+08:00"
+  },
+  {
     "sid": 638497,
     "name": "正反対な君と僕 第2期",
     "name_cn": "相反的你和我 第二季",
@@ -10,18 +34,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-10-21T01:11:23+08:00"
-  },
-  {
-    "sid": 148361,
-    "name": "くまみこ",
-    "name_cn": "熊巫女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 9,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-21T00:05:45+08:00"
   },
   {
     "sid": 622288,
@@ -706,18 +718,6 @@
     "eps": 12,
     "comment": "一如既往，推陈出新，安心です",
     "updated_at": "2026-04-28T23:51:08+08:00"
-  },
-  {
-    "sid": 606263,
-    "name": "NEEDY GIRL OVERDOSE",
-    "name_cn": "主播女孩重度依赖",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_CN0mm.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 0,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-04-28T16:44:55+08:00"
   },
   {
     "sid": 543360,
