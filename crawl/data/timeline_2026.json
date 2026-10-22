@@ -1,5 +1,75 @@
 [
   {
+    "id": 73794158,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 621355,
+            "subjectID": 148361,
+            "sort": 11,
+            "type": 0,
+            "disc": 0,
+            "name": "都会へGO？",
+            "nameCN": "前往城市？",
+            "duration": "00:24:15",
+            "airdate": "2016-06-12",
+            "comment": 48,
+            "desc": "脚本：池谷雅夫／絵コンテ：小島正幸／演出：まついひとゆき／作画監督：Lee Duk Ho、佐藤綾子、鎌田均／作画監督補佐：土生良介／総作画監督：齊田博之、鈴木理彩\r\n\r\n都会へ行きたいと言い続けていたまちでしたが、アイドルなんてもうこりごり。その時の思い出を忘れたいのか、今日も真面目に神事に励んでいました。一方、村役場には「東北アイドル自慢コンテスト」と書かれた封書が届きました。良夫が、アイドル姿のまちを撮影して書類選考にエントリーしていたのです。せっかく大都会センダイに行けることになったまちですが、アイドルはやりたくないと必死に抵抗して・・・。"
+          },
+          "subject": {
+            "id": 148361,
+            "name": "くまみこ",
+            "nameCN": "熊巫女",
+            "type": 2,
+            "info": "12话 / 2016年4月3日 / 松田清 / 吉元ますめ「くまみこ」（月刊コミックフラッパー / KADOKAWA） / 齊田博之",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 8936,
+              "count": [
+                42,
+                31,
+                91,
+                231,
+                427,
+                695,
+                439,
+                156,
+                14,
+                14
+              ],
+              "score": 5.7,
+              "total": 2140
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/4f/c8/148361_nEFsC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1792687481
+  },
+  {
     "id": 73572827,
     "uid": 588237,
     "cat": 4,

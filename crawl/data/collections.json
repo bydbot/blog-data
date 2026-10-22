@@ -1,5 +1,17 @@
 [
   {
+    "sid": 148361,
+    "name": "くまみこ",
+    "name_cn": "熊巫女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 11,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-10-23T00:44:41+08:00"
+  },
+  {
     "sid": 606263,
     "name": "NEEDY GIRL OVERDOSE",
     "name_cn": "主播女孩重度依赖",
@@ -10,18 +22,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-10-21T23:55:22+08:00"
-  },
-  {
-    "sid": 148361,
-    "name": "くまみこ",
-    "name_cn": "熊巫女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 10,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-21T22:50:16+08:00"
   },
   {
     "sid": 638497,
