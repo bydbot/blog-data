@@ -1,5 +1,213 @@
 [
   {
+    "id": 73969878,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590692,
+            "subjectID": 606263,
+            "sort": 3,
+            "type": 0,
+            "disc": 0,
+            "name": "INTERNET OVERDOSE",
+            "nameCN": "",
+            "duration": "00:24:10",
+            "airdate": "2026-04-18",
+            "comment": 215,
+            "desc": "少女は『INTERNET OVERDOSE』に込められた想いを問われ、回想する。\r\n幼いころの記憶、浴びせられた言葉。\r\n「人は、死んだらどうなるの？」それは、１人の少女の過ぎていく日々の物語。\r\n\r\n絵コンテ：二宮 颯、中島政興\r\n演出：二宮 颯\r\n総作画監督：蒙晏妮"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10199,
+              "count": [
+                163,
+                198,
+                455,
+                785,
+                735,
+                561,
+                261,
+                112,
+                39,
+                49
+              ],
+              "score": 4.67,
+              "total": 3358
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793119445
+  },
+  {
+    "id": 73968195,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 621356,
+            "subjectID": 148361,
+            "sort": 12,
+            "type": 0,
+            "disc": 0,
+            "name": "決断",
+            "nameCN": "决断",
+            "duration": "00:24:15",
+            "airdate": "2016-06-19",
+            "comment": 79,
+            "desc": "脚本：ピエール杉浦／絵コンテ・演出：松田 清／作画監督：伊藤晋之、松尾亜希子、齊田博之、角田桂一、伊藤雅子／総作画監督：齊田博之、鈴木理彩\r\n\r\nうっかり山神様の前で本心を語ってしまったナツは「まちのアイドルコンテストがうまくいくように祈りに行ったはずなのに・・・」と、後悔していました。山神様が本気にしないよう祈りを訂正しに行こうとしていると、タブレットの呼び出し音が鳴り出します。良夫からの連絡で、まちがいなくなった事を聞いたナツは居ても立っても居られなくなり・・・。一方、まちは良夫と響のやり取りを物陰で聞いていて・・・。"
+          },
+          "subject": {
+            "id": 148361,
+            "name": "くまみこ",
+            "nameCN": "熊巫女",
+            "type": 2,
+            "info": "12话 / 2016年4月3日 / 松田清 / 吉元ますめ「くまみこ」（月刊コミックフラッパー / KADOKAWA） / 齊田博之",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "日常"
+            ],
+            "rating": {
+              "rank": 8947,
+              "count": [
+                43,
+                31,
+                91,
+                231,
+                428,
+                695,
+                439,
+                156,
+                14,
+                14
+              ],
+              "score": 5.7,
+              "total": 2142
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/4f/c8/148361_nEFsC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793116724
+  },
+  {
+    "id": 73966618,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590691,
+            "subjectID": 606263,
+            "sort": 2,
+            "type": 0,
+            "disc": 0,
+            "name": "Just the Two of Us",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-04-11",
+            "comment": 216,
+            "desc": "超てんちゃんとカラマーゾフのコラボトークイベント開催が決定する。\r\nそんな中、自身の悩みを相談するために、かちぇはカラマーゾフの部屋を訪れる。\r\nかちぇの言葉を聞いたカラマーゾフ３人の答えとは──。\r\n\r\n絵コンテ・演出：田部伸一\r\n総作画監督：武井紅璃"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10199,
+              "count": [
+                163,
+                198,
+                455,
+                785,
+                735,
+                561,
+                261,
+                112,
+                39,
+                49
+              ],
+              "score": 4.67,
+              "total": 3358
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793114719
+  },
+  {
     "id": 73794158,
     "uid": 588237,
     "cat": 4,
