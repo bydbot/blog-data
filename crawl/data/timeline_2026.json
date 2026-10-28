@@ -1,5 +1,74 @@
 [
   {
+    "id": 73999653,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590693,
+            "subjectID": 606263,
+            "sort": 4,
+            "type": 0,
+            "disc": 0,
+            "name": "London Calling",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-04-25",
+            "comment": 169,
+            "desc": "普通に生きているかちぇと、普通から逸脱した美血華。\r\nかつて２人は、同じ空間で時間を過ごしていた。中学生時代に交わした言葉。\r\nそして現在、ヒモの彼氏と同棲している現実──凡人として生きているかちぇが選択するものとは。\r\n\r\n絵コンテ：中島政興\r\n演出：朝火 凌\r\n総作画監督：蒙 晏妮"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10204,
+              "count": [
+                164,
+                199,
+                456,
+                784,
+                735,
+                561,
+                261,
+                112,
+                39,
+                49
+              ],
+              "score": 4.66,
+              "total": 3360
+            },
+            "locked": false,
+            "nsfw": false,
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793204897
+  },
+  {
     "id": 73969878,
     "uid": 588237,
     "cat": 4,
