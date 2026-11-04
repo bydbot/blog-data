@@ -1,5 +1,249 @@
 [
   {
+    "id": 74202437,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704764,
+            "subjectID": 638497,
+            "sort": 21,
+            "type": 0,
+            "disc": 0,
+            "name": "過去と今",
+            "nameCN": "过去和现在",
+            "duration": "00:23:51",
+            "airdate": "2026-08-30",
+            "comment": 133,
+            "desc": "平への想いを自覚した東は、浮き立つ気持ちを抑えながら日々を過ごしていた。 そして迎えた文化祭。それぞれが、高校最後のイベントを満喫する中、意を決した東は平に写真を撮ろうと誘う。その一言で平は東の気持ちに気づくものの、自身のコンプレックスに囚われ、東を避けてしまう。そんな平の気持ちを察した東は、気持ちを抑えてでも待つしかないことを覚悟するのだった。 一方、卒業後のことを嬉しそうに語る鈴木の横で、谷はどこか浮かない表情をしていて…。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 210,
+              "count": [
+                10,
+                14,
+                20,
+                29,
+                63,
+                151,
+                796,
+                2300,
+                1145,
+                383
+              ],
+              "score": 8.05,
+              "total": 4911
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793810008
+  },
+  {
+    "id": 74199877,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1741641,
+            "subjectID": 622288,
+            "sort": 4,
+            "type": 0,
+            "disc": 0,
+            "name": "含み損がないってサイコ〜♡",
+            "nameCN": "没有未实现损失最棒了",
+            "duration": "00:23:45",
+            "airdate": "2026-10-22",
+            "comment": 156,
+            "desc": "含み損ゼロの平和な生活を謳歌するくるみ。あとは300万円をタンスに戻すだけ……のはずだった。しかし、郁夫から300万円が盗まれたと告げられ、慌てたことで彼の目の前で札束を落としてしまう。FXのことを正直に告白するくるみ。涙ながらにFXをやめろと懇願され、自分の狂気に気づいた彼女は、FX引退を決意するのだが……。"
+          },
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 3411,
+              "count": [
+                17,
+                4,
+                10,
+                22,
+                123,
+                517,
+                1146,
+                333,
+                58,
+                46
+              ],
+              "score": 6.82,
+              "total": 2276
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793805267
+  },
+  {
+    "id": 74193444,
+    "uid": 588237,
+    "cat": 3,
+    "type": 8,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 437526,
+            "name": "影之刃零",
+            "nameCN": "影之刃零",
+            "type": 4,
+            "series": false,
+            "info": "2026年10月29日 / PS5、PC / ARPG / 灵游坊(S-GAME)",
+            "metaTags": [
+              "ARPG",
+              "PC",
+              "游戏",
+              "PS5"
+            ],
+            "rating": {
+              "rank": 362,
+              "count": [
+                5,
+                0,
+                0,
+                2,
+                4,
+                8,
+                26,
+                91,
+                86,
+                20
+              ],
+              "score": 8.12,
+              "total": 242
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 4001,
+              "type": "games",
+              "typeCN": "游戏",
+              "alias": "games",
+              "order": 0,
+              "enableHeader": true
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/73/56/437526_rttT1.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/56/437526_rttT1.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/73/56/437526_rttT1.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/73/56/437526_rttT1.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/73/56/437526_rttT1.jpg"
+            }
+          },
+          "comment": "夯。\r\n酣畅淋漓的act，猛猛堆料，精妙的地图设计和帅飞的动作，战斗爽！\r\n但是二周目不是很想玩了，等一手bossrush",
+          "rate": 9,
+          "collectID": 54911151
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793792427,
+    "reactions": [
+      {
+        "users": [
+          {
+            "id": 913835,
+            "username": "913835",
+            "nickname": "kurukuru"
+          }
+        ],
+        "value": 0
+      }
+    ]
+  },
+  {
     "id": 73999653,
     "uid": 588237,
     "cat": 4,
