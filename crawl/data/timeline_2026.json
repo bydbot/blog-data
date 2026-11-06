@@ -1,5 +1,247 @@
 [
   {
+    "id": 74225836,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590694,
+            "subjectID": 606263,
+            "sort": 5,
+            "type": 0,
+            "disc": 0,
+            "name": "Whatever",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-05-02",
+            "comment": 132,
+            "desc": "カラマーゾフのファーストライブ『罪と罰』の開幕が迫る中、ヒモの彼氏と決別したかちぇは、カラマーゾフのメンバーとともにアパレルショップに向かう。\r\nそして──夜の街には、１人の少女の姿があった。\r\n\r\n絵コンテ：安部保仁、中島政興\r\n演出：岡田健太郎\r\n総作画監督：武井紅璃"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10214,
+              "count": [
+                167,
+                199,
+                456,
+                786,
+                726,
+                559,
+                264,
+                112,
+                39,
+                49
+              ],
+              "score": 4.66,
+              "total": 3357
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793896551
+  },
+  {
+    "id": 74224627,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716840,
+            "subjectID": 517106,
+            "sort": 18,
+            "type": 0,
+            "disc": 0,
+            "name": "神になった少年",
+            "nameCN": "成为神的少年",
+            "duration": "00:23:40",
+            "airdate": "2026-08-21",
+            "comment": 55,
+            "desc": "戦は諏訪神党の敗北に終わった。\r\n人的損害は最小限に抑えられたものの、失ったものは多い。\r\n次の大戦に向けての覚悟が、諏訪神党の面々のなかでより強く共有されていく。\r\n時行はこの戦でさらなる学びと成長を得たのだった――。\r\nそして束の間訪れた平穏な日々、時行は頼重の孫であり、諏訪時継の息子である少年・諏訪頼継と顔を合わせる。\r\n一見、とても素直そうな頼継だったが……その性格は、どうしようもなくヒネていた！\r\n時行に対して異様なまでの敵意を見せる頼継は、時行に“鬼ごっこ”勝負を挑む。\r\n\r\n脚本：枦山 大\r\n絵コンテ：丘 城鋭\r\n演出：丘 城鋭\r\n作画監督：鈴木咲花、石田一将"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3442,
+              "count": [
+                3,
+                2,
+                10,
+                17,
+                76,
+                329,
+                741,
+                248,
+                23,
+                11
+              ],
+              "score": 6.81,
+              "total": 1460
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793894264
+  },
+  {
+    "id": 74222956,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1741643,
+            "subjectID": 622288,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "経済指標には注目ですっ！",
+            "nameCN": "留意经济指标！",
+            "duration": "00:23:45",
+            "airdate": "2026-11-05",
+            "comment": 66,
+            "desc": "芽吹の提案で始まった「スーパー投資バトル」。やす子はなけなしのお金でユーロドルに挑むが、あえなく損切り。一方、くるみはユーロドルのショートで40万円以上も勝っていた。そんなくるみから、ポンドドルは様子見だと助言される芽吹。だが、言うことを聞かず100枚を全力ロング！経済指標の発表で大きな含み益を得るのだが……。"
+          },
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 3416,
+              "count": [
+                17,
+                4,
+                10,
+                24,
+                121,
+                523,
+                1132,
+                336,
+                60,
+                46
+              ],
+              "score": 6.82,
+              "total": 2273
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793891121
+  },
+  {
     "id": 74202437,
     "uid": 588237,
     "cat": 4,
