@@ -1,5 +1,87 @@
 [
   {
+    "id": 74236273,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704765,
+            "subjectID": 638497,
+            "sort": 22,
+            "type": 0,
+            "disc": 0,
+            "name": "想いと選択",
+            "nameCN": "想法和选择",
+            "duration": "00:23:52",
+            "airdate": "2026-09-06",
+            "comment": 100,
+            "desc": "進路に迷っていた西は、山田との会話を通して、これまで自分の気持ちに向き合わずに選択を委ねてきていたことに気付き、初めて自身の進路に責任を持つ決意を固める。 一方、受験勉強中、谷の自宅で勉強会をする鈴木。そこで鈴木は、谷の志望大学とは異なる大学の過去問集を目にし、彼の進路への葛藤に気付く。 秋風が吹き始めた帰り道、鈴木は谷の想いを邪魔したくないという気持ちから、「距離を置こう」と切り出すのだった……。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 175,
+              "count": [
+                8,
+                8,
+                6,
+                6,
+                46,
+                145,
+                801,
+                2311,
+                1161,
+                386
+              ],
+              "score": 8.11,
+              "total": 4878
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1793947172
+  },
+  {
     "id": 74225836,
     "uid": 588237,
     "cat": 4,
