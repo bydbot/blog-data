@@ -1,5 +1,29 @@
 [
   {
+    "sid": 148361,
+    "name": "くまみこ",
+    "name_cn": "熊巫女",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
+    "type": 2,
+    "rate": 6,
+    "ep_status": 14,
+    "eps": 12,
+    "comment": "污，挺有意思的但是结局有1.4了",
+    "updated_at": "2026-11-07T23:21:20+08:00"
+  },
+  {
+    "sid": 517106,
+    "name": "逃げ上手の若君 第二期",
+    "name_cn": "擅长逃跑的殿下 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 7,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-11-07T17:50:33+08:00"
+  },
+  {
     "sid": 638497,
     "name": "正反対な君と僕 第2期",
     "name_cn": "相反的你和我 第二季",
@@ -24,18 +48,6 @@
     "updated_at": "2026-11-06T00:35:51+08:00"
   },
   {
-    "sid": 517106,
-    "name": "逃げ上手の若君 第二期",
-    "name_cn": "擅长逃跑的殿下 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-11-05T23:57:44+08:00"
-  },
-  {
     "sid": 622288,
     "name": "FX戦士くるみちゃん",
     "name_cn": "FX战士久留美",
@@ -46,18 +58,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-11-05T23:05:21+08:00"
-  },
-  {
-    "sid": 148361,
-    "name": "くまみこ",
-    "name_cn": "熊巫女",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/4f/c8/148361_nEFsC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 12,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-10-27T23:58:44+08:00"
   },
   {
     "sid": 175198,
