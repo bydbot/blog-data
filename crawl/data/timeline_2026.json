@@ -1,5 +1,87 @@
 [
   {
+    "id": 74313949,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716842,
+            "subjectID": 517106,
+            "sort": 20,
+            "type": 0,
+            "disc": 0,
+            "name": "かけがえがないもの",
+            "nameCN": "无可取代的事物",
+            "duration": "00:23:40",
+            "airdate": "2026-09-04",
+            "comment": 71,
+            "desc": "頼重と泰家の提案により、逃若党とともに京へと向かうことになった時行。\r\n 京では泰家の協力者である大納言・西園寺公宗がその到着を待っていた。\r\n 泰家と公宗が密談を交わす一方、時行たちは京の都へと繰り出す。\r\n 広さも経済も何もかもが段違いの都を前に気圧され、刺激を受ける時行たち……だったが、なんと玄蕃が賭場で大敗を喫する！\r\n 玄蕃を救うため立ち向かう相手は、神力を使う少女・魅摩。\r\n あらゆる文化の最先端にして、図抜けた英才の集う京の都。\r\n 時行は厳しい京の荒波を乗り越え、自らの糧とできるか――！\r\n\r\n脚本：枦山 大\r\n絵コンテ：川上雄介\r\n演出：川上雄介\r\n作画監督：上武優也、高橋沙妃、小林麻衣子、鈴木咲花、Nogya、石田一将、進藤麻耶、吳 亭頣"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3437,
+              "count": [
+                3,
+                2,
+                10,
+                17,
+                76,
+                332,
+                750,
+                250,
+                23,
+                11
+              ],
+              "score": 6.81,
+              "total": 1474
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1794151772
+  },
+  {
     "id": 74277604,
     "uid": 588237,
     "cat": 3,
