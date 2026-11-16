@@ -27,7 +27,8 @@
  *     "stats": { "minYear": 2021, "maxYear": 2026, "totalDays": 1234, "totalEntries": 5505 }
  *   }
  *
- * 只保留 type=2（看番进度）的记录，过滤掉打分/收藏/吐槽等无关类型。
+ * 日历索引只保留 cat=4 进度类记录（type=2 单集 + type=0 批量，批量取 epsUpdate），
+ * 过滤掉打分/收藏/吐槽等无关类型。
  */
 
 import {
@@ -68,34 +69,46 @@ function parseEpsFromInfo(info) {
 
 /**
  * 从一条原始记录里抽取最小条目（日历组件用）
- * 只关心 type=2（看过某话），progress.single 是单集进度
+ * 单集进度（type=2, progress.single）直接取集号；
+ * 批量进度（type=0, progress.batch）取 epsUpdate（看到 X of Y 话 → 日历记 X）。
+ * 注意：放开 batch 会让历史上 480 条批量事件一并进日历（2022 年占大头），
+ * 属预期——它们是真实的当天观看记录。
  */
 function extractEntry(rec) {
 	if (rec?.cat !== 4) return null;
 	const m = rec.memo;
-	if (!m?.progress?.single) return null;
 
-	const { episode, subject } = m.progress.single;
-	if (!subject) return null;
+	if (m?.progress?.single) {
+		const { episode, subject } = m.progress.single;
+		if (!subject) return null;
+		const images = subject.images || {};
+		return {
+			sid: subject.id,
+			nameCN: subject.nameCN || "",
+			name: subject.name || "",
+			ep: episode?.sort ?? null,
+			time: rec.createdAt,
+			img: images.grid || images.small || images.medium || images.common || images.large || "",
+		};
+	}
 
-	const subjectId = subject.id;
-	const images = subject.images || {};
-	const img =
-		images.grid ||
-		images.small ||
-		images.medium ||
-		images.common ||
-		images.large ||
-		"";
+	if (m?.progress?.batch) {
+		const { subject } = m.progress.batch;
+		if (!subject) return null;
+		const ep = Number(m.progress.batch.epsUpdate);
+		if (!Number.isFinite(ep) || ep <= 0) return null; // 无集数（如只更新卷数）不进日历
+		const images = subject.images || {};
+		return {
+			sid: subject.id,
+			nameCN: subject.nameCN || "",
+			name: subject.name || "",
+			ep,
+			time: rec.createdAt,
+			img: images.grid || images.small || images.medium || images.common || images.large || "",
+		};
+	}
 
-	return {
-		sid: subjectId,
-		nameCN: subject.nameCN || "",
-		name: subject.name || "",
-		ep: episode?.sort ?? null,
-		time: rec.createdAt,
-		img,
-	};
+	return null;
 }
 
 /**
