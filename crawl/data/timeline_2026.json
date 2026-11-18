@@ -1,5 +1,248 @@
 [
   {
+    "id": 74564862,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704766,
+            "subjectID": 638497,
+            "sort": 23,
+            "type": 0,
+            "disc": 0,
+            "name": "居場所",
+            "nameCN": "容身之处",
+            "duration": "00:23:51",
+            "airdate": "2026-09-13",
+            "comment": 84,
+            "desc": "平は、自身の勘違いから東を避けたことを恥じながら、少しずつ素直に接するようになる。東もまた、平への恋心を自覚しつつ、関係を壊さないよう距離を保っていた。\r\nある日、渡辺の提案で開かれたクラスのお菓子パーティーで、久々に大勢で、それぞれが楽しいひと時を過ごす。\r\n進路について葛藤していた谷は、迷いを捨て、遠方の大学を目指す気持ちを固めた。受験勉強に打ち込む谷の姿に、ストイックすぎて心配になる鈴木だが…？"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 172,
+              "count": [
+                8,
+                8,
+                6,
+                6,
+                47,
+                156,
+                828,
+                2369,
+                1219,
+                401
+              ],
+              "score": 8.12,
+              "total": 5048
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1794931647
+  },
+  {
+    "id": 74561362,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590695,
+            "subjectID": 606263,
+            "sort": 6,
+            "type": 0,
+            "disc": 0,
+            "name": "Turn Around and Count 2 Ten",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-05-09",
+            "comment": 195,
+            "desc": "十代のうちに死にたかった。\r\nもっともキレイな自分のまま終わることができるなら、それが最上のあがりだと思っている。\r\n獄薔薇美血華が語る、美とは──。\r\n\r\n絵コンテ：安部保仁、中島政興\r\n演出：二宮 颯\r\n総作画監督：蒙 晏妮"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10223,
+              "count": [
+                166,
+                202,
+                460,
+                787,
+                729,
+                561,
+                264,
+                112,
+                40,
+                49
+              ],
+              "score": 4.66,
+              "total": 3370
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1794926509
+  },
+  {
+    "id": 74560394,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716844,
+            "subjectID": 517106,
+            "sort": 22,
+            "type": 0,
+            "disc": 0,
+            "name": "暗殺の夜",
+            "nameCN": "暗杀之夜",
+            "duration": "00:23:40",
+            "airdate": "2026-09-18",
+            "comment": 47,
+            "desc": "「軍神」とも謳われる武士・楠木正成との対話でその信念に触れ、「逃げ」への自信と可能性をさらに感じることができた時行。\r\nよき出会いに顔を綻ばせていた矢先、仇である尊氏の動向を耳にしたことで状況は一変する。\r\n尊氏を亡き者にする千載一遇の好機に、吹雪は暗殺計画を献策。\r\n成功すれば政局に絶大な効果を発揮するが、失敗すればすべてを失いかねない……。\r\n計画を実行すべきか否か、逃若党の意見は真っ二つに分かれる。\r\n鎌倉を滅ぼし、一族郎党の命を奪った宿敵を前に、時行の決断はいかに――！\r\n\r\n脚本：冨田頼子\r\n絵コンテ：小室裕一郎\r\n演出：小室裕一郎\r\n作画監督：有間涼太、山崎 淳、小林恵祐、冨田真理、高橋沙妃、氷室 陽、林 珠銀、髙野 綾、若月愛子"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3427,
+              "count": [
+                3,
+                2,
+                11,
+                17,
+                78,
+                335,
+                767,
+                257,
+                23,
+                11
+              ],
+              "score": 6.82,
+              "total": 1504
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1794924939
+  },
+  {
     "id": 74535962,
     "uid": 588237,
     "batch": false,

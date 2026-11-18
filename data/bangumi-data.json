@@ -1,25 +1,5 @@
 [
   {
-    "title": "擅长逃跑的殿下 第二季",
-    "status": "watching",
-    "rating": 6.8,
-    "cover": "https://lain.bgm.tv/r/800/pic/cover/l/5d/00/517106_Il9mk.jpg",
-    "description": "公元1333年，为武士统治日本奠定基石的镰仓幕府，因其所信任的幕臣——足利尊氏的谋反而宣告灭亡。失去了一切、被推入绝望深渊的幕府正统继承人——北条时行，在自称为神的神官——诹访赖重的手中引导下，逃离了化为一片火海的镰仓……。在逃亡抵达的诹访之地，时行与值得信赖的伙伴结成了「逃少党」，并借由「逃跑」与「活下去」来克服重重苦难，逐渐磨练出作为率领大军之将领的实力。另一方面，在京都的尊氏其权力正稳步扩张，而在镰仓，以尊氏之弟——直义为首的新统治也正大受欢迎。在时代更迭的巨大浪潮中，时行夺回天下的这场捉迷藏，其结局将会走向何方——。",
-    "episodes": "12 episodes",
-    "year": "2026",
-    "genre": [
-      "2026年7月",
-      "CloverWorks",
-      "漫画改"
-    ],
-    "studio": "CloverWorks",
-    "link": "https://bgm.tv/subject/517106",
-    "progress": 9,
-    "totalEpisodes": 12,
-    "startDate": "2026-07-17",
-    "endDate": "2026-07-17"
-  },
-  {
     "title": "相反的你和我 第二季",
     "status": "watching",
     "rating": 8.1,
@@ -34,7 +14,7 @@
     ],
     "studio": "「正反対な君と僕」製作委員会（松竹、電通、集英社、ABEMA、毎日放送）；高橋敏弘、新居祐介、瓶子吉久、古川雄太、柴田三穂子",
     "link": "https://bgm.tv/subject/638497",
-    "progress": 10,
+    "progress": 11,
     "totalEpisodes": 13,
     "startDate": "2026-07-05",
     "endDate": "2026-07-05"
@@ -54,10 +34,30 @@
     ],
     "studio": "Yostar Pictures",
     "link": "https://bgm.tv/subject/606263",
-    "progress": 5,
+    "progress": 6,
     "totalEpisodes": 13,
     "startDate": "2026-04-04",
     "endDate": "2026-04-04"
+  },
+  {
+    "title": "擅长逃跑的殿下 第二季",
+    "status": "watching",
+    "rating": 6.8,
+    "cover": "https://lain.bgm.tv/r/800/pic/cover/l/5d/00/517106_Il9mk.jpg",
+    "description": "公元1333年，为武士统治日本奠定基石的镰仓幕府，因其所信任的幕臣——足利尊氏的谋反而宣告灭亡。失去了一切、被推入绝望深渊的幕府正统继承人——北条时行，在自称为神的神官——诹访赖重的手中引导下，逃离了化为一片火海的镰仓……。在逃亡抵达的诹访之地，时行与值得信赖的伙伴结成了「逃少党」，并借由「逃跑」与「活下去」来克服重重苦难，逐渐磨练出作为率领大军之将领的实力。另一方面，在京都的尊氏其权力正稳步扩张，而在镰仓，以尊氏之弟——直义为首的新统治也正大受欢迎。在时代更迭的巨大浪潮中，时行夺回天下的这场捉迷藏，其结局将会走向何方——。",
+    "episodes": "12 episodes",
+    "year": "2026",
+    "genre": [
+      "2026年7月",
+      "CloverWorks",
+      "漫画改"
+    ],
+    "studio": "CloverWorks",
+    "link": "https://bgm.tv/subject/517106",
+    "progress": 10,
+    "totalEpisodes": 12,
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-17"
   },
   {
     "title": "FX战士久留美",
