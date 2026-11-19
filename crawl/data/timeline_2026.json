@@ -1,5 +1,404 @@
 [
   {
+    "id": 74602882,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1704767,
+            "subjectID": 638497,
+            "sort": 24,
+            "type": 0,
+            "disc": 0,
+            "name": "スタートライン",
+            "nameCN": "起点",
+            "duration": "00:23:52",
+            "airdate": "2026-09-27",
+            "comment": 130,
+            "desc": "卒業式を控えた冬、受験勉強に疲れていたものの、自分の脆さを認められなかった谷。しかし鈴木の言葉をきっかけに弱音を吐き出す。迎えた受験当日、それぞれが覚悟を胸に乗り越えていくのだった。 そして季節は移ろい、ついに迎えた卒業式。これまでの日々を思い返し涙をこぼす平に、東もそっと寄り添い、同じ涙を流す。踏ん切りのついた表情でその場を去ろうとする東を見て、卒業したらもう会えないことに気付いた平は、思わず東の手を掴み…。 一方、遠距離恋愛となる鈴木と谷も、寂しさを抱えながらも互いを思いやり、今後も支え合うことを誓うのだった。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 172,
+              "count": [
+                8,
+                8,
+                7,
+                6,
+                46,
+                158,
+                831,
+                2368,
+                1224,
+                401
+              ],
+              "score": 8.11,
+              "total": 5057
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795018053
+  },
+  {
+    "id": 74600970,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1741644,
+            "subjectID": 622288,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "強制ロスカットなんてヤダもん……",
+            "nameCN": "人家才不要被强制平仓呢...",
+            "duration": "00:23:45",
+            "airdate": "2026-11-12",
+            "comment": 151,
+            "desc": "含み損を抱える芽吹は、生活費までFX口座に入金していた！　しかし、無情にもドル円は上昇を継続。投資バトルの中間報告会では、くるみがドル円ロングで大きく利益を伸ばしていることを知り、芽吹の焦りはますます深まっていく。萌智子に励まされ、幸運を呼び込もうとする芽吹。そして、ドル円が110円から一気に急落して……!?"
+          },
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 3557,
+              "count": [
+                17,
+                5,
+                13,
+                28,
+                146,
+                603,
+                1225,
+                363,
+                65,
+                49
+              ],
+              "score": 6.79,
+              "total": 2514
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795015122
+  },
+  {
+    "id": 74595698,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3429,
+              "count": [
+                3,
+                2,
+                11,
+                17,
+                78,
+                336,
+                768,
+                257,
+                23,
+                11
+              ],
+              "score": 6.81,
+              "total": 1506
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 7,
+          "collectID": 52675759
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795005241
+  },
+  {
+    "id": 74595648,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716846,
+            "subjectID": 517106,
+            "sort": 24,
+            "type": 0,
+            "disc": 0,
+            "name": "時代",
+            "nameCN": "时代",
+            "duration": "00:23:40",
+            "airdate": "2026-10-02",
+            "comment": 57,
+            "desc": "開戦準備を完了させた諏訪陣営は、いよいよ大戦の火蓋を切ろうとしていた。\r\n時行は大将として、北条の遺臣で結成された「鎌倉党」の指揮を執ることとなるが、その正体は隠したまま。\r\n子供の指揮下に入ることに不安をおぼえる彼らに、時行は将たる器を示すことができるのか……。\r\n明神様の開戦のお達しに、次こそはといきり立つ面々。\r\nそれぞれが信じる大義を胸に。\r\n鎌倉奪還の大戦、「中先代の乱」の幕が上がる――！\r\n\r\n脚本：冨田頼子、山﨑雄太\r\n絵コンテ：山﨑雄太\r\n演出：山﨑雄太、平峯義大、川上雄介\r\n作画監督：上武優也、石田一将、鈴木咲花、進藤麻耶、Nogya、吳 亭頣、山崎 淳"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3429,
+              "count": [
+                3,
+                2,
+                11,
+                17,
+                78,
+                336,
+                768,
+                257,
+                23,
+                11
+              ],
+              "score": 6.81,
+              "total": 1506
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795005114
+  },
+  {
+    "id": 74594612,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1716845,
+            "subjectID": 517106,
+            "sort": 23,
+            "type": 0,
+            "disc": 0,
+            "name": "続・わたしの仏様",
+            "nameCN": "续・我的佛祖",
+            "duration": "00:23:40",
+            "airdate": "2026-09-25",
+            "comment": 84,
+            "desc": "尊氏暗殺は失敗に終わったが、京での経験で武士として大きな成長を遂げた時行。\r\n諏訪に戻った時行に、頼重は時が満ちたことを告げる。\r\n帝・尊氏両名の暗殺未遂によって京は混乱に陥り、関東の武士を呼び寄せ、防備を固めていた。\r\n鎌倉は手薄となり、進軍するには又と無い機会。\r\n信濃を出るためまず打ち破るべきは信濃守護・小笠原貞宗。\r\n瘴奸討伐を担った時行は、吹雪とともに秘策を用意する。\r\n今ここに、天下を取り戻す戦が始まろうとしていた――。\r\n\r\n脚本：冨田頼子\r\n絵コンテ：平峯義大\r\n演出：小山田桂子\r\n作画監督：高橋千尋、猪口美緒、髙田 晃、三浦 龍、伊藤弘樹、林 珠銀"
+          },
+          "subject": {
+            "id": 517106,
+            "name": "逃げ上手の若君 第二期",
+            "nameCN": "擅长逃跑的殿下 第二季",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年7月17日 / 山崎雄太 / 松井優征（集英社ジャンプコミックス刊） / 西谷泰史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "奇幻",
+              "漫画改",
+              "战斗",
+              "历史"
+            ],
+            "rating": {
+              "rank": 3429,
+              "count": [
+                3,
+                2,
+                11,
+                17,
+                78,
+                336,
+                768,
+                257,
+                23,
+                11
+              ],
+              "score": 6.81,
+              "total": 1506
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/5d/00/517106_Il9mk.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/5d/00/517106_Il9mk.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795002236
+  },
+  {
     "id": 74564862,
     "uid": 588237,
     "cat": 4,
