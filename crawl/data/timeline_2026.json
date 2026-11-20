@@ -1,5 +1,323 @@
 [
   {
+    "id": 74630899,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709082,
+            "subjectID": 530725,
+            "sort": 45,
+            "type": 0,
+            "disc": 0,
+            "name": "LIFE TO DEFEND YOU",
+            "nameCN": "以生命守护你",
+            "duration": "00:26:44",
+            "airdate": "2026-08-22",
+            "comment": 178,
+            "desc": "三界消滅の危機が現実となり、各地に破滅の影が広がる。\r\n真世界城でユーハバッハと対峙する一護は、内なる虚の力を呼び醒まし半虚化。\r\n月牙の力を融合させた『王虚の閃光』を放つ。\r\nだが、凄烈な攻撃にも怯まず、一護を押し潰すユーハバッハは「護る力」の弱さを突きつける。\r\n\r\nSTAFF\r\n脚本：田口智久\r\n絵コンテ：田口智久\r\n演出：田口智久\r\n総作画監督：小松原聖\r\n作画監督：椛島洋介（スタジオKAI）、冨永 一仁（スタジオKAI）、中智あすか、片山貴仁、長谷川亨雄、明石兵悟"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "战斗",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 2729,
+              "count": [
+                25,
+                9,
+                17,
+                50,
+                79,
+                326,
+                545,
+                326,
+                114,
+                102
+              ],
+              "score": 6.98,
+              "total": 1593
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795103698
+  },
+  {
+    "id": 74628858,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709081,
+            "subjectID": 530725,
+            "sort": 44,
+            "type": 0,
+            "disc": 0,
+            "name": "THE PERFECT CRIMSON",
+            "nameCN": "完美深红",
+            "duration": "00:23:50",
+            "airdate": "2026-08-15",
+            "comment": 66,
+            "desc": "剣八、日番谷、白哉の三人がかりでも、ジェラルドの『奇跡』は崩れない。\r\n戦闘本能のままに斬りかかる剣八だが、ジェラルドの『希望の剣』は、刃毀れするたびに次の『奇跡』を起こし、逆に剣八を追い詰めていく。\r\n玉座の間でも、一護がユーハバッハの猛攻に耐えながら、逆転の一手を狙っていた。\r\n\r\nSTAFF\r\n脚本：平松正樹\r\n絵コンテ：鄭 泳勲\r\n演出：鄭 泳勲\r\n作画監督：鄭 泳勲、大久保美香、HAN SEUNGAH、稲留和美、滝川和男、劉 玟萱\r\n総作画監督：高柳久美子"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "战斗",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 2729,
+              "count": [
+                25,
+                9,
+                17,
+                50,
+                79,
+                326,
+                545,
+                326,
+                114,
+                102
+              ],
+              "score": 6.98,
+              "total": 1593
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795101459
+  },
+  {
+    "id": 74626893,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590697,
+            "subjectID": 606263,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "ABSOLUTE EGO DANCE",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-05-23",
+            "comment": 95,
+            "desc": "絶賛も、誹謗中傷も、すべてが超てんちゃんに集まる中、カラマーゾフの影響力も大きくなっていく。\r\n大きなイベントの告知を控える中、ロリポップはメリーゴーランドの前で、あめちゃんと再会する。\r\n\r\n絵コンテ：中島政興、田部伸一\r\n絵コンテ協力：渡辺ましゃみ\r\n演出：田部伸一\r\n総作画監督：曽品喬、蔡孟書、蒙晏妮"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10223,
+              "count": [
+                167,
+                202,
+                459,
+                786,
+                731,
+                562,
+                264,
+                111,
+                40,
+                49
+              ],
+              "score": 4.66,
+              "total": 3371
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795098730
+  },
+  {
+    "id": 74617586,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1590696,
+            "subjectID": 606263,
+            "sort": 7,
+            "type": 0,
+            "disc": 0,
+            "name": "Slip Inside This House",
+            "nameCN": "",
+            "duration": "00:24:40",
+            "airdate": "2026-05-16",
+            "comment": 121,
+            "desc": "夜の繁華街を散歩する禰智禍は、１人の少女・あめちゃんを喫茶店に誘う。\r\n自分が超てんちゃんであることに気づかれたあめちゃんだったが、禰智禍の誘いに乗って喫茶店へ向かうことに。\r\n\r\n絵コンテ：西村俊亮、中島政興\r\n演出：西村俊亮\r\n総作画監督：蒙 晏妮"
+          },
+          "subject": {
+            "id": 606263,
+            "name": "NEEDY GIRL OVERDOSE",
+            "nameCN": "主播女孩重度依赖",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年4月4日 / 中島政興 / WSS playground / 西海賢嗣、武井紅璃、清水海都、中島政興",
+            "metaTags": [
+              "TV",
+              "日本",
+              "游戏改"
+            ],
+            "rating": {
+              "rank": 10223,
+              "count": [
+                167,
+                202,
+                459,
+                786,
+                731,
+                562,
+                264,
+                111,
+                40,
+                49
+              ],
+              "score": 4.66,
+              "total": 3371
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/8d/c7/606263_cpB1P.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795077771
+  },
+  {
     "id": 74602882,
     "uid": 588237,
     "cat": 4,

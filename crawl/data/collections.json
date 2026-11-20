@@ -1,5 +1,29 @@
 [
   {
+    "sid": 530725,
+    "name": "BLEACH 千年血戦篇-禍進譚-",
+    "name_cn": "死神 千年血战篇-祸进谭-",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 5,
+    "eps": 10,
+    "comment": "",
+    "updated_at": "2026-11-19T23:54:58+08:00"
+  },
+  {
+    "sid": 606263,
+    "name": "NEEDY GIRL OVERDOSE",
+    "name_cn": "主播女孩重度依赖",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 13,
+    "comment": "",
+    "updated_at": "2026-11-19T22:32:10+08:00"
+  },
+  {
     "sid": 638497,
     "name": "正反対な君と僕 第2期",
     "name_cn": "相反的你和我 第二季",
@@ -34,18 +58,6 @@
     "eps": 12,
     "comment": "",
     "updated_at": "2026-11-18T20:34:01+08:00"
-  },
-  {
-    "sid": 606263,
-    "name": "NEEDY GIRL OVERDOSE",
-    "name_cn": "主播女孩重度依赖",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/8d/c7/606263_cpB1P.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 6,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-11-17T22:41:49+08:00"
   },
   {
     "sid": 148361,
@@ -94,18 +106,6 @@
     "eps": 12,
     "comment": "IG8高了，虽然确实不错",
     "updated_at": "2026-10-09T23:29:57+08:00"
-  },
-  {
-    "sid": 530725,
-    "name": "BLEACH 千年血戦篇-禍進譚-",
-    "name_cn": "死神 千年血战篇-祸进谭-",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 3,
-    "eps": 10,
-    "comment": "",
-    "updated_at": "2026-10-09T19:47:36+08:00"
   },
   {
     "sid": 495291,
