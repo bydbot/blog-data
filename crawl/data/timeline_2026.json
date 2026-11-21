@@ -1,5 +1,245 @@
 [
   {
+    "id": 74693251,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709085,
+            "subjectID": 530725,
+            "sort": 48,
+            "type": 0,
+            "disc": 0,
+            "name": "THE END TWO WORLD",
+            "nameCN": "两界终局",
+            "duration": "00:23:50",
+            "airdate": "2026-09-12",
+            "comment": 86,
+            "desc": "雨竜は高エネルギーを持つ真世界城の中央島を「歪み」にぶつけ、対消滅を成功させた。\r\nだが、全ての聖文字を取り戻し『全知全能』の力を昇華させたユーハバッハにとって、「歪み」はもはや不要だった。\r\n最後の余興に瀞霊廷を滅ぼすと言い残し、姿を消すユーハバッハ。\r\n卍解を破られ、斬魄刀を折られ、絶望の底に沈んだ一護は立ち上がることすらできない。\r\n消えかけた勇気の灯。\r\nその前に現れたのは、かつて剣を交えた、あの男たちだった──。\r\n\r\nSTAFF\r\n脚本：平松正樹\r\n絵コンテ：上田慎一郎\r\n演出：上田慎一郎\r\n総作画監督：小松原聖\r\n作画監督：天崎まなむ(爆画大阪スタジオ)、鈴木奈都子、近藤いずみ、滝川和男、大久保美香"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "战斗",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 2745,
+              "count": [
+                25,
+                9,
+                18,
+                50,
+                79,
+                332,
+                552,
+                329,
+                114,
+                102
+              ],
+              "score": 6.97,
+              "total": 1610
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795277118
+  },
+  {
+    "id": 74691866,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709084,
+            "subjectID": 530725,
+            "sort": 47,
+            "type": 0,
+            "disc": 0,
+            "name": "THE END 2",
+            "nameCN": "结束 2",
+            "duration": "00:23:50",
+            "airdate": "2026-09-05",
+            "comment": 73,
+            "desc": "一護の卍解ですら、ユーハバッハには届かない。\r\nどんな強敵にも決して諦めなかったその瞳に、初めて絶望の色が宿る。\r\nだが、仲間たちはまだ希望を捨てていなかった。\r\n束の間の眠りから覚めた京楽が立ち上がり、ハッシュヴァルトを倒した雨竜は、真世界城下に現れた巨大な「歪み」の消滅に動き出す。\r\n終焉──三界滅亡を阻止するために。\r\n\r\nSTAFF\r\n脚本：田口智久\r\n絵コンテ：四条京介\r\n演出：松井信太郎\r\n総作画監督：高柳久美子\r\n作画監督：柴美波、堀越久美子"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "战斗",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 2745,
+              "count": [
+                25,
+                9,
+                18,
+                50,
+                79,
+                332,
+                552,
+                329,
+                114,
+                102
+              ],
+              "score": 6.97,
+              "total": 1610
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795274951
+  },
+  {
+    "id": 74690843,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709083,
+            "subjectID": 530725,
+            "sort": 46,
+            "type": 0,
+            "disc": 0,
+            "name": "THE END",
+            "nameCN": "结束",
+            "duration": "00:23:50",
+            "airdate": "2026-08-29",
+            "comment": 65,
+            "desc": "真世界城に朝が訪れ、一護の眼前には「新たな世界」が広がっていた。\r\n非情な現実に心を痛めながらも、三界を救うために一護には果たすべき使命がある。\r\n一方、雨竜とハッシュヴァルトの戦いも、決着へ向け激化。\r\nすべての命運を握る『終焉』が、遂に始まろうとしていた――。\r\n\r\nSTAFF\r\n脚本：田口智久\r\n絵コンテ：長井惟杜子\r\n演出：長井惟杜子\r\n総作画監督：長谷川亨雄\r\n作画監督：小澤早依子"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "战斗",
+              "日本",
+              "漫画改"
+            ],
+            "rating": {
+              "rank": 2745,
+              "count": [
+                25,
+                9,
+                18,
+                50,
+                79,
+                332,
+                552,
+                329,
+                114,
+                102
+              ],
+              "score": 6.97,
+              "total": 1610
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795273146
+  },
+  {
     "id": 74630899,
     "uid": 588237,
     "cat": 4,
