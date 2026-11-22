@@ -18,5 +18,9 @@ __pycache__/
 /data/bgm-timeline.json
 /data/bgm-timeline/
 
+# 追番页运行时数据：生成产物，直传 R2 键 bgm-anime.json（同样不入库）。
+# 完整版 /data/bangumi-data.json 仍入库——增量流程要读它比对，保留作源数据。
+/data/bgm-anime.json
+
 # 旧分页镜像目录：产物改直传 R2 后不再生成（保留忽略，防历史文件被误入库）
 /api/

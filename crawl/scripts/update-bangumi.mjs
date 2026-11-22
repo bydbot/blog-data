@@ -16,6 +16,24 @@ const STATE_FILE = path.join(
 	path.dirname(fileURLToPath(import.meta.url)),
 	"../state/.bangumi-state.json",
 );
+// 追番页运行时数据：只留页面真正渲染的 7 个字段，由 update.yml 直传 R2 键
+// bgm-anime.json。站点 /anime/ 在前端拉它，故每日数据更新不需要重建博客。
+// 完整版 bangumi-data.json 仍入库，供本院增量流程（oldById / state 比对）使用。
+const R2_OUTPUT_FILE = path.join(
+	path.dirname(fileURLToPath(import.meta.url)),
+	"../../data/bgm-anime.json",
+);
+
+/** 页面渲染字段白名单（与 src/utils/anime-data.ts 的 AnimeItem 一一对应） */
+const PAGE_FIELDS = [
+	"title",
+	"cover",
+	"link",
+	"status",
+	"rating",
+	"progress",
+	"totalEpisodes",
+];
 
 async function loadJsonOrNull(filePath) {
 	try {
@@ -297,8 +315,19 @@ async function main() {
 		}
 
 		await fs.writeFile(OUTPUT_FILE, JSON.stringify(finalAnimeList, null, 2));
+
+		// 追番页运行时数据：剥到页面字段白名单，键名保持与旧结构一致，
+		// 前端不用为两种来源写分支。单行紧凑 JSON（体积优先，人不需要读它）。
+		const pageList = finalAnimeList.map((item) =>
+			Object.fromEntries(PAGE_FIELDS.map((k) => [k, item[k]])),
+		);
+		await fs.writeFile(R2_OUTPUT_FILE, JSON.stringify(pageList));
+
 		await saveState(state);
 		console.log(`\nUpdate complete! Data saved to: ${OUTPUT_FILE}`);
+		console.log(
+			`  追番页运行时数据：${R2_OUTPUT_FILE}（${pageList.length} 条，${PAGE_FIELDS.length} 个字段）`,
+		);
 		console.log(`Total collected: ${finalAnimeList.length} anime series`);
 		console.log(
 			`增量统计 → 新增 ${stats.added} · 变更 ${stats.changed} · 复用 ${stats.reused} · 失败保留旧 ${stats.keptOldOnError} · 跳过 ${stats.skipped} · 移除 ${stats.removed}`,

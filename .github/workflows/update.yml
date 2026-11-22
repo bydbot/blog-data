@@ -62,10 +62,12 @@ jobs:
             : > /tmp/old-manifest.json
           fi
 
-          echo "== 上传 manifest / subjects / 日历索引 =="
+          echo "== 上传 manifest / subjects / 日历索引 / 追番页数据 =="
           aws s3 cp "$MAN" "$B/bgm-timeline/page-manifest.json" $EP --content-type "application/json; charset=utf-8"
           aws s3 cp data/bgm-timeline/subjects.json "$B/bgm-timeline/subjects.json" $EP --content-type "application/json; charset=utf-8"
           aws s3 cp data/bgm-timeline.json "$B/bgm-timeline.json" $EP --content-type "application/json; charset=utf-8"
+          # 追番页：/anime/ 运行时经 /api/bgm-anime.json 读它，故数据更新不必重建站点
+          aws s3 cp data/bgm-anime.json "$B/bgm-anime.json" $EP --content-type "application/json; charset=utf-8"
 
           echo "== 上传三源分页（8 并发） =="
           shopt -s nullglob
@@ -99,7 +101,9 @@ jobs:
           fi
           echo "R2 同步完成"
 
-      - name: Commit and push if changed + trigger blog build
+      - name: Commit and push if changed
+        # 追番页数据与时间线都已运行时读 R2，博客构建不再依赖 bangumi 数据，
+        # 所以本 workflow 不再调用部署钩子；只有博客仓库自身提交才触发构建。
         run: |
           git config user.name "bydbot"
           git config user.email "111557429+bydbot@users.noreply.github.com"
@@ -109,11 +113,5 @@ jobs:
           else
             git commit -m "chore: auto update bangumi data $(date -u +%Y-%m-%d)"
             git push
-            # 只有追番页数据（构建期读取）变化才需要重建；时间线已直传 R2。
-            if git diff-tree --no-commit-id --name-only -r HEAD | grep -qx "data/bangumi-data.json"; then
-              echo "追番页数据变化，触发博客构建"
-              curl -sS -X POST "${{ secrets.CF_DEPLOY_HOOK_URL }}" -d '{}' || echo "build hook 调用失败"
-            else
-              echo "仅原始数据/增量状态变化，时间线已直传 R2，无需重建"
-            fi
+            echo "数据已入库；站点运行时读 R2，无需重建"
           fi
