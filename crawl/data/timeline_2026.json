@@ -1,5 +1,235 @@
 [
   {
+    "id": 74853877,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 2770,
+              "count": [
+                26,
+                9,
+                18,
+                50,
+                82,
+                334,
+                571,
+                333,
+                115,
+                101
+              ],
+              "score": 6.97,
+              "total": 1639
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          },
+          "comment": "",
+          "rate": 7,
+          "collectID": 35904421
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795710654
+  },
+  {
+    "id": 74853875,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709087,
+            "subjectID": 530725,
+            "sort": 50,
+            "type": 0,
+            "disc": 0,
+            "name": "DEATH ＆ STRAWBERRY",
+            "nameCN": "死与莓",
+            "duration": "00:23:10",
+            "airdate": "2026-10-26",
+            "comment": 56,
+            "desc": "霊王護神大戦と呼ばれる、あの戦いから十年──。\r\nユーハバッハとの死闘で焦土と化した瀞霊廷は、時を経て復興を進めながら平穏を取り戻していた。\r\n最後の復興区の工事が完了する日、護廷十三隊には新たな隊長が任命されようとしていた。\r\n青空の広がる吉日、就任式と時を同じくして、技術開発局は不穏な霊圧を感知していた……\r\n\r\nSTAFF\r\n脚本：平松正樹\r\n絵コンテ：村田光\r\n演出：村田光\r\n総作画監督：小松原聖\r\n高柳久美子、工藤昌史\r\n作画監督：稲留和美"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 2770,
+              "count": [
+                26,
+                9,
+                18,
+                50,
+                82,
+                334,
+                571,
+                333,
+                115,
+                101
+              ],
+              "score": 6.97,
+              "total": 1639
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795710650
+  },
+  {
+    "id": 74852765,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1709086,
+            "subjectID": 530725,
+            "sort": 49,
+            "type": 0,
+            "disc": 0,
+            "name": "THE BLADE",
+            "nameCN": "刀",
+            "duration": "00:26:50",
+            "airdate": "2026-10-19",
+            "comment": 117,
+            "desc": "次元を超越し、瀞霊廷・現世・虚圏に同時出現したユーハバッハは、世界を無に還し、「生の恐怖」も「死の恐怖」もない新たな世界を創ると宣言する。\r\nだが、絶望の淵から立ち上がった一護と、死神・破面をはじめとする仲間たちは、この世界をまだ諦めていなかった。\r\n三界それぞれで、ユーハバッハとの最後の血戦が始まる——。\r\n\r\nSTAFF\r\n脚本：田口智久\r\n絵コンテ：酒井智史、田口智久\r\n演出：陳達理、松井信太郎、田口智久\r\n総作画監督：長谷川亨雄\r\n作画監督：小澤早依子、Cindy H.Yamauchi、とみながまり"
+          },
+          "subject": {
+            "id": 530725,
+            "name": "BLEACH 千年血戦篇-禍進譚-",
+            "nameCN": "死神 千年血战篇-祸进谭-",
+            "type": 2,
+            "series": false,
+            "info": "10话 / 2026年7月25日 / 村田光 / 久保帯人「BLEACH」（集英社 ジャンプコミックス刊） / 工藤昌史",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "战斗"
+            ],
+            "rating": {
+              "rank": 2770,
+              "count": [
+                26,
+                9,
+                18,
+                50,
+                82,
+                334,
+                571,
+                333,
+                115,
+                101
+              ],
+              "score": 6.97,
+              "total": 1639
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/ad/f9/530725_CAqWC.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795708639
+  },
+  {
     "id": 74693251,
     "uid": 588237,
     "cat": 4,
