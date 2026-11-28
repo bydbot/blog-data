@@ -56,8 +56,14 @@ if command -v aws >/dev/null 2>&1; then
     fi
 fi
 
-if [ "$HAVE_AWS" -eq 0 ] && ! command -v npx >/dev/null 2>&1; then
-    fail "既没有可用的 aws（需 AWS_ACCESS_KEY_ID/AWS_SECRET_ACCESS_KEY），也没有 npx/wrangler"
+if [ "$HAVE_AWS" -eq 0 ]; then
+    # CI 里没有 wrangler 的登录态，回落 npx 只会得到一句看不懂的鉴权错误
+    if [ "${GITHUB_ACTIONS:-}" = "true" ]; then
+        fail "CI 缺少 R2 凭证：需 secrets R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY / R2_ACCOUNT_ID"
+    fi
+    if ! command -v npx >/dev/null 2>&1; then
+        fail "既没有可用的 aws（需 AWS_ACCESS_KEY_ID/AWS_SECRET_ACCESS_KEY），也没有 npx/wrangler"
+    fi
 fi
 
 # wrangler 在非 Pages 项目目录里跑时找不到配置，显式指到博客仓库的 wrangler.toml 更稳；
@@ -79,6 +85,16 @@ r2_get() {  # r2_get <key> <dest>
         # wrangler 默认打本地模拟桶，必须 --remote 才是真实桶
         npx --yes wrangler r2 object get "$BUCKET/$key" --file "$dest" --remote "${WRANGLER_ARGS[@]}" >/dev/null
     fi
+}
+
+# 用 state 路径的失败来区分「对象不存在」与「鉴权/网络故障」：
+# 前者是首次迁移或换桶，后者必须让人看到，否则会误判成状态丢了。
+hint_r2_failure() {
+    local key="$1"
+    if [ "$HAVE_AWS" -eq 0 ]; then
+        warn "若报鉴权类错误，本机先执行：npx wrangler login 或 wrangler login"
+    fi
+    warn "也可能是对象不存在：$BUCKET/$key"
 }
 
 r2_put() {  # r2_put <src> <key>
@@ -144,6 +160,7 @@ cmd_pull() {
     info "== 从 R2 拉取状态包（$BUCKET/$CURRENT_KEY） =="
     if ! r2_get "$CURRENT_KEY" "$tmp"; then
         rm -f "$tmp"
+        hint_r2_failure "$CURRENT_KEY"
         if [ "${BGM_STATE_ALLOW_COLD_START:-}" = "1" ]; then
             warn "状态包不可用，按 BGM_STATE_ALLOW_COLD_START=1 继续（本地状态将被视为本轮基线）"
             verify_local_state || fail "冷启动也需要本地已有完整状态；先跑一次全量抓取"
