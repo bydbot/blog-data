@@ -1,139 +1,87 @@
 # Bangumi 追番数据爬取 & 博客集成
 
+数据流水线跑在 GitHub Actions（`.github/workflows/update.yml`，每天北京时间 02:00），
+产物直传 R2 桶 `blog-bgm`，站点运行时经 Pages Functions 读取。**仓库里不存数据**。
+
 ## 文件说明
 
 | 文件 | 作用 |
 |---|---|
-| `crawl_timeline.py` | 爬取看番时间线（增量，基于 `state.json`） |
-| `crawl_collections.py` | 爬取追番收藏列表（增量，基于 `updated_at` 对比） |
-| `convert_to_bangumi_data.mjs` | 把 `collections.json` 转成 Mizuki 的 `bangumi-data.json` |
-| `data/` | 爬取的数据（timeline_*.json, collections.json, state.json） |
-| `../update-bgm.sh` | 一键脚本：爬取 + 聚合 + 转换 + 构建 + 部署 |
+| `scripts/update-bgm.sh` | 一键流水线：抓时间线 → RSS 补漏 → 抓收藏 → 富化 → 聚合 |
+| `scripts/state-r2.sh` | 爬取状态在 R2 的存取（`pull` / `push` / `verify`）|
+| `scripts/crawl_timeline.py` | 爬看番时间线（增量：按 id 去重，最新的往下爬）|
+| `scripts/crawl_timeline_rss.py` | RSS 事件流补漏（p1 feed 停更时的兜底源）|
+| `scripts/crawl_collections.py` | 爬追番收藏（增量：遇到 `updated_at` 未变即停）|
+| `scripts/update-bangumi.mjs` | 富化收藏 → `bangumi-data.json` + 追番页精简版 |
+| `scripts/aggregate-bgm-timeline.mjs` | 聚合成日历索引 + 三源分页 |
 
-## 增量爬取原理
+## 状态存放：R2，不入 git
 
-### 时间线 `crawl_timeline.py`
-- 记录上次爬到的 `until_id`（在 `data/state.json`）
-- 下次从该 ID 往前爬（更新的记录）
-- `--max-pages 5` 限制每次最多爬 5 页（约 100 条），防止跑太久
+增量爬取要读上一轮的原始记录才能接着爬，这份状态曾是每日 `chore: auto update`
+提交的内容。现在整包存 R2 单对象：
 
-### 收藏 `crawl_collections.py`
-- API 返回按 `updated_at` 降序排列
-- 加载已有的 `collections.json`，建立 `sid → updated_at` 快照
-- 逐页爬取，遇到 `updated_at` 没变过的条目就停止
-- **无变更时只发 3 次 API 请求**（想看/看过/在看各一次），秒完
+```
+blog-bgm/state/current.tar.gz     当前状态（唯一权威副本）
+blog-bgm/state/previous.tar.gz    上一版，pull 时自动滚动，供回滚
+```
 
-## 使用方法
-
-### 首次使用
-
-1. **填配置**：编辑 `../update-bgm.sh`，填好 `USER_ID`、`BGM_TOKEN`、`PROXY` 等
-2. **装依赖**：
-   ```bash
-   cd bgm-timeline
-   python -m venv venv
-   source venv/bin/activate
-   pip install requests
-   ```
-3. **确认代理可用**：代理默认 `http://127.0.0.1:20171`
-4. **手动跑一次全量**：
-   ```bash
-   cd /home/sin/blog
-   ./update-bgm.sh
-   ```
-
-### 日常使用
+包内容：`crawl/data/`、`crawl/state/`、`data/bangumi-data.json`，压缩后约 3.3MB。
 
 ```bash
-# 只爬取 + 构建（不部署）
-./update-bgm.sh
-
-# 爬取 + 构建 + 部署到 VPS + 清 CDN 缓存
-./update-bgm.sh --deploy
-
-# 爬取 + 构建 + 部署 + git push 备份
-./update-bgm.sh --deploy --push
+# CI 里由 workflow 自动执行；本机手动跑流水线时先 pull、跑完 push
+bash crawl/scripts/state-r2.sh pull
+bash crawl/scripts/update-bgm.sh
+bash crawl/scripts/state-r2.sh push
 ```
 
-### 定时执行（cron）
+本机没有 aws CLI 时脚本自动回落 `npx wrangler r2 object ... --remote`（需先 `wrangler login`）。
+
+### 为什么这么做
+
+站点读的是 R2 里的聚合产物（`bgm-anime.json` / `bgm-timeline*`），构建完全不碰这份状态。
+所以每日提交除了留存增量记忆外没有任何作用，却让仓库持续增长、提交历史被自动提交淹没。
+
+### 护栏
+
+- `pull` 先校验 gzip 完整性，再滚动备份到 `previous.tar.gz`，然后才解包
+- `push` 拒绝不完整状态：缺目录、时间线记录 < 100 条、基线不是合法 JSON 数组，都会直接失败
+- 拉不到状态就中止 job，不会冷启动覆盖云端（确需冷启动置 `BGM_STATE_ALLOW_COLD_START=1`）
+- 状态回写失败只影响明天的新鲜度：抓取按 id / `updated_at` 去重，重跑幂等
+
+### 回滚
 
 ```bash
-crontab -e
+# 把上一版状态放回工作区
+#   （state-r2.sh 目前只拉 current；回滚时手动取 previous）
+npx wrangler r2 object get blog-bgm/state/previous.tar.gz --file /tmp/prev.tar.gz --remote
+tar -xzf /tmp/prev.tar.gz -C .
+bash crawl/scripts/state-r2.sh verify
+bash crawl/scripts/state-r2.sh push   # 需要时把它提升为 current
 ```
 
-加一行：
-```cron
-# 每天凌晨 3 点自动更新并部署，日志写到 bgm-cron.log
-0 3 * * * /home/sin/blog/update-bgm.sh --deploy >> /home/sin/blog/bgm-cron.log 2>&1
-```
+### 状态彻底丢失怎么办
 
-### 查看日志
+时间线可在本机全量重爬（注释掉 `update-bgm.sh` 里的 `--max-pages 5`，约 13 分钟），
+收藏与富化会重新拉取全量条目。已有 R2 产物不受影响，重爬只是重建增量基线。
 
-```bash
-# 查看定时任务日志
-tail -100 /home/sin/blog/bgm-cron.log
+## 增量原理
 
-# 手动测试跑一次
-cd /home/sin/blog
-./update-bgm.sh 2>&1 | tee /tmp/bgm-test.log
-```
+**时间线** — 从最新一页往回爬，整页 id 都已存在即停；`--max-pages 5` 限制单次耗时。
+**收藏** — API 按 `updated_at` 降序，遇到快照里未变的条目即停，无变更时仅 3 次请求。
+**富化** — `crawl/state/.bangumi-state.json` 存 `sid → updated_at`，未变则复用旧条目，不查详情。
 
-## 部署相关配置
+## 依赖
 
-`update-bgm.sh --deploy` 需要填的变量：
-
-| 变量 | 说明 | 示例 |
-|---|---|---|
-| `VPS_SSH` | VPS 的 SSH 地址 | `root@1.2.3.4` |
-| `VPS_WEB_ROOT` | VPS 上 Web 根目录 | `/var/www/blog` |
-| `CF_ZONE_ID` | Cloudflare Zone ID | 在 Cloudflare 仪表盘 → 概览 → 右侧栏 |
-| `CF_API_TOKEN` | Cloudflare API Token | 需要 Cache Purge 权限 |
-
-### 获取 Cloudflare Zone ID
-
-1. 登录 Cloudflare → 选你的域名
-2. 右侧栏 → API → Zone ID
-
-### 创建 Cloudflare API Token
-
-1. Cloudflare → My Profile → API Tokens → Create Token
-2. 选 "Custom token"
-3. Permissions: Zone → Cache Purge → Purge
-4. Zone Resources: Include → Specific zone → 你的域名
-
-## VPS 上的 Nginx 配置参考
-
-```nginx
-server {
-    listen 80;
-    server_name your-domain.com;
-    root /var/www/blog;
-    index index.html;
-
-    location / {
-        try_files $uri $uri/ =404;
-    }
-
-    # 静态资源长缓存
-    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|woff2?)$ {
-        expires 30d;
-        add_header Cache-Control "public, immutable";
-    }
-
-    # API JSON 短缓存
-    location /api/ {
-        expires 1h;
-        add_header Cache-Control "public";
-    }
-}
-```
+- Python 3.11 + `requests`（`update-bgm.sh` 会自动装）
+- Node 20
+- 抓取本身需要 `BGM_TOKEN`（海外直连可用）；本机抓取走代理 `BGM_PROXY=http://127.0.0.1:10808`
 
 ## 故障排查
 
 | 问题 | 解决 |
 |---|---|
-| 连接超时 | 检查代理是否开启 |
-| 429 Too Many Requests | 降低 `--rate`（默认 30 次/分钟） |
-| `state.json` 丢失 | 会从头爬，不影响已有数据（按 year 合并去重） |
-| collections 增量失效 | 删掉 `collections.json` 重新全量爬 |
-| VPS 构建内存不足 | 本脚本在本地构建，VPS 只需 Nginx |
+| 连接超时 | 本机加 `BGM_PROXY`；CI 里通常是上游临时故障，次日自动重试 |
+| 429 Too Many Requests | 降低 `--rate`（默认 30 次/分钟）|
+| `pull` 报 gzip 校验失败 | 下载截断，重跑即可；连续失败检查令牌与网络 |
+| `push` 报「疑似未完整抓取」 | 流水线没跑成，状态不完整——修好抓取再跑，别绕过护栏 |
+| collections 增量失效 | 从状态包里删掉 `collections.json` 后重跑，会全量重爬 |

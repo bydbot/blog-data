@@ -13,13 +13,25 @@ __pycache__/
 *.mp4
 *.mkv
 
+# ============================================================================
+# 爬取状态不入库（2026-11-28 起）：由 crawl/scripts/state-r2.sh 整包存 R2
+# 键 state/current.tar.gz，每次抓取前拉取、成功后回写。站点运行时读 R2 里的
+# 聚合产物，git 里不再需要这份状态，自动提交也随之消失。
+#   crawl/data/               时间线原始记录 + 收藏快照 + 增量游标
+#   crawl/state/              富化增量时间戳
+#   data/bangumi-data.json    富化基线（增量比对用）
+# 本机首次接管或回滚见 crawl/README.md。
+# ============================================================================
+/crawl/data/
+/crawl/state/
+/data/bangumi-data.json
+
 # Bangumi 时间线产物：不入库，由 update.yml 上传 R2 桶 blog-bgm
 # （站点运行时经 Pages Functions 读取，数据更新无需重建博客）
 /data/bgm-timeline.json
 /data/bgm-timeline/
 
 # 追番页运行时数据：生成产物，直传 R2 键 bgm-anime.json（同样不入库）。
-# 完整版 /data/bangumi-data.json 仍入库——增量流程要读它比对，保留作源数据。
 /data/bgm-anime.json
 
 # 旧分页镜像目录：产物改直传 R2 后不再生成（保留忽略，防历史文件被误入库）

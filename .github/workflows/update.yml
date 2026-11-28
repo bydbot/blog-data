@@ -6,8 +6,10 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+# 不再需要 contents: write——本 workflow 不写仓库。爬取状态整包存 R2
+# （键 state/current.tar.gz），站点运行时读 R2 聚合产物，与 git 无关。
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   update:
@@ -26,23 +28,32 @@ jobs:
         with:
           node-version: "20"
 
+      # 状态包承载增量爬取的记忆（时间线原始记录、收藏快照、富化时间戳）。
+      # 拉不到就中止：冷启动会从最近 5 页重新开始，且富化要把 1100 个条目
+      # 逐个重查，等于用不完整的状态覆盖一份完好的。
+      - name: Restore crawl state from R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: bash crawl/scripts/state-r2.sh pull
+
       - name: Run Bangumi pipeline
+        id: pipeline
         run: bash crawl/scripts/update-bgm.sh
         env:
           BGM_USER_ID: "588237"
           BGM_TOKEN: ${{ secrets.BGM_TOKEN }}
 
-      # 时间线产物不再入库：直传 R2 桶 blog-bgm。站点经 Pages Functions 运行时读取，
-      # 故时间线数据更新秒级生效、无需重建博客。
+      # 时间线产物直传 R2 桶 blog-bgm，站点经 Pages Functions 运行时读取，
+      # 故数据更新秒级生效、无需重建博客。
       # 需要 secrets：R2_ACCOUNT_ID / R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY
       # 注意：全程不枚举桶——aws s3 sync / rm --recursive 依赖桶级 ListObjects，
       # 遇到仅对象级权限的令牌会 AccessDenied。上传用单对象显式 cp（PutObject），
       # 清理先 GetObject 读回远端 manifest 算出失效分页，再逐键 delete-object
       # （DeleteObject，对不存在的键返回成功，天然幂等）。
       - name: Upload timeline data to R2
-        # 上传失败不阻断后续数据入库步骤：git 数据提交是迁移前就有的契约，
-        # R2 短暂滞后只影响时间线新鲜度（站点仍可读旧数据），告警可见即可。
-        continue-on-error: true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -101,17 +112,15 @@ jobs:
           fi
           echo "R2 同步完成"
 
-      - name: Commit and push if changed
-        # 追番页数据与时间线都已运行时读 R2，博客构建不再依赖 bangumi 数据，
-        # 所以本 workflow 不再调用部署钩子；只有博客仓库自身提交才触发构建。
-        run: |
-          git config user.name "bydbot"
-          git config user.email "111557429+bydbot@users.noreply.github.com"
-          git add -A crawl data
-          if git diff --cached --quiet; then
-            echo "无数据变更，跳过 push"
-          else
-            git commit -m "chore: auto update bangumi data $(date -u +%Y-%m-%d)"
-            git push
-            echo "数据已入库；站点运行时读 R2，无需重建"
-          fi
+      # 最后回写状态：产物已上线后才算本轮完成。若此处失败，明天从昨天
+      # 的状态重跑，抓取是幂等的（按 id / updated_at 去重），不会重复入库。
+      # 抓取本身失败则不回写——半截状态不如旧状态可靠，宁可重跑。
+      # 但产物上传失败仍会回写：原始记录已落盘，聚合产物下次重算即可。
+      - name: Save crawl state to R2
+        if: always() && steps.pipeline.outcome == 'success'
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+        run: bash crawl/scripts/state-r2.sh push
