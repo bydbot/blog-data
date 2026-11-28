@@ -1,15 +1,39 @@
 [
   {
+    "sid": 622288,
+    "name": "FX戦士くるみちゃん",
+    "name_cn": "FX战士久留美",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+    "type": 3,
+    "rate": 0,
+    "ep_status": 8,
+    "eps": 12,
+    "comment": "",
+    "updated_at": "2026-11-28T00:48:41+08:00"
+  },
+  {
+    "sid": 638497,
+    "name": "正反対な君と僕 第2期",
+    "name_cn": "相反的你和我 第二季",
+    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+    "type": 2,
+    "rate": 8,
+    "ep_status": 13,
+    "eps": 13,
+    "comment": "陪伴感有没有懂的，就像玩完了一部jrpg",
+    "updated_at": "2026-11-28T00:09:04+08:00"
+  },
+  {
     "sid": 530725,
     "name": "BLEACH 千年血戦篇-禍進譚-",
     "name_cn": "死神 千年血战篇-祸进谭-",
     "img": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f9/530725_CAqWC.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 8,
+    "type": 2,
+    "rate": 7,
+    "ep_status": 10,
     "eps": 10,
     "comment": "",
-    "updated_at": "2026-11-22T00:05:18+08:00"
+    "updated_at": "2026-11-27T00:30:54+08:00"
   },
   {
     "sid": 606263,
@@ -22,30 +46,6 @@
     "eps": 13,
     "comment": "",
     "updated_at": "2026-11-19T22:32:10+08:00"
-  },
-  {
-    "sid": 638497,
-    "name": "正反対な君と僕 第2期",
-    "name_cn": "相反的你和我 第二季",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 12,
-    "eps": 13,
-    "comment": "",
-    "updated_at": "2026-11-19T00:07:33+08:00"
-  },
-  {
-    "sid": 622288,
-    "name": "FX戦士くるみちゃん",
-    "name_cn": "FX战士久留美",
-    "img": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
-    "type": 3,
-    "rate": 0,
-    "ep_status": 7,
-    "eps": 12,
-    "comment": "",
-    "updated_at": "2026-11-18T23:18:42+08:00"
   },
   {
     "sid": 517106,

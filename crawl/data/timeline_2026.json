@@ -1,5 +1,240 @@
 [
   {
+    "id": 74880608,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1741645,
+            "subjectID": 622288,
+            "sort": 8,
+            "type": 0,
+            "disc": 0,
+            "name": "金融緩和は狂乱パーティ♪",
+            "nameCN": "货币宽松的狂欢派对",
+            "duration": "00:23:45",
+            "airdate": "2026-11-19",
+            "comment": 126,
+            "desc": "日银追加货币宽松措施，带动美元兑日圆汇率急速飙升。持有做多部位的久留美，想进一步追求更多获利。相反地，坚持做空的芽吹却赔光了所有资金。走投无路的她，用信用卡存入30万日圆，再次做空美元兑日圆，决心一搏！然而，「只要不断借钱借到赢就好」的念头，却逐渐占据了她的心…！？\n\n日銀の追加金融緩和をきっかけに、ドル円相場は急騰。ロングを持つくるみは、さらなる利益を狙っていく。反対に、ショートに固執した芽吹は、資金をすべて失ってしまう。追い詰められた彼女は、クレジットカードで30万円を入金し、再びドル円売りで勝負へ！　だが、「勝つまで借金すればいい」という考えに取り憑かれていき……!?"
+          },
+          "subject": {
+            "id": 622288,
+            "name": "FX戦士くるみちゃん",
+            "nameCN": "FX战士久留美",
+            "type": 2,
+            "series": false,
+            "info": "12话 / 2026年10月1日 / 小川優樹 / でむにゃん・炭酸だいすき（「コミックフラッパー」連載） / 植田和幸",
+            "metaTags": [
+              "TV",
+              "日本",
+              "漫画改",
+              "萌系",
+              "青年向"
+            ],
+            "rating": {
+              "rank": 3657,
+              "count": [
+                17,
+                5,
+                13,
+                34,
+                158,
+                654,
+                1286,
+                374,
+                67,
+                52
+              ],
+              "score": 6.78,
+              "total": 2660
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/d3/99/622288_nmbC3.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/d3/99/622288_nmbC3.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795798121
+  },
+  {
+    "id": 74879193,
+    "uid": 588237,
+    "cat": 3,
+    "type": 6,
+    "memo": {
+      "subject": [
+        {
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 171,
+              "count": [
+                8,
+                8,
+                8,
+                6,
+                46,
+                164,
+                851,
+                2430,
+                1257,
+                413
+              ],
+              "score": 8.12,
+              "total": 5191
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          },
+          "comment": "陪伴感有没有懂的，就像玩完了一部jrpg",
+          "rate": 8,
+          "collectID": 52675746
+        }
+      ]
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795795744
+  },
+  {
+    "id": 74879149,
+    "uid": 588237,
+    "cat": 4,
+    "type": 2,
+    "memo": {
+      "progress": {
+        "single": {
+          "episode": {
+            "id": 1717851,
+            "subjectID": 638497,
+            "sort": 25,
+            "type": 0,
+            "disc": 0,
+            "name": "正反対な君と僕",
+            "nameCN": "相反的你和我",
+            "duration": "00:23:51",
+            "airdate": "2026-10-04",
+            "comment": 138,
+            "desc": "高校2年の春、鈴木の賑やかさに戸惑いながらも、彼女との交流が少しずつ日常になっていった日々を思い出す谷。 鈴木の存在が特別になったのは「一緒に帰ろう」と誘われたあの日からだったのか、それとももう少し前から気持ちが傾いていたのか…。 そして新生活の春を迎え、鈴木と谷はついに遠距離恋愛となる。桜の花びらの舞う青空の下、涙をこらえながら、谷の乗る電車を見送る鈴木。 環境は変化しつつも、季節ごとの小さな思い出を大切に重ねて、想いを確かめ合っていく。 それぞれの道を歩む仲間たちと、いつまでも笑い合いながら……。"
+          },
+          "subject": {
+            "id": 638497,
+            "name": "正反対な君と僕 第2期",
+            "nameCN": "相反的你和我 第二季",
+            "type": 2,
+            "series": false,
+            "info": "13话 / 2026年7月5日 / 長友孝和 / 阿賀沢紅茶（集英社 ジャンプ コミックス刊） / みやこまこ",
+            "metaTags": [
+              "校园",
+              "TV",
+              "恋爱",
+              "日本",
+              "漫画改",
+              "少年向"
+            ],
+            "rating": {
+              "rank": 171,
+              "count": [
+                8,
+                8,
+                8,
+                6,
+                46,
+                164,
+                851,
+                2430,
+                1257,
+                413
+              ],
+              "score": 8.12,
+              "total": 5191
+            },
+            "locked": false,
+            "nsfw": false,
+            "platform": {
+              "id": 1,
+              "type": "TV",
+              "typeCN": "TV",
+              "alias": "tv",
+              "order": 0,
+              "enableHeader": true,
+              "wikiTpl": "TVAnime"
+            },
+            "images": {
+              "large": "https://lain.bgm.tv/pic/cover/l/fa/9b/638497_85455.jpg",
+              "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg",
+              "medium": "https://lain.bgm.tv/r/200/pic/cover/l/fa/9b/638497_85455.jpg",
+              "small": "https://lain.bgm.tv/r/100/pic/cover/l/fa/9b/638497_85455.jpg",
+              "grid": "https://lain.bgm.tv/r/100x100/pic/cover/l/fa/9b/638497_85455.jpg"
+            }
+          }
+        }
+      }
+    },
+    "batch": false,
+    "source": {
+      "name": "web"
+    },
+    "replies": 0,
+    "createdAt": 1795795668
+  },
+  {
     "id": 74853877,
     "uid": 588237,
     "cat": 3,
