@@ -114,14 +114,19 @@ r2_put() {  # r2_put <src> <key>
 # 冷启动（时间线一条记录都没有）时不 push：那说明流水线没跑成，
 # 用它覆盖云端会把几个月的历史记录一次性抹掉，只能靠全量重爬找回。
 count_timeline_records() {
-    local total=0 f n
-    for f in "$ROOT_DIR"/crawl/data/timeline_*.json; do
-        [ -e "$f" ] || continue
-        # grep -c 在零匹配时也会打印 0 并返回 1，故用 || true 保留那个 0
-        n=$(grep -c '"id"[[:space:]]*:' "$f" 2>/dev/null || true)
-        total=$((total + ${n:-0}))
-    done
-    printf '%s' "$total"
+    # 必须按顶层数组长度数：记录里还嵌套着 subject / episode 的 id，
+    # 按 "id" 字面量计数会翻三倍（实测 21019 vs 真实 7626）
+    node -e '
+        const fs = require("fs");
+        const dir = process.argv[1];
+        let total = 0;
+        for (const f of fs.readdirSync(dir)) {
+            if (!/^timeline_\d+\.json$/.test(f)) continue;
+            const list = JSON.parse(fs.readFileSync(`${dir}/${f}`, "utf8"));
+            if (Array.isArray(list)) total += list.length;
+        }
+        console.log(total);
+    ' "$ROOT_DIR/crawl/data" 2>/dev/null
 }
 
 verify_local_state() {
