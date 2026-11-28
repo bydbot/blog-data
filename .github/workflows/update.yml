@@ -11,9 +11,17 @@ on:
 permissions:
   contents: read
 
+# 两个并发 run 会各自 pull 同一份状态、再各自 push，后写的赢——先写那份的
+# 增量进度就丢了（不会丢数据，但白抓一轮）。排队执行且不取消进行中的。
+concurrency:
+  group: bgm-data-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 正常 2~3 分钟；卡住的 run 会一直占着上面的并发组，给个上限
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
